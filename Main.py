@@ -76,6 +76,10 @@ def start_ovpn_docker(username, password, service, route):
             "configPath": "/home/NetPlatform/configurations/" + route
         }
     }
+    print("username is "+username)
+    print("password is "+password)
+    print("configPath is "+"/home/NetPlatform/configurations/" + route)
+    input("input to continue")
     with open("/home/NetPlatform/temp/" + docker_name + "/configurations/task.json", "w") as f:
         json.dump(task_dict, f)
     docker_controller = DockerController(docker_name, "biganabc/client:005")
