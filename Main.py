@@ -67,7 +67,7 @@ def readConfigFile():
 def start_ovpn_docker(username, password, service, route):
     docker_name = "ovpn_" + service + "_" + route + "_" + str(int(time.time()))
     dir_initial(docker_name)
-    open_vpn_config_insert(docker_name, "PureVPN", "ae2-ovpn-tcp.ovpn")
+    open_vpn_config_insert(docker_name, service, route)
     task_dict = {
         "VPNType": "openVPN",
         "openVPNconfig": {
@@ -76,9 +76,9 @@ def start_ovpn_docker(username, password, service, route):
             "configPath": "/home/NetPlatform/configurations/" + route
         }
     }
-    print("username is "+username)
-    print("password is "+password)
-    print("configPath is "+"/home/NetPlatform/configurations/" + route)
+    print("username is " + username)
+    print("password is " + password)
+    print("configPath is " + "/home/NetPlatform/configurations/" + route)
     input("input to continue")
     with open("/home/NetPlatform/temp/" + docker_name + "/configurations/task.json", "w") as f:
         json.dump(task_dict, f)
@@ -87,6 +87,14 @@ def start_ovpn_docker(username, password, service, route):
     print("route " + route + " start!")
     docker_controller.join()
     print("route " + route + " over")
+
+    with open("/home/NetPlatform/all_results/" + docker_name + "/ip_info.json") as f:
+        ip_dict = json.load(f)
+    ip_str = ip_dict["ip_str"]
+    print("IP : " + ip_str)
+    errors = ip_dict["errors"]
+    if errors != {}:
+        print("error : " + str(errors))
 
 
 if __name__ == "__main__":
