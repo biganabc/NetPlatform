@@ -32,14 +32,15 @@ class DockerController(threading.Thread):
         print(command)
         os.system(command)
         print("docker is over")
+        os.system(
+            "docker rm " + self.docker_name
+        )
         os.makedirs("/home/NetPlatform/all_results/" + self.docker_name)
         shutil.move("/home/NetPlatform/temp/" + self.docker_name + "/temp/ip_info.json",
                     "/home/NetPlatform/all_results/" + self.docker_name + "/ip_info.json")
         shutil.move("/home/NetPlatform/temp/" + self.docker_name + "/result",
                     "/home/NetPlatform/all_results/" + self.docker_name + "/result")
-        os.system(
-            "docker rm " + self.docker_name
-        )
+        shutil.rmtree("/home/NetPlatform/temp/" + self.docker_name)
 
 
 if __name__ == "__main__":
