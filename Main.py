@@ -3,6 +3,7 @@ import sys
 import shutil
 import json
 import threading
+import time
 
 
 def dir_initial(docker_name):
@@ -43,20 +44,53 @@ class DockerController(threading.Thread):
         shutil.rmtree("/home/NetPlatform/temp/" + self.docker_name)
 
 
-if __name__ == "__main__":
-    DOCKER_NAME = sys.argv[1]
-    dir_initial(DOCKER_NAME)
-    open_vpn_config_insert(DOCKER_NAME, "PureVPN", "ae2-ovpn-tcp.ovpn")
+def readConfigFile():
+    with open("Config.json", "r") as f:
+        config_dict = json.load(f)
+    VPN_dict = {
+        "openVPN": {}
+    }
+    for open_vpn_service in os.listdir("/home/NetPlatform/configurations/openVPN"):
+        VPN_dict["openVPN"][open_vpn_service] = {}
+        with open("/home/NetPlatform/configurations/openVPN/" + open_vpn_service + "/user_information.json", "r") as f:
+            user_information = json.load(f)
+        for key_ in user_information:
+            VPN_dict["openVPN"][open_vpn_service][key_] = user_information[key_]
+        VPN_dict["openVPN"][open_vpn_service]["routes"] = []
+        for ovpn_file_name in os.listdir(
+                "/home/NetPlatform/configurations/openVPN/" + open_vpn_service + "/ovpn_files"):
+            assert ".ovpn" == ovpn_file_name[-5:]
+            VPN_dict["openVPN"][open_vpn_service]["routes"].append(ovpn_file_name)
+    return config_dict, VPN_dict
+
+
+def start_ovpn_docker(username, password, service, route):
+    docker_name = "ovpn_" + service + "_" + route + "_" + str(int(time.time()))
+    dir_initial(docker_name)
+    open_vpn_config_insert(docker_name, "PureVPN", "ae2-ovpn-tcp.ovpn")
     task_dict = {
         "VPNType": "openVPN",
         "openVPNconfig": {
-            "username": "purevpn0s11829139",
-            "password": "Urom688DosIYZM",
-            "configPath": "/home/NetPlatform/configurations/ae2-ovpn-tcp.ovpn"
+            "username": username,
+            "password": password,
+            "configPath": "/home/NetPlatform/configurations/" + route
         }
     }
-
-    with open("/home/NetPlatform/temp/" + DOCKER_NAME + "/configurations/task.json", "w") as f:
+    with open("/home/NetPlatform/temp/" + docker_name + "/configurations/task.json", "w") as f:
         json.dump(task_dict, f)
-    print("file initial over")
-    DockerController(DOCKER_NAME, "biganabc/client:005").start()
+    docker_controller = DockerController(docker_name, "biganabc/client:005")
+    docker_controller.start()
+    print("route " + route + " start!")
+    docker_controller.join()
+    print("route " + route + " over")
+
+
+if __name__ == "__main__":
+    config_dict, VPN_dict = readConfigFile()
+    for _ in range(config_dict["openVPN"]["global_epoch"]):
+        for service in VPN_dict["openVPN"]:
+            username = VPN_dict["openVPN"][service]["username"]
+            password = VPN_dict["openVPN"][service]["password"]
+            ovpn_list = VPN_dict["openVPN"][service]["routes"]
+            for route in ovpn_list:
+                start_ovpn_docker(username, password, service, route)

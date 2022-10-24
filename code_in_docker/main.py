@@ -51,6 +51,11 @@ class OpenVPNThread(threading.Thread):
             self.error_log = str(ex)
 
 
+class L2tpThread(threading.Thread):
+    def __init__(self):
+        super().__init__()
+
+
 if __name__ == "__main__":
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
@@ -79,4 +84,3 @@ if __name__ == "__main__":
         exit(-1)
     os.system("chmod +x /home/NetPlatform/scripts/main")
     os.system("/home/NetPlatform/scripts/main > /home/NetPlatform/temp/log")
-

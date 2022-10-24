@@ -1,8 +1,11 @@
 {
-         "VPNType":"openVPN",
-         "openVPNconfig":{
-             "username":"xxx",
-             "password":"xxx",
-             "configPath":"/home/NetPlatform/configurations/wewj34t32.ovpn"
-         }
+	"global_epoch":0,
+	"openVPN":{
+		"global_epoch":1,
+		"additional_epoch":{}
+	},
+	"l2tp":{
+		"global_epoch":0,
+		"additional_epoch":{}
+	}
 }
