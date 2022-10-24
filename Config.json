@@ -1,0 +1,8 @@
+{
+         "VPNType":"openVPN",
+         "openVPNconfig":{
+             "username":"xxx",
+             "password":"xxx",
+             "configPath":"/home/NetPlatform/configurations/wewj34t32.ovpn"
+         }
+}
