@@ -64,12 +64,12 @@ if __name__ == "__main__":
         self_ip_str = "0.0.0.0"
     all_results = {
         "202.112.51.108": [],
-        "39.156.66.10": [],
-        "106.11.172.9": [],
-        "114.114.114.114": [],
-        "8.8.8.8": []
+        # "39.156.66.10": [],
+        # "106.11.172.9": [],
+        # "114.114.114.114": [],
+        # "8.8.8.8": []
     }
-    for i in range(5):
+    for i in range(1):
         for ip_str in all_results:
             send_packet, receive_packet = queryDNS(ip_str,
                                                    self_ip_str + "." + ip_str + "." + str(
@@ -89,6 +89,7 @@ if __name__ == "__main__":
             else:
                 receive_p_str = ""
             all_results[ip_str].append([send_p_str, receive_p_str])
-
+    query_name = self_ip_str + "." + "202.112.51.108" + "." + str(time.time()) + "." + "0" + ".queryrecord.com"
+    os.system("dig "+query_name + " @202.112.51.108")
     with open("/home/NetPlatform/result/my_packets.json", "w") as f:
         json.dump(all_results, f)
