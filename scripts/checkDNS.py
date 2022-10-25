@@ -14,12 +14,17 @@ def queryDNS(ip_dst, qname):
     c.ar = DNSRROPT(0)
     p = a / b / c
     DNSRROPT.fields_desc = old_list
-    try:
-        ls(p)
-        result = sr(p, verbose=0, timeout=2)
-    except Exception as ex:
-        return str(ex)
-    return result
+    print("查询报文:")
+    ls(p)
+    result = sr(p, verbose=0, timeout=2)
+    if len(result[0]) == 0:
+        print("无应答")
+        return None
+    IP_ = result[0][0].answer["IP"]
+    print("应答报文:")
+    ls(IP_)
+
+    return IP_
 
 
 if __name__ == "__main__":
