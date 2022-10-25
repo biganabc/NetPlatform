@@ -47,7 +47,7 @@ def queryDNS(ip_dst, qname):
     DNSRROPT.fields_desc = old_list
     print("查询报文:")
     ls(p)
-    result = sr(p, verbose=0, timeout=2)
+    result = srp(p, verbose=0, timeout=2)
     if len(result[0]) == 0:
         print("无应答")
         return p, ""
