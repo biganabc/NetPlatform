@@ -1,1 +1,1 @@
-dig baidu.com > /home/NetPlatform/result/dig_log
+python3 /home/NetPlatform/scripts/checkDNS.py > /home/NetPlatform/result/checkDNS_log.txt
