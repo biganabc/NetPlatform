@@ -35,7 +35,7 @@ def str2packet(packet_str):
 
 def queryDNS(ip_dst, qname):
     a = IP(dst=ip_dst)
-    b = UDP(sport=1666, dport=53)
+    b = UDP(dport=53)
     c = DNS(qr=0, opcode=0, tc=0, rd=1, qdcount=1, ancount=0, nscount=0, arcount=1)
     c.qd = DNSQR(qname=qname, qtype=1, qclass=1)
     old_list = DNSRROPT.fields_desc
