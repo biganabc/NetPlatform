@@ -3,6 +3,8 @@ import os
 import time
 import json
 import requests
+import base64
+
 
 def get_self_ip():
     s = requests.session()
