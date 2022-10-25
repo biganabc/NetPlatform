@@ -2,7 +2,7 @@ from scapy.all import *
 import os
 import time
 import json
-
+import requests
 
 def get_self_ip():
     s = requests.session()
