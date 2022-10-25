@@ -79,5 +79,15 @@ if __name__ == "__main__":
             else:
                 receive_p_str = ""
             all_results[ip_str].append([send_p_str, receive_p_str])
+            if ip_str == "202.112.51.108":
+                continue
+            send_packet, receive_packet = queryDNS(ip_str, "baidu.com")
+            send_p_str = packet2str(send_packet)
+            if receive_packet != "":
+                receive_p_str = packet2str(receive_packet)
+            else:
+                receive_p_str = ""
+            all_results[ip_str].append([send_p_str, receive_p_str])
+
     with open("/home/NetPlatform/result/my_packets.json", "w") as f:
         json.dump(all_results, f)
