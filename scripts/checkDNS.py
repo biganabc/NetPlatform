@@ -13,6 +13,7 @@ def get_self_ip():
         response = s.get("http://httpbin.org/get", timeout=10)
         result = json.loads(response.text)
     except Exception as ex:
+        print(ex)
         return None
     if "origin" not in result:
         return None
