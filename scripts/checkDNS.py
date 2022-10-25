@@ -43,7 +43,7 @@ def queryDNS(ip_dst, qname):
     else:
         print("应答报文")
         ls(result)
-    return result
+    return p, result
 
 
 if __name__ == "__main__":
@@ -63,7 +63,7 @@ if __name__ == "__main__":
                                                    self_ip_str + "." + ip_str + "." + str(
                                                        time.time()) + "." + str(i) + ".queryrecord.com")
             send_p_str = packet2str(send_packet)
-            if receive_packet != "":
+            if receive_packet is not None:
                 receive_p_str = packet2str(receive_packet)
             else:
                 receive_p_str = ""
