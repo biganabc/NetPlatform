@@ -34,28 +34,16 @@ def str2packet(packet_str):
 
 
 def queryDNS(ip_dst, qname):
-    a = IP(dst=ip_dst)
-    b = UDP(dport=53)
-    c = DNS(qr=0, opcode=0, tc=0, rd=1, qdcount=1, ancount=0, nscount=0, arcount=1)
-    c.qd = DNSQR(qname=qname, qtype=1, qclass=1)
-    old_list = DNSRROPT.fields_desc
-    new_list = [_ for _ in old_list]
-    new_list[5] = BitEnumField("z", 0, 16, {0: "D0"})
-    DNSRROPT.fields_desc = new_list
-    c.ar = DNSRROPT(0)
-    p = a / b / c
-    DNSRROPT.fields_desc = old_list
+    p = IP(dst=ip_dst) / UDP(sport=RandShort(), dport=53) / DNS(rd=1, qd=DNSQR(qname=qname, qtype="A"))
     print("查询报文:")
     ls(p)
-    result = sr(p, verbose=0, timeout=2)
-    if len(result[0]) == 0:
+    result = sr1(p, verbose=0, timeout=3)
+    if result is None:
         print("无应答")
-        return p, ""
-    IP_ = result[0][0].answer["IP"]
-    print("应答报文:")
-    ls(IP_)
-
-    return p, IP_
+    else:
+        print("应答报文")
+        ls(result)
+    return result
 
 
 if __name__ == "__main__":
@@ -64,12 +52,12 @@ if __name__ == "__main__":
         self_ip_str = "0.0.0.0"
     all_results = {
         "202.112.51.108": [],
-        # "39.156.66.10": [],
-        # "106.11.172.9": [],
-        # "114.114.114.114": [],
-        # "8.8.8.8": []
+        "39.156.66.10": [],
+        "106.11.172.9": [],
+        "114.114.114.114": [],
+        "8.8.8.8": []
     }
-    for i in range(1):
+    for i in range(5):
         for ip_str in all_results:
             send_packet, receive_packet = queryDNS(ip_str,
                                                    self_ip_str + "." + ip_str + "." + str(
@@ -89,7 +77,7 @@ if __name__ == "__main__":
             else:
                 receive_p_str = ""
             all_results[ip_str].append([send_p_str, receive_p_str])
-    query_name = self_ip_str + "." + "202.112.51.108" + "." + str(time.time()) + "." + "0" + ".queryrecord.com"
-    os.system("dig "+query_name + " @202.112.51.108")
+    # query_name = self_ip_str + "." + "202.112.51.108" + "." + str(time.time()) + "." + "0" + ".queryrecord.com"
+    # os.system("dig " + query_name + " @202.112.51.108")
     with open("/home/NetPlatform/result/my_packets.json", "w") as f:
         json.dump(all_results, f)
