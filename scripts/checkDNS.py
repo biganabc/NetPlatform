@@ -72,7 +72,7 @@ if __name__ == "__main__":
                 continue
             send_packet, receive_packet = queryDNS(ip_str, "baidu.com")
             send_p_str = packet2str(send_packet)
-            if receive_packet != "":
+            if receive_packet is not None:
                 receive_p_str = packet2str(receive_packet)
             else:
                 receive_p_str = ""
