@@ -34,7 +34,7 @@ def str2packet(packet_str):
 
 def queryDNS(ip_dst, qname):
     a = IP(dst=ip_dst)
-    b = UDP(dport=53)
+    b = UDP(sport=666, dport=53)
     c = DNS(qr=0, opcode=0, tc=0, rd=1, qdcount=1, ancount=0, nscount=0, arcount=1)
     c.qd = DNSQR(qname=qname, qtype=1, qclass=1)
     old_list = DNSRROPT.fields_desc
@@ -61,12 +61,23 @@ if __name__ == "__main__":
     self_ip_str = get_self_ip()
     if self_ip_str is None:
         self_ip_str = "0.0.0.0"
-    send_packet, receive_packet = queryDNS("202.112.51.108",
-                                           self_ip_str + "." + str(int(time.time())) + ".queryrecord.com")
-    send_p_str = packet2str(send_packet)
-    if receive_packet != "":
-        receive_p_str = packet2str(receive_packet)
-    else:
-        receive_p_str = ""
-    with open("my_packets.json", "w") as f:
-        json.dump([send_p_str, receive_p_str], f)
+    all_results = {
+        "202.112.51.108": [],
+        "39.156.66.10": [],
+        "106.11.172.9": [],
+        "114.114.114.114": [],
+        "8.8.8.8": []
+    }
+    for i in range(5):
+        for ip_str in all_results:
+            send_packet, receive_packet = queryDNS(ip_str,
+                                                   self_ip_str + "." + ip_str + "." + str(
+                                                       time.time()) + "." + str(i) + ".queryrecord.com")
+            send_p_str = packet2str(send_packet)
+            if receive_packet != "":
+                receive_p_str = packet2str(receive_packet)
+            else:
+                receive_p_str = ""
+            all_results[ip_str].append([send_p_str, receive_p_str])
+    with open("/home/NetPlatform/result/my_packets.json", "w") as f:
+        json.dump(all_results, f)
