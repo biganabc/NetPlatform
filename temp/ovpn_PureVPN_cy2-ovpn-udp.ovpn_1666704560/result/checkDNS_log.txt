@@ -1,0 +1,45 @@
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.10 <<>> 185.191.206.207.202.112.51.108.1666704568.4960284.0.queryrecord.com @202.112.51.108
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+查询报文:
+version    : BitField  (4 bits)                  = 4               ('4')
+ihl        : BitField  (4 bits)                  = None            ('None')
+tos        : XByteField                          = 0               ('0')
+len        : ShortField                          = None            ('None')
+id         : ShortField                          = 1               ('1')
+flags      : FlagsField                          = <Flag 0 ()>     ('<Flag 0 ()>')
+frag       : BitField  (13 bits)                 = 0               ('0')
+ttl        : ByteField                           = 64              ('64')
+proto      : ByteEnumField                       = 17              ('0')
+chksum     : XShortField                         = None            ('None')
+src        : SourceIPField                       = '10.100.3.34'   ('None')
+dst        : DestIPField                         = '202.112.51.108' ('None')
+options    : PacketListField                     = []              ('[]')
+--
+sport      : ShortEnumField                      = 1666            ('53')
+dport      : ShortEnumField                      = 53              ('53')
+len        : ShortField                          = None            ('None')
+chksum     : XShortField                         = None            ('None')
+--
+length     : ShortField (Cond)                   = None            ('None')
+id         : ShortField                          = 0               ('0')
+qr         : BitField  (1 bit)                   = 0               ('0')
+opcode     : BitEnumField                        = 0               ('0')
+aa         : BitField  (1 bit)                   = 0               ('0')
+tc         : BitField  (1 bit)                   = 0               ('0')
+rd         : BitField  (1 bit)                   = 1               ('1')
+ra         : BitField  (1 bit)                   = 0               ('0')
+z          : BitField  (1 bit)                   = 0               ('0')
+ad         : BitField  (1 bit)                   = 0               ('0')
+cd         : BitField  (1 bit)                   = 0               ('0')
+rcode      : BitEnumField                        = 0               ('0')
+qdcount    : DNSRRCountField                     = 1               ('None')
+ancount    : DNSRRCountField                     = 0               ('None')
+nscount    : DNSRRCountField                     = 0               ('None')
+arcount    : DNSRRCountField                     = 1               ('None')
+qd         : DNSQRField                          = <DNSQR  qname='185.191.206.207.202.112.51.108.1666704566.4869366.0.queryrecord.com' qtype=A qclass=IN |> ('None')
+an         : DNSRRField                          = None            ('None')
+ns         : DNSRRField                          = None            ('None')
+ar         : DNSRRField                          = <DNSRROPT  |>   ('None')
+无应答
