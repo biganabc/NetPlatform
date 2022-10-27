@@ -51,7 +51,7 @@ def queryDNS(ip_dst, qname):
 def get8888IPlist():
     publicdns_url = 'https://www.gstatic.com/ipranges/publicdns.json'
     try:
-        s = urllib.request.urlopen(url).read()
+        s = urllib.request.urlopen(publicdns_url).read()
         publicdns_json = json.loads(s)
     except urllib.error.HTTPError:
         print('Invalid HTTP response from %s' % url)
