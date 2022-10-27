@@ -1,0 +1,2308 @@
+nohup: ignoring input
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666828736' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666828736:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666828736
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666828815' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666828815:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666828815
+route usny2-ovpn-udp.ovpn over
+IP : 143.244.47.42
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666828891' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666828891:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666828891
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666828991' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666828991:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666828991
+route tw2-ovpn-tcp.ovpn over
+IP : 116.206.73.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ru2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666829117' -v /home/NetPlatform/temp/ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666829117:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ru2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666829117
+route ru2-ovpn-udp.ovpn over
+IP : 92.38.153.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666829211' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666829211:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666829211
+route mx2-ovpn-udp.ovpn over
+IP : 104.243.245.250
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666829300' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666829300:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666829300
+route vg2-ovpn-udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f4398c5e2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vg2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2 UDP link local: (not bound)\\r\\nThu Oct 27 00:08:21 2022 UDP link remote: [AF_INET]104.243.253.6:53\\r\\n'\nbefore (last 100 chars): b'2 UDP link local: (not bound)\\r\\nThu Oct 27 00:08:21 2022 UDP link remote: [AF_INET]104.243.253.6:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666829332' -v /home/NetPlatform/temp/ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666829332:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666829332
+route pa-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f540c1952e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b't 27 00:08:53 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.67:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b't 27 00:08:53 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.67:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bo2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666829364' -v /home/NetPlatform/temp/ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666829364:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bo2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666829364
+route bo2-ovpn-udp.ovpn over
+IP : 172.111.241.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666829439' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666829439:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666829439
+route lv2-ovpn-tcp.ovpn over
+IP : 213.21.215.189
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/uk1877.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666829538' -v /home/NetPlatform/temp/ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666829538:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route uk1877.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666829538
+route uk1877.nordvpn.com.udp.ovpn over
+IP : 89.238.191.213
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nz82.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666829626' -v /home/NetPlatform/temp/ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666829626:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nz82.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666829626
+route nz82.nordvpn.com.tcp.ovpn over
+IP : 103.62.49.226
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666829720' -v /home/NetPlatform/temp/ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666829720:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8630.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666829720
+route us8630.nordvpn.com.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f05376bc2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn']\nbuffer (last 100 chars): b'27 00:15:21 2022 Attempting to establish TCP connection with [AF_INET]192.145.80.51:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b'27 00:15:21 2022 Attempting to establish TCP connection with [AF_INET]192.145.80.51:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/de682.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666829752' -v /home/NetPlatform/temp/ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666829752:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de682.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666829752
+route de682.nordvpn.com.tcp.ovpn over
+IP : 169.150.201.163
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us9857.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666829858' -v /home/NetPlatform/temp/ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666829858:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us9857.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666829858
+route us9857.nordvpn.com.tcp.ovpn over
+IP : 156.146.47.212
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8112.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666829943' -v /home/NetPlatform/temp/ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666829943:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8112.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666829943
+route us8112.nordvpn.com.tcp.ovpn over
+IP : 185.247.70.141
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8786.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666830031' -v /home/NetPlatform/temp/ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666830031:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8786.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666830031
+route us8786.nordvpn.com.udp.ovpn over
+IP : 94.140.11.221
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/jp553.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666830116' -v /home/NetPlatform/temp/ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666830116:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp553.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666830116
+route jp553.nordvpn.com.tcp.ovpn over
+IP : 5.181.235.38
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/tw178.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666830200' -v /home/NetPlatform/temp/ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666830200:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw178.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666830200
+route tw178.nordvpn.com.tcp.ovpn over
+IP : 185.213.82.129
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nl409.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666830289' -v /home/NetPlatform/temp/ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666830289:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl409.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666830289
+route nl409.nordvpn.com.udp.ovpn over
+IP : 185.229.58.129
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666830391' -v /home/NetPlatform/temp/ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666830391:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us-free-20.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666830391
+route us-free-20.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f2081d812e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666830393' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666830393:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-02.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666830393
+route node-se-02.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f71cfaac2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666830394' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666830394:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-14.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666830394
+route node-uk-14.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f6850b452e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666830396' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666830396:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-05.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666830396
+route node-se-05.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f56b26f02e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666830398' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666830398:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-my-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666830398
+route node-my-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fad1ec382e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666830400' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666830400:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-10.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666830400
+route node-uk-10.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f4a105632e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666830401' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666830401:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-rs-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666830401
+route node-rs-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f57547042e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666830403' -v /home/NetPlatform/temp/ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666830403:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl-free-153.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666830403
+route nl-free-153.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fe04943f2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666830405' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666830405:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-ca-08.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666830405
+route node-ca-08.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f92a90d02e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666830406' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666830406:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-no-02.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666830406
+route node-no-02.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fe5836652e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/dk-cph.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666830408' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666830408:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dk-cph.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666830408
+route dk-cph.prod.surfshark.com_udp.ovpn over
+IP : 146.70.92.20
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/sg-sng-st008.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666830498' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666830498:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666830498
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn over
+IP : 138.199.60.173
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/tr-ist.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666830588' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666830588:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr-ist.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666830588
+route tr-ist.prod.surfshark.com_tcp.ovpn over
+IP : 87.249.139.179
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ie-dub.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666830687' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666830687:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie-dub.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666830687
+route ie-dub.prod.surfshark.com_udp.ovpn over
+IP : 149.34.242.3
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666830778' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666830778:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666830778
+route 42.0.30.177_tcp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/5.226.139.225_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666830890' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666830890:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 5.226.139.225_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666830890
+route 5.226.139.225_udp.ovpn over
+IP : 5.226.139.227
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/la-vte.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666830978' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666830978:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route la-vte.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666830978
+route la-vte.prod.surfshark.com_udp.ovpn over
+IP : 194.169.168.21
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666831071' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666831071:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666831071
+route 42.0.30.177_udp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/be-bru.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666831180' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666831180:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be-bru.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666831180
+route be-bru.prod.surfshark.com_tcp.ovpn over
+IP : 146.70.123.46
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ro-buc.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666831275' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666831275:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-buc.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666831275
+route ro-buc.prod.surfshark.com_tcp.ovpn over
+IP : 217.148.143.196
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_japan_-_tokyo_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666831375' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666831375:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666831375
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn over
+IP : 45.8.68.23
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_lithuania_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666831405' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666831405:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_lithuania_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666831405
+route my_expressvpn_lithuania_udp.ovpn over
+IP : 85.206.175.218
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_salt_lake_city_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666831489' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666831489:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666831489
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn over
+IP : 191.96.206.23
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_kenya_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666831533' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666831533:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_kenya_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666831533
+route my_expressvpn_kenya_udp.ovpn over
+IP : 62.12.114.54
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_australia_-_adelaide_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666831627' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666831627:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_australia_-_adelaide_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666831627
+route my_expressvpn_australia_-_adelaide_udp.ovpn over
+IP : 45.139.6.45
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666831679' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666831679:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666831679
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn over
+IP : 191.101.174.9
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_pakistan_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666831742' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666831742:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_pakistan_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666831742
+route my_expressvpn_pakistan_udp.ovpn over
+IP : 98.159.232.163
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_israel_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666831825' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666831825:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_israel_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666831825
+route my_expressvpn_israel_udp.ovpn over
+IP : 203.159.81.69
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_mexico_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666831909' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666831909:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_mexico_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666831909
+route my_expressvpn_mexico_udp.ovpn over
+IP : 179.61.245.30
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_chile_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666831990' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666831990:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_chile_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666831990
+route my_expressvpn_chile_udp.ovpn over
+IP : 173.244.55.21
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666832075' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666832075:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666832075
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666832154' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666832154:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666832154
+route usny2-ovpn-udp.ovpn over
+IP : 185.195.58.232
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666832228' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666832228:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666832228
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666832328' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666832328:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666832328
+route tw2-ovpn-tcp.ovpn over
+IP : 116.206.73.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ru2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666832454' -v /home/NetPlatform/temp/ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666832454:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ru2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666832454
+route ru2-ovpn-udp.ovpn over
+IP : 92.38.153.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666832549' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666832549:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666832549
+route mx2-ovpn-udp.ovpn over
+IP : 169.57.3.196
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666832638' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666832638:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666832638
+route vg2-ovpn-udp.ovpn over
+IP : 104.243.253.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666832719' -v /home/NetPlatform/temp/ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666832719:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666832719
+route pa-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7febfe87d2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b't 27 01:05:21 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.69:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b't 27 01:05:21 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.69:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bo2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666832751' -v /home/NetPlatform/temp/ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666832751:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bo2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666832751
+route bo2-ovpn-udp.ovpn over
+IP : 172.111.241.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666832826' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666832826:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666832826
+route lv2-ovpn-tcp.ovpn over
+IP : 213.21.215.189
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/uk1877.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666832924' -v /home/NetPlatform/temp/ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666832924:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route uk1877.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666832924
+route uk1877.nordvpn.com.udp.ovpn over
+IP : 89.238.191.213
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nz82.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666833012' -v /home/NetPlatform/temp/ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666833012:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nz82.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666833012
+route nz82.nordvpn.com.tcp.ovpn over
+IP : 103.62.49.226
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666833106' -v /home/NetPlatform/temp/ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666833106:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8630.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666833106
+route us8630.nordvpn.com.tcp.ovpn over
+IP : 192.145.36.142
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/de682.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666833197' -v /home/NetPlatform/temp/ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666833197:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de682.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666833197
+route de682.nordvpn.com.tcp.ovpn over
+IP : 169.150.201.163
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us9857.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666833306' -v /home/NetPlatform/temp/ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666833306:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us9857.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666833306
+route us9857.nordvpn.com.tcp.ovpn over
+IP : 156.146.47.154
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8112.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666833391' -v /home/NetPlatform/temp/ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666833391:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8112.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666833391
+route us8112.nordvpn.com.tcp.ovpn over
+IP : 185.247.70.141
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8786.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666833486' -v /home/NetPlatform/temp/ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666833486:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8786.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666833486
+route us8786.nordvpn.com.udp.ovpn over
+IP : 94.140.11.223
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/jp553.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666833572' -v /home/NetPlatform/temp/ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666833572:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp553.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666833572
+route jp553.nordvpn.com.tcp.ovpn over
+IP : 5.181.235.36
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/tw178.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666833655' -v /home/NetPlatform/temp/ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666833655:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw178.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666833655
+route tw178.nordvpn.com.tcp.ovpn over
+IP : 185.213.82.183
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nl409.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666833743' -v /home/NetPlatform/temp/ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666833743:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl409.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666833743
+route nl409.nordvpn.com.udp.ovpn over
+IP : 185.229.58.129
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666833848' -v /home/NetPlatform/temp/ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666833848:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us-free-20.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666833848
+route us-free-20.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f49ff9f32e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666833850' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666833850:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-02.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666833850
+route node-se-02.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fd7d2a282e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666833852' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666833852:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-14.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666833852
+route node-uk-14.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f2b5375b2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666833854' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666833854:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-05.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666833854
+route node-se-05.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fc860dec2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666833855' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666833855:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-my-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666833855
+route node-my-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f5b8fbb12e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666833857' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666833857:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-10.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666833857
+route node-uk-10.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f741d52f2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666833859' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666833859:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-rs-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666833859
+route node-rs-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fd4b44392e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666833860' -v /home/NetPlatform/temp/ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666833860:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl-free-153.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666833860
+route nl-free-153.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f693c0a12e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666833862' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666833862:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-ca-08.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666833862
+route node-ca-08.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fcc0fabd2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666833864' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666833864:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-no-02.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666833864
+route node-no-02.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fb33664e2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/dk-cph.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666833865' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666833865:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dk-cph.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666833865
+route dk-cph.prod.surfshark.com_udp.ovpn over
+IP : 146.70.92.28
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/sg-sng-st008.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666833957' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666833957:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666833957
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn over
+IP : 138.199.60.173
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/tr-ist.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666834047' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666834047:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr-ist.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666834047
+route tr-ist.prod.surfshark.com_tcp.ovpn over
+IP : 87.249.139.184
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ie-dub.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666834145' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666834145:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie-dub.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666834145
+route ie-dub.prod.surfshark.com_udp.ovpn over
+IP : 149.34.242.33
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666834237' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666834237:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666834237
+route 42.0.30.177_tcp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/5.226.139.225_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666834351' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666834351:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 5.226.139.225_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666834351
+route 5.226.139.225_udp.ovpn over
+IP : 5.226.139.227
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/la-vte.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666834439' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666834439:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route la-vte.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666834439
+route la-vte.prod.surfshark.com_udp.ovpn over
+IP : 194.169.168.19
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666834533' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666834533:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666834533
+route 42.0.30.177_udp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/be-bru.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666834641' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666834641:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be-bru.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666834641
+route be-bru.prod.surfshark.com_tcp.ovpn over
+IP : 146.70.55.244
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ro-buc.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666834734' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666834734:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-buc.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666834734
+route ro-buc.prod.surfshark.com_tcp.ovpn over
+IP : 217.148.143.198
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_japan_-_tokyo_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666834832' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666834832:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666834832
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn over
+IP : 45.8.68.19
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_lithuania_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666834864' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666834864:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_lithuania_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666834864
+route my_expressvpn_lithuania_udp.ovpn over
+IP : 85.206.166.83
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_salt_lake_city_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666834946' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666834946:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666834946
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn over
+IP : 191.96.206.8
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_kenya_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666834991' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666834991:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_kenya_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666834991
+route my_expressvpn_kenya_udp.ovpn over
+IP : 62.12.114.54
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_australia_-_adelaide_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666835082' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666835082:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_australia_-_adelaide_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666835082
+route my_expressvpn_australia_-_adelaide_udp.ovpn over
+IP : 45.139.6.5
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666835132' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666835132:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666835132
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn over
+IP : 191.101.174.6
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_pakistan_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666835197' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666835197:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_pakistan_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666835197
+route my_expressvpn_pakistan_udp.ovpn over
+IP : 98.159.232.169
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_israel_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666835279' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666835279:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_israel_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666835279
+route my_expressvpn_israel_udp.ovpn over
+IP : 203.159.81.46
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_mexico_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666835366' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666835366:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_mexico_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666835366
+route my_expressvpn_mexico_udp.ovpn over
+IP : 179.61.245.33
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_chile_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666835444' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666835444:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_chile_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666835444
+route my_expressvpn_chile_udp.ovpn over
+IP : 173.244.55.21
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666835528' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666835528:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666835528
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666835607' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666835607:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666835607
+route usny2-ovpn-udp.ovpn over
+IP : 91.246.58.151
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666835682' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666835682:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666835682
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666835782' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666835782:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666835782
+route tw2-ovpn-tcp.ovpn over
+IP : 116.206.73.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ru2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666835908' -v /home/NetPlatform/temp/ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666835908:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ru2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666835908
+route ru2-ovpn-udp.ovpn over
+IP : 92.38.153.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666836003' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666836003:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666836003
+route mx2-ovpn-udp.ovpn over
+IP : 169.57.3.196
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666836092' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666836092:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666836092
+route vg2-ovpn-udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fac71f852e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vg2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2 UDP link local: (not bound)\\r\\nThu Oct 27 02:01:34 2022 UDP link remote: [AF_INET]104.243.253.4:53\\r\\n'\nbefore (last 100 chars): b'2 UDP link local: (not bound)\\r\\nThu Oct 27 02:01:34 2022 UDP link remote: [AF_INET]104.243.253.4:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666836125' -v /home/NetPlatform/temp/ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666836125:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666836125
+route pa-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f3a02a5d2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b'ct 27 02:02:06 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.6:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b'ct 27 02:02:06 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.6:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bo2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666836157' -v /home/NetPlatform/temp/ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666836157:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bo2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666836157
+route bo2-ovpn-udp.ovpn over
+IP : 172.111.241.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666836231' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666836231:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666836231
+route lv2-ovpn-tcp.ovpn over
+IP : 213.21.215.189
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/uk1877.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666836330' -v /home/NetPlatform/temp/ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666836330:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route uk1877.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666836330
+route uk1877.nordvpn.com.udp.ovpn over
+IP : 89.238.191.213
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nz82.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666836419' -v /home/NetPlatform/temp/ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666836419:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nz82.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666836419
+route nz82.nordvpn.com.tcp.ovpn over
+IP : 103.62.49.225
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666836514' -v /home/NetPlatform/temp/ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666836514:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8630.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666836514
+route us8630.nordvpn.com.tcp.ovpn over
+IP : 192.145.80.54
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/de682.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666836601' -v /home/NetPlatform/temp/ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666836601:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de682.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666836601
+route de682.nordvpn.com.tcp.ovpn over
+IP : 169.150.201.163
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us9857.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666836708' -v /home/NetPlatform/temp/ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666836708:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us9857.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666836708
+route us9857.nordvpn.com.tcp.ovpn over
+IP : 156.146.47.154
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8112.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666836794' -v /home/NetPlatform/temp/ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666836794:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8112.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666836794
+route us8112.nordvpn.com.tcp.ovpn over
+IP : 185.247.70.142
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8786.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666836882' -v /home/NetPlatform/temp/ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666836882:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8786.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666836882
+route us8786.nordvpn.com.udp.ovpn over
+IP : 94.140.11.223
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/jp553.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666836967' -v /home/NetPlatform/temp/ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666836967:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp553.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666836967
+route jp553.nordvpn.com.tcp.ovpn over
+IP : 5.181.235.36
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/tw178.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666837049' -v /home/NetPlatform/temp/ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666837049:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw178.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666837049
+route tw178.nordvpn.com.tcp.ovpn over
+IP : 185.213.82.81
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nl409.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666837140' -v /home/NetPlatform/temp/ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666837140:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl409.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666837140
+route nl409.nordvpn.com.udp.ovpn over
+IP : 185.229.58.129
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666837244' -v /home/NetPlatform/temp/ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666837244:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us-free-20.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666837244
+route us-free-20.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f150b8f62e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666837246' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666837246:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-02.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666837246
+route node-se-02.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f14b38ef2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666837248' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666837248:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-14.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666837248
+route node-uk-14.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f84715512e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666837250' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666837250:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-05.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666837250
+route node-se-05.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f76222ab2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666837252' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666837252:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-my-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666837252
+route node-my-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f0ae903d2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666837253' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666837253:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-10.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666837253
+route node-uk-10.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f8008e252e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666837255' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666837255:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-rs-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666837255
+route node-rs-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fa1304332e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666837257' -v /home/NetPlatform/temp/ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666837257:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl-free-153.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666837257
+route nl-free-153.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fd92da072e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666837258' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666837258:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-ca-08.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666837258
+route node-ca-08.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f9963a5d2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666837260' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666837260:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-no-02.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666837260
+route node-no-02.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f4cab6232e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/dk-cph.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666837262' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666837262:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dk-cph.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666837262
+route dk-cph.prod.surfshark.com_udp.ovpn over
+IP : 146.70.92.20
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/sg-sng-st008.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666837352' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666837352:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666837352
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn over
+IP : 138.199.60.173
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/tr-ist.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666837441' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666837441:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr-ist.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666837441
+route tr-ist.prod.surfshark.com_tcp.ovpn over
+IP : 45.136.155.59
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ie-dub.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666837539' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666837539:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie-dub.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666837539
+route ie-dub.prod.surfshark.com_udp.ovpn over
+IP : 149.34.242.35
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666837631' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666837631:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666837631
+route 42.0.30.177_tcp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/5.226.139.225_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666837743' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666837743:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 5.226.139.225_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666837743
+route 5.226.139.225_udp.ovpn over
+IP : 5.226.139.227
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/la-vte.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666837831' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666837831:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route la-vte.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666837831
+route la-vte.prod.surfshark.com_udp.ovpn over
+IP : 194.169.168.37
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666837925' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666837925:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666837925
+route 42.0.30.177_udp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/be-bru.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666838033' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666838033:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be-bru.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666838033
+route be-bru.prod.surfshark.com_tcp.ovpn over
+IP : 146.70.123.46
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ro-buc.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666838131' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666838131:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-buc.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666838131
+route ro-buc.prod.surfshark.com_tcp.ovpn over
+IP : 185.102.217.164
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_japan_-_tokyo_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666838230' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666838230:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666838230
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn over
+IP : 45.8.68.23
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_lithuania_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666838261' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666838261:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_lithuania_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666838261
+route my_expressvpn_lithuania_udp.ovpn over
+IP : 85.206.175.218
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_salt_lake_city_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666838345' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666838345:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666838345
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn over
+IP : 191.96.206.8
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_kenya_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666838389' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666838389:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_kenya_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666838389
+route my_expressvpn_kenya_udp.ovpn over
+IP : 62.12.114.42
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_australia_-_adelaide_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666838479' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666838479:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_australia_-_adelaide_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666838479
+route my_expressvpn_australia_-_adelaide_udp.ovpn over
+IP : 45.139.6.17
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666838531' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666838531:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666838531
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn over
+IP : 191.101.174.6
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_pakistan_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666838593' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666838593:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_pakistan_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666838593
+route my_expressvpn_pakistan_udp.ovpn over
+IP : 98.159.232.163
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_israel_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666838676' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666838676:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_israel_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666838676
+route my_expressvpn_israel_udp.ovpn over
+IP : 203.159.81.13
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_mexico_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666838760' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666838760:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_mexico_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666838760
+route my_expressvpn_mexico_udp.ovpn over
+IP : 179.61.245.15
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_chile_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666838838' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666838838:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_chile_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666838838
+route my_expressvpn_chile_udp.ovpn over
+IP : 173.244.55.21
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666838922' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666838922:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666838922
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666839000' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666839000:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666839000
+route usny2-ovpn-udp.ovpn over
+IP : 185.195.58.232
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666839074' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666839074:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666839074
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666839173' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666839173:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666839173
+route tw2-ovpn-tcp.ovpn over
+IP : 116.206.73.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ru2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666839300' -v /home/NetPlatform/temp/ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666839300:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ru2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666839300
+route ru2-ovpn-udp.ovpn over
+IP : 92.38.153.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666839395' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666839395:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666839395
+route mx2-ovpn-udp.ovpn over
+IP : 169.57.3.196
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666839484' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666839484:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666839484
+route vg2-ovpn-udp.ovpn over
+IP : 104.243.253.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666839567' -v /home/NetPlatform/temp/ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666839567:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666839567
+route pa-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fd3505702e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b't 27 02:59:28 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.69:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b't 27 02:59:28 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.69:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bo2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666839599' -v /home/NetPlatform/temp/ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666839599:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bo2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666839599
+route bo2-ovpn-udp.ovpn over
+IP : 172.111.241.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666839675' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666839675:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666839675
+route lv2-ovpn-tcp.ovpn over
+IP : 213.21.209.40
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/uk1877.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666839763' -v /home/NetPlatform/temp/ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666839763:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route uk1877.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666839763
+route uk1877.nordvpn.com.udp.ovpn over
+IP : 89.238.191.215
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nz82.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666839852' -v /home/NetPlatform/temp/ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666839852:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nz82.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666839852
+route nz82.nordvpn.com.tcp.ovpn over
+IP : 103.62.49.225
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666839947' -v /home/NetPlatform/temp/ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666839947:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8630.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666839947
+route us8630.nordvpn.com.tcp.ovpn over
+IP : 192.145.36.135
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/de682.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666840026' -v /home/NetPlatform/temp/ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666840026:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de682.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666840026
+route de682.nordvpn.com.tcp.ovpn over
+IP : 169.150.201.163
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us9857.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666840134' -v /home/NetPlatform/temp/ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666840134:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us9857.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666840134
+route us9857.nordvpn.com.tcp.ovpn over
+IP : 156.146.47.154
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8112.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666840221' -v /home/NetPlatform/temp/ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666840221:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8112.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666840221
+route us8112.nordvpn.com.tcp.ovpn over
+IP : 185.247.70.141
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8786.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666840310' -v /home/NetPlatform/temp/ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666840310:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8786.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666840310
+route us8786.nordvpn.com.udp.ovpn over
+IP : 138.199.50.4
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/jp553.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666840395' -v /home/NetPlatform/temp/ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666840395:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp553.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666840395
+route jp553.nordvpn.com.tcp.ovpn over
+IP : 5.181.235.37
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/tw178.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666840479' -v /home/NetPlatform/temp/ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666840479:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw178.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666840479
+route tw178.nordvpn.com.tcp.ovpn over
+IP : 185.213.82.185
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nl409.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666840569' -v /home/NetPlatform/temp/ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666840569:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl409.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666840569
+route nl409.nordvpn.com.udp.ovpn over
+IP : 185.229.58.129
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666840675' -v /home/NetPlatform/temp/ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666840675:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us-free-20.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666840675
+route us-free-20.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f4089dc62e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666840677' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666840677:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-02.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666840677
+route node-se-02.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fdbe17162e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666840678' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666840678:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-14.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666840678
+route node-uk-14.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fce448cb2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666840680' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666840680:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-05.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666840680
+route node-se-05.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f0264c402e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666840682' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666840682:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-my-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666840682
+route node-my-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fd30ee522e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666840684' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666840684:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-10.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666840684
+route node-uk-10.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7efd9eb302e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666840685' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666840685:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-rs-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666840685
+route node-rs-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fa6a49262e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666840688' -v /home/NetPlatform/temp/ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666840688:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl-free-153.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666840688
+route nl-free-153.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fe17f71a2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666840689' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666840689:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-ca-08.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666840689
+route node-ca-08.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f7d91e822e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666840691' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666840691:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-no-02.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666840691
+route node-no-02.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f32df1b02e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/dk-cph.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666840693' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666840693:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dk-cph.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666840693
+route dk-cph.prod.surfshark.com_udp.ovpn over
+IP : 89.45.7.28
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/sg-sng-st008.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666840783' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666840783:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666840783
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn over
+IP : 138.199.60.173
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/tr-ist.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666840872' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666840872:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr-ist.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666840872
+route tr-ist.prod.surfshark.com_tcp.ovpn over
+IP : 45.136.155.91
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ie-dub.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666840971' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666840971:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie-dub.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666840971
+route ie-dub.prod.surfshark.com_udp.ovpn over
+IP : 146.70.48.46
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666841063' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666841063:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666841063
+route 42.0.30.177_tcp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/5.226.139.225_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666841175' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666841175:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 5.226.139.225_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666841175
+route 5.226.139.225_udp.ovpn over
+IP : 5.226.139.227
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/la-vte.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666841264' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666841264:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route la-vte.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666841264
+route la-vte.prod.surfshark.com_udp.ovpn over
+IP : 194.169.168.35
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666841359' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666841359:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666841359
+route 42.0.30.177_udp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/be-bru.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666841467' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666841467:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be-bru.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666841467
+route be-bru.prod.surfshark.com_tcp.ovpn over
+IP : 146.70.55.244
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ro-buc.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666841562' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666841562:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-buc.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666841562
+route ro-buc.prod.surfshark.com_tcp.ovpn over
+IP : 185.102.217.195
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_japan_-_tokyo_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666841673' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666841673:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666841673
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn over
+IP : 45.8.68.20
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_lithuania_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666841705' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666841705:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_lithuania_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666841705
+route my_expressvpn_lithuania_udp.ovpn over
+IP : 85.206.175.221
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_salt_lake_city_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666841789' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666841789:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666841789
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn over
+IP : 191.96.206.13
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_kenya_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666841834' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666841834:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_kenya_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666841834
+route my_expressvpn_kenya_udp.ovpn over
+IP : 62.12.114.54
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_australia_-_adelaide_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666841924' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666841924:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_australia_-_adelaide_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666841924
+route my_expressvpn_australia_-_adelaide_udp.ovpn over
+IP : 45.139.6.64
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666841977' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666841977:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666841977
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn over
+IP : 191.101.174.8
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_pakistan_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666842041' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666842041:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_pakistan_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666842041
+route my_expressvpn_pakistan_udp.ovpn over
+IP : 98.159.232.166
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_israel_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666842126' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666842126:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_israel_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666842126
+route my_expressvpn_israel_udp.ovpn over
+IP : 203.159.81.5
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_mexico_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666842213' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666842213:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_mexico_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666842213
+route my_expressvpn_mexico_udp.ovpn over
+IP : 179.61.245.5
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_chile_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666842293' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666842293:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_chile_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666842293
+route my_expressvpn_chile_udp.ovpn over
+IP : 173.244.55.21
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666842377' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666842377:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666842377
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666842455' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666842455:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666842455
+route usny2-ovpn-udp.ovpn over
+IP : 185.195.58.232
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666842529' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666842529:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666842529
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666842631' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666842631:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-tcp.ovpn_1666842631
+route tw2-ovpn-tcp.ovpn over
+IP : 116.206.73.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ru2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666842757' -v /home/NetPlatform/temp/ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666842757:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ru2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ru2-ovpn-udp.ovpn_1666842757
+route ru2-ovpn-udp.ovpn over
+IP : 92.38.153.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666842852' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666842852:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1666842852
+route mx2-ovpn-udp.ovpn over
+IP : 169.57.3.196
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666842941' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666842941:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-udp.ovpn_1666842941
+route vg2-ovpn-udp.ovpn over
+IP : 104.243.253.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666843026' -v /home/NetPlatform/temp/ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666843026:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1666843026
+route pa-ovpn-tcp.ovpn over
+IP : 172.94.87.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bo2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666843123' -v /home/NetPlatform/temp/ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666843123:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bo2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1666843123
+route bo2-ovpn-udp.ovpn over
+IP : 172.111.241.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666843202' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666843202:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1666843202
+route lv2-ovpn-tcp.ovpn over
+IP : 213.21.215.189
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/uk1877.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666843301' -v /home/NetPlatform/temp/ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666843301:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route uk1877.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_uk1877.nordvpn.com.udp.ovpn_1666843301
+route uk1877.nordvpn.com.udp.ovpn over
+IP : 89.238.191.215
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nz82.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666843390' -v /home/NetPlatform/temp/ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666843390:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nz82.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_nz82.nordvpn.com.tcp.ovpn_1666843390
+route nz82.nordvpn.com.tcp.ovpn over
+IP : 103.62.49.226
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8630.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666843483' -v /home/NetPlatform/temp/ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666843483:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8630.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8630.nordvpn.com.tcp.ovpn_1666843483
+route us8630.nordvpn.com.tcp.ovpn over
+IP : 192.145.80.54
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/de682.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666843563' -v /home/NetPlatform/temp/ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666843563:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de682.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_de682.nordvpn.com.tcp.ovpn_1666843563
+route de682.nordvpn.com.tcp.ovpn over
+IP : 169.150.201.163
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us9857.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666843668' -v /home/NetPlatform/temp/ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666843668:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us9857.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us9857.nordvpn.com.tcp.ovpn_1666843668
+route us9857.nordvpn.com.tcp.ovpn over
+IP : 156.146.47.154
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8112.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666843755' -v /home/NetPlatform/temp/ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666843755:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8112.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_us8112.nordvpn.com.tcp.ovpn_1666843755
+route us8112.nordvpn.com.tcp.ovpn over
+IP : 185.247.70.140
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/us8786.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666843843' -v /home/NetPlatform/temp/ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666843843:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us8786.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_us8786.nordvpn.com.udp.ovpn_1666843843
+route us8786.nordvpn.com.udp.ovpn over
+IP : 94.140.11.221
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/jp553.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666843927' -v /home/NetPlatform/temp/ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666843927:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp553.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_jp553.nordvpn.com.tcp.ovpn_1666843927
+route jp553.nordvpn.com.tcp.ovpn over
+IP : 5.181.235.36
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/tw178.nordvpn.com.tcp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666844012' -v /home/NetPlatform/temp/ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666844012:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw178.nordvpn.com.tcp.ovpn start!
+docker is over
+ovpn_NordVPN_tw178.nordvpn.com.tcp.ovpn_1666844012
+route tw178.nordvpn.com.tcp.ovpn over
+IP : 185.213.82.184
+username is 6AZtpgymz8PcpvhX8qUbgePm
+password is R79ddi71uV39YaaLDRJZJJvu
+configPath is /home/NetPlatform/configurations/nl409.nordvpn.com.udp.ovpn
+docker run --privileged=true --name='ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666844101' -v /home/NetPlatform/temp/ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666844101:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl409.nordvpn.com.udp.ovpn start!
+docker is over
+ovpn_NordVPN_nl409.nordvpn.com.udp.ovpn_1666844101
+route nl409.nordvpn.com.udp.ovpn over
+IP : 185.229.58.129
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666844203' -v /home/NetPlatform/temp/ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666844203:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us-free-20.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_us-free-20.protonvpn.net.udp.ovpn_1666844203
+route us-free-20.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f6e1c6292e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-free-20.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666844205' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666844205:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-02.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-02.protonvpn.net.tcp.ovpn_1666844205
+route node-se-02.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f583dbe92e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-02.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666844207' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666844207:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-14.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-14.protonvpn.net.udp.ovpn_1666844207
+route node-uk-14.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f461f4c82e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-14.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666844209' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666844209:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-se-05.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-se-05.protonvpn.net.tcp.ovpn_1666844209
+route node-se-05.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f0b719c42e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-se-05.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666844210' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666844210:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-my-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-my-01.protonvpn.net.udp.ovpn_1666844210
+route node-my-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f5286ed92e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-my-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666844212' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666844212:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-uk-10.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-uk-10.protonvpn.net.tcp.ovpn_1666844212
+route node-uk-10.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fe415f732e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-uk-10.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666844214' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666844214:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-rs-01.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-rs-01.protonvpn.net.udp.ovpn_1666844214
+route node-rs-01.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fc881d782e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-rs-01.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666844216' -v /home/NetPlatform/temp/ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666844216:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl-free-153.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_nl-free-153.protonvpn.net.udp.ovpn_1666844216
+route nl-free-153.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fe85dd452e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-free-153.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666844217' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666844217:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-ca-08.protonvpn.net.tcp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-ca-08.protonvpn.net.tcp.ovpn_1666844217
+route node-ca-08.protonvpn.net.tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f25021c32e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-ca-08.protonvpn.net.tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is bjaknd6BNGvhGADr
+password is l7sN8byvGHOfd8hndxIzB4QRobypjVbC
+configPath is /home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn
+docker run --privileged=true --name='ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666844219' -v /home/NetPlatform/temp/ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666844219:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route node-no-02.protonvpn.net.udp.ovpn start!
+docker is over
+ovpn_ProtonVPN_node-no-02.protonvpn.net.udp.ovpn_1666844219
+route node-no-02.protonvpn.net.udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f5d514212e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/node-no-02.protonvpn.net.udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'r directory (errno=2)\\r\\nOptions error: Please correct this error.\\r\\nUse --help for more information.\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 1\nflag_eof: True\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Enter Auth Username:')"}
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/dk-cph.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666844221' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666844221:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dk-cph.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1666844221
+route dk-cph.prod.surfshark.com_udp.ovpn over
+IP : 146.70.92.38
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/sg-sng-st008.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666844311' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666844311:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_tcp.ovpn_1666844311
+route sg-sng-st008.prod.surfshark.com_tcp.ovpn over
+IP : 138.199.60.173
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/tr-ist.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666844400' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666844400:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr-ist.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_tr-ist.prod.surfshark.com_tcp.ovpn_1666844400
+route tr-ist.prod.surfshark.com_tcp.ovpn over
+IP : 45.136.155.194
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ie-dub.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666844499' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666844499:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie-dub.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1666844499
+route ie-dub.prod.surfshark.com_udp.ovpn over
+IP : 149.34.242.5
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666844591' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666844591:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1666844591
+route 42.0.30.177_tcp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/5.226.139.225_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666844702' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666844702:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 5.226.139.225_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1666844702
+route 5.226.139.225_udp.ovpn over
+IP : 5.226.139.227
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/la-vte.prod.surfshark.com_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666844790' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666844790:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route la-vte.prod.surfshark.com_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_udp.ovpn_1666844790
+route la-vte.prod.surfshark.com_udp.ovpn over
+IP : 194.169.168.37
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/42.0.30.177_udp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666844883' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666844883:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route 42.0.30.177_udp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_42.0.30.177_udp.ovpn_1666844883
+route 42.0.30.177_udp.ovpn over
+IP : 42.0.30.178
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/be-bru.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666844991' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666844991:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be-bru.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_tcp.ovpn_1666844991
+route be-bru.prod.surfshark.com_tcp.ovpn over
+IP : 146.70.55.198
+username is hpAu4tcYs8B9UjHC8ByRkSas
+password is A8utnWP86YFmK7U6zBSfmV8A
+configPath is /home/NetPlatform/configurations/ro-buc.prod.surfshark.com_tcp.ovpn
+docker run --privileged=true --name='ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666845085' -v /home/NetPlatform/temp/ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666845085:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-buc.prod.surfshark.com_tcp.ovpn start!
+docker is over
+ovpn_SurfsharkVPN_ro-buc.prod.surfshark.com_tcp.ovpn_1666845085
+route ro-buc.prod.surfshark.com_tcp.ovpn over
+IP : 185.102.217.160
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_japan_-_tokyo_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666845185' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666845185:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_japan_-_tokyo_-_2_udp.ovpn_1666845185
+route my_expressvpn_japan_-_tokyo_-_2_udp.ovpn over
+IP : 45.8.68.25
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_lithuania_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666845216' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666845216:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_lithuania_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_lithuania_udp.ovpn_1666845216
+route my_expressvpn_lithuania_udp.ovpn over
+IP : 85.206.175.218
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_salt_lake_city_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666845299' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666845299:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_salt_lake_city_udp.ovpn_1666845299
+route my_expressvpn_usa_-_salt_lake_city_udp.ovpn over
+IP : 191.96.206.9
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_kenya_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666845343' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666845343:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_kenya_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_kenya_udp.ovpn_1666845343
+route my_expressvpn_kenya_udp.ovpn over
+IP : 62.12.114.42
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_australia_-_adelaide_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666845435' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666845435:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_australia_-_adelaide_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_australia_-_adelaide_udp.ovpn_1666845435
+route my_expressvpn_australia_-_adelaide_udp.ovpn over
+IP : 45.139.6.2
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666845487' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666845487:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn_1666845487
+route my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn over
+IP : 191.101.174.9
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_pakistan_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666845550' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666845550:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_pakistan_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_pakistan_udp.ovpn_1666845550
+route my_expressvpn_pakistan_udp.ovpn over
+IP : 98.159.232.167
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_israel_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666845636' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666845636:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_israel_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_israel_udp.ovpn_1666845636
+route my_expressvpn_israel_udp.ovpn over
+IP : 203.159.81.7
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_mexico_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666845720' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666845720:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_mexico_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_mexico_udp.ovpn_1666845720
+route my_expressvpn_mexico_udp.ovpn over
+IP : 179.61.245.7
+username is e1jbpqea3jjt5vc7wczzqrmd
+password is nr1fdbnzrrvlzjk8q7wmcyhc
+configPath is /home/NetPlatform/configurations/my_expressvpn_chile_udp.ovpn
+docker run --privileged=true --name='ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666845798' -v /home/NetPlatform/temp/ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666845798:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my_expressvpn_chile_udp.ovpn start!
+docker is over
+ovpn_ExpressVPN_my_expressvpn_chile_udp.ovpn_1666845798
+route my_expressvpn_chile_udp.ovpn over
+IP : 173.244.55.18
