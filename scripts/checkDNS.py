@@ -4,6 +4,8 @@ import time
 import json
 import requests
 import base64
+import ipaddress
+import urllib.request
 
 
 def get_self_ip():
@@ -46,6 +48,26 @@ def queryDNS(ip_dst, qname):
     return p, result
 
 
+def get8888IPlist():
+    publicdns_url = 'https://www.gstatic.com/ipranges/publicdns.json'
+    try:
+        s = urllib.request.urlopen(url).read()
+        publicdns_json = json.loads(s)
+    except urllib.error.HTTPError:
+        print('Invalid HTTP response from %s' % url)
+        return []
+    except json.decoder.JSONDecodeError:
+        print('Could not parse HTTP response from %s' % url)
+        return []
+    result = []
+    for e in publicdns_json['prefixes']:
+        if e.get('ipv4Prefix'):
+            ip = ipaddress.IPv4Network(e.get('ipv4Prefix'), strict=False)
+            result.append([ip, e.get('scope')])
+    print(result)
+    return result
+
+
 if __name__ == "__main__":
     self_ip_str = get_self_ip()
     if self_ip_str is None:
@@ -57,7 +79,10 @@ if __name__ == "__main__":
         "114.114.114.114": [],
         "8.8.8.8": []
     }
-    for i in range(5):
+
+    all_8888_ips = get8888IPlist()
+
+    for i in range(3):
         for ip_str in all_results:
             send_packet, receive_packet = queryDNS(ip_str,
                                                    self_ip_str + "." + ip_str + "." + str(
@@ -81,3 +106,5 @@ if __name__ == "__main__":
     # os.system("dig " + query_name + " @202.112.51.108")
     with open("/home/NetPlatform/result/my_packets.json", "w") as f:
         json.dump(all_results, f)
+    with open("/home/NetPlatform/result/8888IPS.json", "w") as f:
+        json.dump(all_8888_ips, f)
