@@ -63,7 +63,7 @@ def get8888IPlist():
     for e in publicdns_json['prefixes']:
         if e.get('ipv4Prefix'):
             ip = ipaddress.IPv4Network(e.get('ipv4Prefix'), strict=False)
-            result.append([ip, e.get('scope')])
+            result.append(str(ip))
     print(result)
     return result
 
