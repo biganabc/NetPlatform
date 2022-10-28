@@ -119,14 +119,20 @@ class L2tpThread(threading.Thread):
                         time.sleep(1)
                     print(sstr)
             if not find_:
+                print("ppp0网卡未出现")
                 self.error_log = "ppp0网卡未出现"
             else:
+                print("ppp0网卡出现了")
                 self.setOK()
         except Exception as ex:
             self.error_log = str(ex)
 
 
 if __name__ == "__main__":
+
+    # connectThread = L2tpThread(l2tp_config["service_ip"], l2tp_config["username"], l2tp_config["password"])
+    # connectThread.start()
+    
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
     if task["VPNType"] == "openVPN":
