@@ -65,7 +65,7 @@ def readConfigFile():
 
 
 def start_ovpn_docker(username, password, service, route):
-    docker_name = "ovpn_" + service + "_" + route + "_" + str(int(time.time()))
+    docker_name = "ovpn_" + service + "_" + route + "_" + str(time.time())
     dir_initial(docker_name)
     open_vpn_config_insert(docker_name, service, route)
     task_dict = {
