@@ -100,7 +100,8 @@ class L2tpThread(threading.Thread):
                 f.writelines(str_list)
 
             # input()
-            # 到这里应该都是没问题的。
+            # 到这里应该都是没问题的。后面不管是用pexpect还是用os.system都不行
+
             # child = pexpect.spawn("xl2tpd")
             # time.sleep(0.1)
             # child.expect("\\n")
@@ -112,9 +113,11 @@ class L2tpThread(threading.Thread):
             # self.child = child
             # child.expect("\\n")
             os.system("xl2tpd")
+            time.sleep(2)
             os.system("chmod +777 /var/run/xl2tpd/l2tp-control")
+            time.sleep(2)
             os.system('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
-
+            time.sleep(2)
 
             find_ = False
             for _ in range(3):
