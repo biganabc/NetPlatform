@@ -4,6 +4,7 @@ import os
 import json
 import requests
 import time
+import re
 
 
 def set_DNS_servers(dns_list: list):
@@ -134,8 +135,17 @@ class L2tpThread(threading.Thread):
                 self.error_log = "ppp0网卡未出现"
             else:
                 print("ppp0网卡出现了")
-                set_DNS_servers(["114.114.114.114", "8.8.8.8"])
-                os.system("route add -host " + self.server_ip + " dev ppp0")
+                set_DNS_servers(["8.8.8.8", "114.114.114.114"])
+                with os.popen("ip route") as f:
+                    str_ = f.read()
+                default_ip_gw = None
+                for match in re.finditer('(\\n|^)([\\S]+) via ([\\S]+)', str_):
+                    if match.group(2) == "default":
+                        default_ip_gw = match.group(3)
+                if default_ip_gw is None:
+                    self.error_log = "default_gw not appear!"
+                    return
+                os.system("route add -host " + self.server_ip + " gw " + default_ip_gw)
                 os.system("route add default dev ppp0")
                 time.sleep(0.1)
                 self.setOK()
