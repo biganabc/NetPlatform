@@ -152,6 +152,10 @@ if __name__ == "__main__":
         ip_info["errors"]["get_ip_error"] = str(ex)
     with open("/home/NetPlatform/temp/ip_info.json", "w") as f:
         json.dump(ip_info, f)
+
+    while True:
+        time.sleep(0.5)
+
     if not connectThread.isOK():
         exit(-1)
     os.system("chmod +x /home/NetPlatform/scripts/main")
