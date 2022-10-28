@@ -108,6 +108,7 @@ class L2tpThread(threading.Thread):
                         find_ = True
                     else:
                         time.sleep(1)
+
             if not find_:
                 self.error_log = "ppp0网卡未出现"
             else:

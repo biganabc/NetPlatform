@@ -124,6 +124,9 @@ def start_ovpn_docker(username, password, service, route):
 
 
 def start_l2tp_docker(username, password, service, server_ip):
+    print("username : " + username)
+    print("password : " + password)
+    print("server_ip : " + server_ip)
     docker_name = "l2tp_" + service + "_" + server_ip + "_" + str(time.time())
     dir_initial(docker_name)
     task_dict = {
