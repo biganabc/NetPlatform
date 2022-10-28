@@ -3,6 +3,7 @@ import threading
 import os
 import json
 import requests
+import time
 
 
 def set_DNS_servers(dns_list: list):
@@ -52,20 +53,85 @@ class OpenVPNThread(threading.Thread):
 
 
 class L2tpThread(threading.Thread):
-    def __init__(self):
+    def __init__(self, server_ip, user_name, password):
         super().__init__()
+        self.mark = False
+        self.server_ip = server_ip
+        self.user_name = user_name
+        self.password = password
+        self.error_log = None
+
+    def setOK(self):
+        self.mark = True
+
+    def isOK(self):
+        return self.mark
+
+    def run(self):
+        try:
+            with open("/etc/xl2tpd/xl2tpd.conf", "r") as f:
+                str_list = f.readlines()
+            for i in range(len(str_list)):
+                line = str_list[i]
+                if len(line) > 4 and "name" == line[:4]:
+                    str_list[i] = "name = " + self.user_name + "\n"
+            with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
+                f.writelines(str_list)
+
+            with open("/etc/ppp/peers/testvpn.l2tpd", "r") as f:
+                str_list = f.readlines()
+            for i in range(len(str_list)):
+                line = str_list[i]
+                if len(line) > 4 and "user" == line[:4]:
+                    str_list[i] = 'user "' + self.user_name + '"\n'
+                if len(line) > 8 and "password" == line[:8]:
+                    str_list[i] = 'password "' + self.password + '"\n'
+
+            with open("/etc/ppp/peers/testvpn.l2tpd", "w") as f:
+                f.writelines(str_list)
+            with open("/etc/xl2tpd/xl2tpd.conf", "r") as f:
+                str_list = f.readlines()
+            for i in range(len(str_list)):
+                line = str_list[i]
+                if len(line) > 3 and "lns" == line[:3]:
+                    str_list[i] = "lns = " + self.server_ip + "\n"
+            with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
+                f.writelines(str_list)
+
+            os.system("service xl2tpd restart")
+            os.system("chmod +777 /var/run/xl2tpd/l2tp-control")
+            os.system('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
+            find_ = False
+            for _ in range(3):
+                with os.popen("ifconfig") as f:
+                    if "ppp0" in f.read():
+                        find_ = True
+                    else:
+                        time.sleep(1)
+            if not find_:
+                self.error_log = "ppp0网卡未出现"
+            else:
+                self.setOK()
+        except Exception as ex:
+            self.error_log = str(ex)
 
 
 if __name__ == "__main__":
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
-    assert task["VPNType"] == "openVPN"  # TODO
-    ovpn_config = task["openVPNconfig"]
-    connectThread = OpenVPNThread(ovpn_config["configPath"], ovpn_config["username"], ovpn_config["password"])
-    connectThread.setDaemon(True)
-    connectThread.start()
-    connectThread.join()
-
+    if task["VPNType"] == "openVPN":
+        ovpn_config = task["openVPNconfig"]
+        connectThread = OpenVPNThread(ovpn_config["configPath"], ovpn_config["username"], ovpn_config["password"])
+        connectThread.setDaemon(True)
+        connectThread.start()
+        connectThread.join()
+    elif task["VPNType"] == "l2tp":
+        l2tp_config = task["l2tp_config"]
+        connectThread = L2tpThread(l2tp_config["service_ip"], l2tp_config["username"], l2tp_config["password"])
+        connectThread.start()
+        connectThread.join()
+    else:
+        raise Exception("指令错误 : " + task["VPNType"])
     ip_info = {
         "ip_str": "0.0.0.0",
         "errors": {}

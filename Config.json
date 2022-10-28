@@ -1,11 +1,11 @@
 {
 	"global_epoch":0,
 	"openVPN":{
-		"global_epoch":5,
+		"global_epoch":0,
 		"additional_epoch":{}
 	},
 	"l2tp":{
-		"global_epoch":0,
+		"global_epoch":5,
 		"additional_epoch":{}
 	}
 }
