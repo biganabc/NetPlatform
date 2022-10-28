@@ -5343,3 +5343,1120 @@ password is Urom688DosIYZM
 configPath is /home/NetPlatform/configurations/ukg2-ovpn-udp.ovpn
 docker run --privileged=true --name='ovpn_PureVPN_ukg2-ovpn-udp.ovpn_1666948447.2200954' -v /home/NetPlatform/temp/ovpn_PureVPN_ukg2-ovpn-udp.ovpn_1666948447.2200954:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
 route ukg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ukg2-ovpn-udp.ovpn_1666948447.2200954
+route ukg2-ovpn-udp.ovpn over
+IP : 146.70.133.194
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cy2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cy2-ovpn-tcp.ovpn_1666948488.7755764' -v /home/NetPlatform/temp/ovpn_PureVPN_cy2-ovpn-tcp.ovpn_1666948488.7755764:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cy2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_cy2-ovpn-tcp.ovpn_1666948488.7755764
+route cy2-ovpn-tcp.ovpn over
+IP : 185.191.206.207
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/hk2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_hk2-ovpn-tcp.ovpn_1666948535.1996958' -v /home/NetPlatform/temp/ovpn_PureVPN_hk2-ovpn-tcp.ovpn_1666948535.1996958:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route hk2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_hk2-ovpn-tcp.ovpn_1666948535.1996958
+route hk2-ovpn-tcp.ovpn over
+IP : 103.109.103.49
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ph2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ph2-ovpn-udp.ovpn_1666948598.2706547' -v /home/NetPlatform/temp/ovpn_PureVPN_ph2-ovpn-udp.ovpn_1666948598.2706547:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ph2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ph2-ovpn-udp.ovpn_1666948598.2706547
+route ph2-ovpn-udp.ovpn over
+IP : 172.111.175.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/in2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_in2-ovpn-udp.ovpn_1666948642.709404' -v /home/NetPlatform/temp/ovpn_PureVPN_in2-ovpn-udp.ovpn_1666948642.709404:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route in2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_in2-ovpn-udp.ovpn_1666948642.709404
+route in2-ovpn-udp.ovpn over
+IP : 206.123.151.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/in2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_in2-ovpn-tcp.ovpn_1666948677.1925275' -v /home/NetPlatform/temp/ovpn_PureVPN_in2-ovpn-tcp.ovpn_1666948677.1925275:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route in2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_in2-ovpn-tcp.ovpn_1666948677.1925275
+route in2-ovpn-tcp.ovpn over
+IP : 206.123.151.133
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ussf2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ussf2-ovpn-udp.ovpn_1666948716.4932945' -v /home/NetPlatform/temp/ovpn_PureVPN_ussf2-ovpn-udp.ovpn_1666948716.4932945:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ussf2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ussf2-ovpn-udp.ovpn_1666948716.4932945
+route ussf2-ovpn-udp.ovpn over
+IP : 45.12.131.34
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usil2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usil2-ovpn-tcp.ovpn_1666948745.0961497' -v /home/NetPlatform/temp/ovpn_PureVPN_usil2-ovpn-tcp.ovpn_1666948745.0961497:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usil2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_usil2-ovpn-tcp.ovpn_1666948745.0961497
+route usil2-ovpn-tcp.ovpn over
+IP : 87.249.134.170
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bg2-ovpn-udp.ovpn_1666948776.1936374' -v /home/NetPlatform/temp/ovpn_PureVPN_bg2-ovpn-udp.ovpn_1666948776.1936374:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bg2-ovpn-udp.ovpn_1666948776.1936374
+route bg2-ovpn-udp.ovpn over
+IP : 185.94.192.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/br2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_br2-ovpn-udp.ovpn_1666948817.2121122' -v /home/NetPlatform/temp/ovpn_PureVPN_br2-ovpn-udp.ovpn_1666948817.2121122:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route br2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_br2-ovpn-udp.ovpn_1666948817.2121122
+route br2-ovpn-udp.ovpn over
+IP : 138.99.210.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vleu-no2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vleu-no2-ovpn-udp.ovpn_1666948866.623163' -v /home/NetPlatform/temp/ovpn_PureVPN_vleu-no2-ovpn-udp.ovpn_1666948866.623163:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vleu-no2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vleu-no2-ovpn-udp.ovpn_1666948866.623163
+route vleu-no2-ovpn-udp.ovpn over
+IP : 185.14.97.89
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tr2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tr2-ovpn-tcp.ovpn_1666948907.1747591' -v /home/NetPlatform/temp/ovpn_PureVPN_tr2-ovpn-tcp.ovpn_1666948907.1747591:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_tr2-ovpn-tcp.ovpn_1666948907.1747591
+route tr2-ovpn-tcp.ovpn over
+IP : 45.136.155.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pr-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pr-ovpn-tcp.ovpn_1666948953.001685' -v /home/NetPlatform/temp/ovpn_PureVPN_pr-ovpn-tcp.ovpn_1666948953.001685:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pr-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_pr-ovpn-tcp.ovpn_1666948953.001685
+route pr-ovpn-tcp.ovpn over
+IP : 104.250.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bm2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bm2-ovpn-udp.ovpn_1666948990.268384' -v /home/NetPlatform/temp/ovpn_PureVPN_bm2-ovpn-udp.ovpn_1666948990.268384:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bm2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bm2-ovpn-udp.ovpn_1666948990.268384
+route bm2-ovpn-udp.ovpn over
+IP : 172.111.229.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ie2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ie2-ovpn-tcp.ovpn_1666949023.2351935' -v /home/NetPlatform/temp/ovpn_PureVPN_ie2-ovpn-tcp.ovpn_1666949023.2351935:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ie2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ie2-ovpn-tcp.ovpn_1666949023.2351935
+route ie2-ovpn-tcp.ovpn over
+IP : 146.70.130.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ukm2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ukm2-ovpn-udp.ovpn_1666949066.635422' -v /home/NetPlatform/temp/ovpn_PureVPN_ukm2-ovpn-udp.ovpn_1666949066.635422:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ukm2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ukm2-ovpn-udp.ovpn_1666949066.635422
+route ukm2-ovpn-udp.ovpn over
+IP : 194.37.96.226
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mc2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mc2-ovpn-udp.ovpn_1666949106.923462' -v /home/NetPlatform/temp/ovpn_PureVPN_mc2-ovpn-udp.ovpn_1666949106.923462:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mc2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_mc2-ovpn-udp.ovpn_1666949106.923462
+route mc2-ovpn-udp.ovpn over
+IP : 206.123.130.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/no-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_no-ovpn-tcp.ovpn_1666949138.824628' -v /home/NetPlatform/temp/ovpn_PureVPN_no-ovpn-tcp.ovpn_1666949138.824628:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route no-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_no-ovpn-tcp.ovpn_1666949138.824628
+route no-ovpn-tcp.ovpn over
+IP : 185.14.97.89
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/eg2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_eg2-ovpn-tcp.ovpn_1666949183.6076536' -v /home/NetPlatform/temp/ovpn_PureVPN_eg2-ovpn-tcp.ovpn_1666949183.6076536:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route eg2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_eg2-ovpn-tcp.ovpn_1666949183.6076536
+route eg2-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f4a606f72e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/eg2-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b'Oct 28 09:26:25 2022 Attempting to establish TCP connection with [AF_INET]45.74.55.4:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b'Oct 28 09:26:25 2022 Attempting to establish TCP connection with [AF_INET]45.74.55.4:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cy2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cy2-ovpn-udp.ovpn_1666949215.8005393' -v /home/NetPlatform/temp/ovpn_PureVPN_cy2-ovpn-udp.ovpn_1666949215.8005393:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cy2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_cy2-ovpn-udp.ovpn_1666949215.8005393
+route cy2-ovpn-udp.ovpn over
+IP : 185.191.206.207
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ge2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ge2-ovpn-udp.ovpn_1666949258.6218581' -v /home/NetPlatform/temp/ovpn_PureVPN_ge2-ovpn-udp.ovpn_1666949258.6218581:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ge2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ge2-ovpn-udp.ovpn_1666949258.6218581
+route ge2-ovpn-udp.ovpn over
+IP : 104.250.182.98
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/rs-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_rs-ovpn-tcp.ovpn_1666949301.2036457' -v /home/NetPlatform/temp/ovpn_PureVPN_rs-ovpn-tcp.ovpn_1666949301.2036457:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route rs-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_rs-ovpn-tcp.ovpn_1666949301.2036457
+route rs-ovpn-tcp.ovpn over
+IP : 146.70.111.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/hu2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_hu2-ovpn-tcp.ovpn_1666949345.654325' -v /home/NetPlatform/temp/ovpn_PureVPN_hu2-ovpn-tcp.ovpn_1666949345.654325:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route hu2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_hu2-ovpn-tcp.ovpn_1666949345.654325
+route hu2-ovpn-tcp.ovpn over
+IP : 146.70.120.66
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/de2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_de2-ovpn-tcp.ovpn_1666949392.111934' -v /home/NetPlatform/temp/ovpn_PureVPN_de2-ovpn-tcp.ovpn_1666949392.111934:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_de2-ovpn-tcp.ovpn_1666949392.111934
+route de2-ovpn-tcp.ovpn over
+IP : 104.250.180.142
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pa2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pa2-ovpn-udp.ovpn_1666949428.164368' -v /home/NetPlatform/temp/ovpn_PureVPN_pa2-ovpn-udp.ovpn_1666949428.164368:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pa2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_pa2-ovpn-udp.ovpn_1666949428.164368
+route pa2-ovpn-udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f861577d2e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'022 UDP link local: (not bound)\\r\\nFri Oct 28 09:30:29 2022 UDP link remote: [AF_INET]172.94.94.5:53\\r\\n'\nbefore (last 100 chars): b'022 UDP link local: (not bound)\\r\\nFri Oct 28 09:30:29 2022 UDP link remote: [AF_INET]172.94.94.5:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/th2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_th2-ovpn-udp.ovpn_1666949460.367906' -v /home/NetPlatform/temp/ovpn_PureVPN_th2-ovpn-udp.ovpn_1666949460.367906:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route th2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_th2-ovpn-udp.ovpn_1666949460.367906
+route th2-ovpn-udp.ovpn over
+IP : 103.27.203.87
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/af2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_af2-ovpn-udp.ovpn_1666949499.7396605' -v /home/NetPlatform/temp/ovpn_PureVPN_af2-ovpn-udp.ovpn_1666949499.7396605:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route af2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_af2-ovpn-udp.ovpn_1666949499.7396605
+route af2-ovpn-udp.ovpn over
+IP : 172.111.208.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/idn2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_idn2-ovpn-tcp.ovpn_1666949539.0280592' -v /home/NetPlatform/temp/ovpn_PureVPN_idn2-ovpn-tcp.ovpn_1666949539.0280592:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route idn2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_idn2-ovpn-tcp.ovpn_1666949539.0280592
+route idn2-ovpn-tcp.ovpn over
+IP : 103.60.9.138
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mx2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mx2-ovpn-tcp.ovpn_1666949594.0811005' -v /home/NetPlatform/temp/ovpn_PureVPN_mx2-ovpn-tcp.ovpn_1666949594.0811005:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mx2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_mx2-ovpn-tcp.ovpn_1666949594.0811005
+route mx2-ovpn-tcp.ovpn over
+IP : 104.243.245.250
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bn2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bn2-ovpn-udp.ovpn_1666949634.4087453' -v /home/NetPlatform/temp/ovpn_PureVPN_bn2-ovpn-udp.ovpn_1666949634.4087453:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bn2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bn2-ovpn-udp.ovpn_1666949634.4087453
+route bn2-ovpn-udp.ovpn over
+IP : 185.128.24.203
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tr2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tr2-ovpn-udp.ovpn_1666949680.390927' -v /home/NetPlatform/temp/ovpn_PureVPN_tr2-ovpn-udp.ovpn_1666949680.390927:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tr2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_tr2-ovpn-udp.ovpn_1666949680.390927
+route tr2-ovpn-udp.ovpn over
+IP : 45.136.155.8
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/jp2-ovpn.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_jp2-ovpn.ovpn_1666949721.6833496' -v /home/NetPlatform/temp/ovpn_PureVPN_jp2-ovpn.ovpn_1666949721.6833496:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route jp2-ovpn.ovpn start!
+docker is over
+ovpn_PureVPN_jp2-ovpn.ovpn_1666949721.6833496
+route jp2-ovpn.ovpn over
+IP : 45.250.255.4
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vleu-be2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vleu-be2-ovpn-udp.ovpn_1666949764.8531232' -v /home/NetPlatform/temp/ovpn_PureVPN_vleu-be2-ovpn-udp.ovpn_1666949764.8531232:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vleu-be2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vleu-be2-ovpn-udp.ovpn_1666949764.8531232
+route vleu-be2-ovpn-udp.ovpn over
+IP : 146.70.55.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ge2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ge2-ovpn-tcp.ovpn_1666949804.7663183' -v /home/NetPlatform/temp/ovpn_PureVPN_ge2-ovpn-tcp.ovpn_1666949804.7663183:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ge2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ge2-ovpn-tcp.ovpn_1666949804.7663183
+route ge2-ovpn-tcp.ovpn over
+IP : 104.250.182.98
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usga2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usga2-ovpn-udp.ovpn_1666949851.8244362' -v /home/NetPlatform/temp/ovpn_PureVPN_usga2-ovpn-udp.ovpn_1666949851.8244362:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usga2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usga2-ovpn-udp.ovpn_1666949851.8244362
+route usga2-ovpn-udp.ovpn over
+IP : 195.181.171.33
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/it2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_it2-ovpn-tcp.ovpn_1666949880.9366596' -v /home/NetPlatform/temp/ovpn_PureVPN_it2-ovpn-tcp.ovpn_1666949880.9366596:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route it2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_it2-ovpn-tcp.ovpn_1666949880.9366596
+route it2-ovpn-tcp.ovpn over
+IP : 104.37.3.140
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/pr2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_pr2-ovpn-udp.ovpn_1666949918.8851805' -v /home/NetPlatform/temp/ovpn_PureVPN_pr2-ovpn-udp.ovpn_1666949918.8851805:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route pr2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_pr2-ovpn-udp.ovpn_1666949918.8851805
+route pr2-ovpn-udp.ovpn over
+IP : 104.250.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlus-pa2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlus-pa2-ovpn-tcp.ovpn_1666949953.2845578' -v /home/NetPlatform/temp/ovpn_PureVPN_vlus-pa2-ovpn-tcp.ovpn_1666949953.2845578:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlus-pa2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_vlus-pa2-ovpn-tcp.ovpn_1666949953.2845578
+route vlus-pa2-ovpn-tcp.ovpn over
+IP : 172.94.87.70
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ro-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ro-ovpn-tcp.ovpn_1666949990.7687387' -v /home/NetPlatform/temp/ovpn_PureVPN_ro-ovpn-tcp.ovpn_1666949990.7687387:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ro-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ro-ovpn-tcp.ovpn_1666949990.7687387
+route ro-ovpn-tcp.ovpn over
+IP : 37.221.171.194
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usnj2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usnj2-ovpn-tcp.ovpn_1666950036.073145' -v /home/NetPlatform/temp/ovpn_PureVPN_usnj2-ovpn-tcp.ovpn_1666950036.073145:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usnj2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_usnj2-ovpn-tcp.ovpn_1666950036.073145
+route usnj2-ovpn-tcp.ovpn over
+IP : 185.217.168.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usla2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usla2-ovpn-tcp.ovpn_1666950069.5341115' -v /home/NetPlatform/temp/ovpn_PureVPN_usla2-ovpn-tcp.ovpn_1666950069.5341115:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usla2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_usla2-ovpn-tcp.ovpn_1666950069.5341115
+route usla2-ovpn-tcp.ovpn over
+IP : 5.254.62.162
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ee2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ee2-ovpn-tcp.ovpn_1666950098.9789197' -v /home/NetPlatform/temp/ovpn_PureVPN_ee2-ovpn-tcp.ovpn_1666950098.9789197:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ee2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ee2-ovpn-tcp.ovpn_1666950098.9789197
+route ee2-ovpn-tcp.ovpn over
+IP : 185.174.159.245
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/nl2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_nl2-ovpn-udp.ovpn_1666950136.5238328' -v /home/NetPlatform/temp/ovpn_PureVPN_nl2-ovpn-udp.ovpn_1666950136.5238328:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route nl2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_nl2-ovpn-udp.ovpn_1666950136.5238328
+route nl2-ovpn-udp.ovpn over
+IP : 194.127.173.225
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ar2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ar2-ovpn-udp.ovpn_1666950168.1194458' -v /home/NetPlatform/temp/ovpn_PureVPN_ar2-ovpn-udp.ovpn_1666950168.1194458:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ar2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ar2-ovpn-udp.ovpn_1666950168.1194458
+route ar2-ovpn-udp.ovpn over
+IP : 172.111.152.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlus-mx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlus-mx2-ovpn-udp.ovpn_1666950198.004727' -v /home/NetPlatform/temp/ovpn_PureVPN_vlus-mx2-ovpn-udp.ovpn_1666950198.004727:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlus-mx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vlus-mx2-ovpn-udp.ovpn_1666950198.004727
+route vlus-mx2-ovpn-udp.ovpn over
+IP : 104.243.245.250
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ar2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ar2-ovpn-tcp.ovpn_1666950236.091971' -v /home/NetPlatform/temp/ovpn_PureVPN_ar2-ovpn-tcp.ovpn_1666950236.091971:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ar2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ar2-ovpn-tcp.ovpn_1666950236.091971
+route ar2-ovpn-tcp.ovpn over
+IP : 172.111.152.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/th2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_th2-ovpn-tcp.ovpn_1666950267.8345163' -v /home/NetPlatform/temp/ovpn_PureVPN_th2-ovpn-tcp.ovpn_1666950267.8345163:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route th2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_th2-ovpn-tcp.ovpn_1666950267.8345163
+route th2-ovpn-tcp.ovpn over
+IP : 116.206.126.67
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ng-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ng-ovpn-tcp.ovpn_1666950308.7377815' -v /home/NetPlatform/temp/ovpn_PureVPN_ng-ovpn-tcp.ovpn_1666950308.7377815:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ng-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ng-ovpn-tcp.ovpn_1666950308.7377815
+route ng-ovpn-tcp.ovpn over
+IP : 172.111.128.233
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666950344.473663' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666950344.473663:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1666950344.473663
+route aw2-ovpn-tcp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ch2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ch2-ovpn-udp.ovpn_1666950376.4073207' -v /home/NetPlatform/temp/ovpn_PureVPN_ch2-ovpn-udp.ovpn_1666950376.4073207:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ch2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ch2-ovpn-udp.ovpn_1666950376.4073207
+route ch2-ovpn-udp.ovpn over
+IP : 146.70.126.66
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ukm2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ukm2-ovpn-tcp.ovpn_1666950408.8155494' -v /home/NetPlatform/temp/ovpn_PureVPN_ukm2-ovpn-tcp.ovpn_1666950408.8155494:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ukm2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ukm2-ovpn-tcp.ovpn_1666950408.8155494
+route ukm2-ovpn-tcp.ovpn over
+IP : 146.70.133.194
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/au-me2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_au-me2-ovpn-tcp.ovpn_1666950452.744614' -v /home/NetPlatform/temp/ovpn_PureVPN_au-me2-ovpn-tcp.ovpn_1666950452.744614:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route au-me2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_au-me2-ovpn-tcp.ovpn_1666950452.744614
+route au-me2-ovpn-tcp.ovpn over
+IP : 118.127.59.83
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/hk2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_hk2-ovpn-udp.ovpn_1666950492.8505464' -v /home/NetPlatform/temp/ovpn_PureVPN_hk2-ovpn-udp.ovpn_1666950492.8505464:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route hk2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_hk2-ovpn-udp.ovpn_1666950492.8505464
+route hk2-ovpn-udp.ovpn over
+IP : 103.109.103.49
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ussf2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ussf2-ovpn-tcp.ovpn_1666950552.2522542' -v /home/NetPlatform/temp/ovpn_PureVPN_ussf2-ovpn-tcp.ovpn_1666950552.2522542:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ussf2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ussf2-ovpn-tcp.ovpn_1666950552.2522542
+route ussf2-ovpn-tcp.ovpn over
+IP : 172.94.5.6
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlap-vn2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlap-vn2-ovpn-udp.ovpn_1666950581.4917343' -v /home/NetPlatform/temp/ovpn_PureVPN_vlap-vn2-ovpn-udp.ovpn_1666950581.4917343:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlap-vn2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vlap-vn2-ovpn-udp.ovpn_1666950581.4917343
+route vlap-vn2-ovpn-udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff821d272e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vlap-vn2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2 UDP link local: (not bound)\\r\\nFri Oct 28 09:49:42 2022 UDP link remote: [AF_INET]172.111.197.6:53\\r\\n'\nbefore (last 100 chars): b'2 UDP link local: (not bound)\\r\\nFri Oct 28 09:49:42 2022 UDP link remote: [AF_INET]172.111.197.6:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/no2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_no2-ovpn-udp.ovpn_1666950613.6417327' -v /home/NetPlatform/temp/ovpn_PureVPN_no2-ovpn-udp.ovpn_1666950613.6417327:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route no2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_no2-ovpn-udp.ovpn_1666950613.6417327
+route no2-ovpn-udp.ovpn over
+IP : 185.14.97.89
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/my2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_my2-ovpn-udp.ovpn_1666950654.3262346' -v /home/NetPlatform/temp/ovpn_PureVPN_my2-ovpn-udp.ovpn_1666950654.3262346:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route my2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_my2-ovpn-udp.ovpn_1666950654.3262346
+route my2-ovpn-udp.ovpn over
+IP : 103.117.20.19
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cav2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cav2-ovpn-udp.ovpn_1666950699.771836' -v /home/NetPlatform/temp/ovpn_PureVPN_cav2-ovpn-udp.ovpn_1666950699.771836:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cav2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_cav2-ovpn-udp.ovpn_1666950699.771836
+route cav2-ovpn-udp.ovpn over
+IP : 38.88.124.132
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cav2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cav2-ovpn-tcp.ovpn_1666950738.3152988' -v /home/NetPlatform/temp/ovpn_PureVPN_cav2-ovpn-tcp.ovpn_1666950738.3152988:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cav2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_cav2-ovpn-tcp.ovpn_1666950738.3152988
+route cav2-ovpn-tcp.ovpn over
+IP : 38.88.124.132
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/fi2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_fi2-ovpn-udp.ovpn_1666950782.2159812' -v /home/NetPlatform/temp/ovpn_PureVPN_fi2-ovpn-udp.ovpn_1666950782.2159812:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route fi2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_fi2-ovpn-udp.ovpn_1666950782.2159812
+route fi2-ovpn-udp.ovpn over
+IP : 85.208.3.162
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lu2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lu2-ovpn-udp.ovpn_1666950822.597763' -v /home/NetPlatform/temp/ovpn_PureVPN_lu2-ovpn-udp.ovpn_1666950822.597763:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lu2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_lu2-ovpn-udp.ovpn_1666950822.597763
+route lu2-ovpn-udp.ovpn over
+IP : 185.153.151.85
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/au2-pe-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_au2-pe-ovpn-udp.ovpn_1666950862.7430496' -v /home/NetPlatform/temp/ovpn_PureVPN_au2-pe-ovpn-udp.ovpn_1666950862.7430496:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route au2-pe-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_au2-pe-ovpn-udp.ovpn_1666950862.7430496
+route au2-pe-ovpn-udp.ovpn over
+IP : 172.94.106.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cr2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cr2-ovpn-udp.ovpn_1666950898.5284452' -v /home/NetPlatform/temp/ovpn_PureVPN_cr2-ovpn-udp.ovpn_1666950898.5284452:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cr2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_cr2-ovpn-udp.ovpn_1666950898.5284452
+route cr2-ovpn-udp.ovpn over
+IP : 172.111.170.226
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ustx2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ustx2-ovpn-udp.ovpn_1666950931.3018734' -v /home/NetPlatform/temp/ovpn_PureVPN_ustx2-ovpn-udp.ovpn_1666950931.3018734:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ustx2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ustx2-ovpn-udp.ovpn_1666950931.3018734
+route ustx2-ovpn-udp.ovpn over
+IP : 37.19.221.209
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usny2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666950960.3917785' -v /home/NetPlatform/temp/ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666950960.3917785:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usny2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1666950960.3917785
+route usny2-ovpn-udp.ovpn over
+IP : 143.244.47.42
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usfl2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usfl2-ovpn-udp.ovpn_1666950989.668731' -v /home/NetPlatform/temp/ovpn_PureVPN_usfl2-ovpn-udp.ovpn_1666950989.668731:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usfl2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usfl2-ovpn-udp.ovpn_1666950989.668731
+route usfl2-ovpn-udp.ovpn over
+IP : 5.254.22.137
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lt2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lt2-ovpn-tcp.ovpn_1666951019.8557246' -v /home/NetPlatform/temp/ovpn_PureVPN_lt2-ovpn-tcp.ovpn_1666951019.8557246:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lt2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_lt2-ovpn-tcp.ovpn_1666951019.8557246
+route lt2-ovpn-tcp.ovpn over
+IP : 85.206.170.36
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/md2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_md2-ovpn-udp.ovpn_1666951058.0177567' -v /home/NetPlatform/temp/ovpn_PureVPN_md2-ovpn-udp.ovpn_1666951058.0177567:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route md2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_md2-ovpn-udp.ovpn_1666951058.0177567
+route md2-ovpn-udp.ovpn over
+IP : 178.175.130.26
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/is2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_is2-ovpn-tcp.ovpn_1666951100.9535196' -v /home/NetPlatform/temp/ovpn_PureVPN_is2-ovpn-tcp.ovpn_1666951100.9535196:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route is2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_is2-ovpn-tcp.ovpn_1666951100.9535196
+route is2-ovpn-tcp.ovpn over
+IP : 82.221.131.34
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bg2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bg2-ovpn-tcp.ovpn_1666951149.605483' -v /home/NetPlatform/temp/ovpn_PureVPN_bg2-ovpn-tcp.ovpn_1666951149.605483:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bg2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_bg2-ovpn-tcp.ovpn_1666951149.605483
+route bg2-ovpn-tcp.ovpn over
+IP : 185.94.192.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ee2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ee2-ovpn-udp.ovpn_1666951199.3779647' -v /home/NetPlatform/temp/ovpn_PureVPN_ee2-ovpn-udp.ovpn_1666951199.3779647:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ee2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ee2-ovpn-udp.ovpn_1666951199.3779647
+route ee2-ovpn-udp.ovpn over
+IP : 185.174.159.245
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bh2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bh2-ovpn-tcp.ovpn_1666951232.5203795' -v /home/NetPlatform/temp/ovpn_PureVPN_bh2-ovpn-tcp.ovpn_1666951232.5203795:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bh2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_bh2-ovpn-tcp.ovpn_1666951232.5203795
+route bh2-ovpn-tcp.ovpn over
+IP : 172.111.226.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/dz2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_dz2-ovpn-tcp.ovpn_1666951268.6990666' -v /home/NetPlatform/temp/ovpn_PureVPN_dz2-ovpn-tcp.ovpn_1666951268.6990666:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route dz2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_dz2-ovpn-tcp.ovpn_1666951268.6990666
+route dz2-ovpn-tcp.ovpn over
+IP : 172.111.243.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-udp.ovpn_1666951304.9745915' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-udp.ovpn_1666951304.9745915:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-udp.ovpn_1666951304.9745915
+route ua2-ovpn-udp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ua2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666951346.207798' -v /home/NetPlatform/temp/ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666951346.207798:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ua2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1666951346.207798
+route ua2-ovpn-tcp.ovpn over
+IP : 188.72.101.3
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ca2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ca2-ovpn-udp.ovpn_1666951396.7033277' -v /home/NetPlatform/temp/ovpn_PureVPN_ca2-ovpn-udp.ovpn_1666951396.7033277:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ca2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ca2-ovpn-udp.ovpn_1666951396.7033277
+route ca2-ovpn-udp.ovpn over
+IP : 146.70.27.226
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/hu2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_hu2-ovpn-udp.ovpn_1666951426.2131708' -v /home/NetPlatform/temp/ovpn_PureVPN_hu2-ovpn-udp.ovpn_1666951426.2131708:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route hu2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_hu2-ovpn-udp.ovpn_1666951426.2131708
+route hu2-ovpn-udp.ovpn over
+IP : 146.70.120.66
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/tw2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_tw2-ovpn-udp.ovpn_1666951469.1288114' -v /home/NetPlatform/temp/ovpn_PureVPN_tw2-ovpn-udp.ovpn_1666951469.1288114:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route tw2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_tw2-ovpn-udp.ovpn_1666951469.1288114
+route tw2-ovpn-udp.ovpn over
+IP : 116.206.73.18
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/rs2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_rs2-ovpn-udp.ovpn_1666951532.5354414' -v /home/NetPlatform/temp/ovpn_PureVPN_rs2-ovpn-udp.ovpn_1666951532.5354414:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route rs2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_rs2-ovpn-udp.ovpn_1666951532.5354414
+route rs2-ovpn-udp.ovpn over
+IP : 146.70.111.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vg2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vg2-ovpn-tcp.ovpn_1666951573.1572316' -v /home/NetPlatform/temp/ovpn_PureVPN_vg2-ovpn-tcp.ovpn_1666951573.1572316:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vg2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_vg2-ovpn-tcp.ovpn_1666951573.1572316
+route vg2-ovpn-tcp.ovpn over
+IP : 104.243.253.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/lv2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_lv2-ovpn-udp.ovpn_1666951611.1728053' -v /home/NetPlatform/temp/ovpn_PureVPN_lv2-ovpn-udp.ovpn_1666951611.1728053:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route lv2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_lv2-ovpn-udp.ovpn_1666951611.1728053
+route lv2-ovpn-udp.ovpn over
+IP : 213.21.215.189
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usga2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usga2-ovpn-tcp.ovpn_1666951653.1972246' -v /home/NetPlatform/temp/ovpn_PureVPN_usga2-ovpn-tcp.ovpn_1666951653.1972246:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usga2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_usga2-ovpn-tcp.ovpn_1666951653.1972246
+route usga2-ovpn-tcp.ovpn over
+IP : 195.181.171.33
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlus-pa2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlus-pa2-ovpn-udp.ovpn_1666951685.6536975' -v /home/NetPlatform/temp/ovpn_PureVPN_vlus-pa2-ovpn-udp.ovpn_1666951685.6536975:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlus-pa2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vlus-pa2-ovpn-udp.ovpn_1666951685.6536975
+route vlus-pa2-ovpn-udp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f241f3252e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vlus-pa2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'022 UDP link local: (not bound)\\r\\nFri Oct 28 10:08:07 2022 UDP link remote: [AF_INET]172.94.87.4:53\\r\\n'\nbefore (last 100 chars): b'022 UDP link local: (not bound)\\r\\nFri Oct 28 10:08:07 2022 UDP link remote: [AF_INET]172.94.87.4:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vleu-be2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vleu-be2-ovpn-tcp.ovpn_1666951717.8135693' -v /home/NetPlatform/temp/ovpn_PureVPN_vleu-be2-ovpn-tcp.ovpn_1666951717.8135693:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vleu-be2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_vleu-be2-ovpn-tcp.ovpn_1666951717.8135693
+route vleu-be2-ovpn-tcp.ovpn over
+IP : 146.70.55.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/eg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_eg2-ovpn-udp.ovpn_1666951762.6269462' -v /home/NetPlatform/temp/ovpn_PureVPN_eg2-ovpn-udp.ovpn_1666951762.6269462:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route eg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_eg2-ovpn-udp.ovpn_1666951762.6269462
+route eg2-ovpn-udp.ovpn over
+IP : 45.74.55.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/mc-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_mc-ovpn-tcp.ovpn_1666951796.8539329' -v /home/NetPlatform/temp/ovpn_PureVPN_mc-ovpn-tcp.ovpn_1666951796.8539329:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route mc-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_mc-ovpn-tcp.ovpn_1666951796.8539329
+route mc-ovpn-tcp.ovpn over
+IP : 206.123.130.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/au-sd2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_au-sd2-ovpn-udp.ovpn_1666951832.5419624' -v /home/NetPlatform/temp/ovpn_PureVPN_au-sd2-ovpn-udp.ovpn_1666951832.5419624:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route au-sd2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_au-sd2-ovpn-udp.ovpn_1666951832.5419624
+route au-sd2-ovpn-udp.ovpn over
+IP : 103.192.173.58
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/be2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_be2-ovpn-udp.ovpn_1666951869.1268387' -v /home/NetPlatform/temp/ovpn_PureVPN_be2-ovpn-udp.ovpn_1666951869.1268387:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_be2-ovpn-udp.ovpn_1666951869.1268387
+route be2-ovpn-udp.ovpn over
+IP : 146.70.123.98
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ke2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ke2-ovpn-udp.ovpn_1666951915.6634233' -v /home/NetPlatform/temp/ovpn_PureVPN_ke2-ovpn-udp.ovpn_1666951915.6634233:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ke2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ke2-ovpn-udp.ovpn_1666951915.6634233
+route ke2-ovpn-udp.ovpn over
+IP : 62.12.116.82
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ke2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ke2-ovpn-tcp.ovpn_1666951961.9769125' -v /home/NetPlatform/temp/ovpn_PureVPN_ke2-ovpn-tcp.ovpn_1666951961.9769125:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ke2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ke2-ovpn-tcp.ovpn_1666951961.9769125
+route ke2-ovpn-tcp.ovpn over
+IP : 62.12.116.82
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/sg2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_sg2-ovpn-tcp.ovpn_1666952015.298803' -v /home/NetPlatform/temp/ovpn_PureVPN_sg2-ovpn-tcp.ovpn_1666952015.298803:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_sg2-ovpn-tcp.ovpn_1666952015.298803
+route sg2-ovpn-tcp.ovpn over
+IP : 146.70.67.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/be2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_be2-ovpn-tcp.ovpn_1666952055.6845033' -v /home/NetPlatform/temp/ovpn_PureVPN_be2-ovpn-tcp.ovpn_1666952055.6845033:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route be2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_be2-ovpn-tcp.ovpn_1666952055.6845033
+route be2-ovpn-tcp.ovpn over
+IP : 146.70.55.130
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/de2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_de2-ovpn-udp.ovpn_1666952099.2775905' -v /home/NetPlatform/temp/ovpn_PureVPN_de2-ovpn-udp.ovpn_1666952099.2775905:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route de2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_de2-ovpn-udp.ovpn_1666952099.2775905
+route de2-ovpn-udp.ovpn over
+IP : 5.254.18.226
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/om-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_om-ovpn-tcp.ovpn_1666952139.2820046' -v /home/NetPlatform/temp/ovpn_PureVPN_om-ovpn-tcp.ovpn_1666952139.2820046:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route om-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_om-ovpn-tcp.ovpn_1666952139.2820046
+route om-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fb1747162e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/om-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b'ct 28 10:15:40 2022 Attempting to establish TCP connection with [AF_INET]172.94.94.5:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b'ct 28 10:15:40 2022 Attempting to establish TCP connection with [AF_INET]172.94.94.5:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlap-th2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlap-th2-ovpn-tcp.ovpn_1666952171.381207' -v /home/NetPlatform/temp/ovpn_PureVPN_vlap-th2-ovpn-tcp.ovpn_1666952171.381207:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlap-th2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_vlap-th2-ovpn-tcp.ovpn_1666952171.381207
+route vlap-th2-ovpn-tcp.ovpn over
+IP : 103.27.203.87
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usla2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usla2-ovpn-udp.ovpn_1666952212.6052063' -v /home/NetPlatform/temp/ovpn_PureVPN_usla2-ovpn-udp.ovpn_1666952212.6052063:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usla2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usla2-ovpn-udp.ovpn_1666952212.6052063
+route usla2-ovpn-udp.ovpn over
+IP : 5.254.62.162
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bb2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bb2-ovpn-udp.ovpn_1666952241.958175' -v /home/NetPlatform/temp/ovpn_PureVPN_bb2-ovpn-udp.ovpn_1666952241.958175:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bb2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bb2-ovpn-udp.ovpn_1666952241.958175
+route bb2-ovpn-udp.ovpn over
+IP : 172.111.228.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/au-sd2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_au-sd2-ovpn-tcp.ovpn_1666952273.7387424' -v /home/NetPlatform/temp/ovpn_PureVPN_au-sd2-ovpn-tcp.ovpn_1666952273.7387424:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route au-sd2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_au-sd2-ovpn-tcp.ovpn_1666952273.7387424
+route au-sd2-ovpn-tcp.ovpn over
+IP : 103.192.173.58
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usil2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usil2-ovpn-udp.ovpn_1666952311.7995675' -v /home/NetPlatform/temp/ovpn_PureVPN_usil2-ovpn-udp.ovpn_1666952311.7995675:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usil2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usil2-ovpn-udp.ovpn_1666952311.7995675
+route usil2-ovpn-udp.ovpn over
+IP : 87.249.134.161
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/md2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_md2-ovpn-tcp.ovpn_1666952341.0308435' -v /home/NetPlatform/temp/ovpn_PureVPN_md2-ovpn-tcp.ovpn_1666952341.0308435:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route md2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_md2-ovpn-tcp.ovpn_1666952341.0308435
+route md2-ovpn-tcp.ovpn over
+IP : 178.175.130.26
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/it2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_it2-ovpn-udp.ovpn_1666952386.6610425' -v /home/NetPlatform/temp/ovpn_PureVPN_it2-ovpn-udp.ovpn_1666952386.6610425:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route it2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_it2-ovpn-udp.ovpn_1666952386.6610425
+route it2-ovpn-udp.ovpn over
+IP : 104.37.3.140
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ca2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ca2-ovpn-tcp.ovpn_1666952419.9840786' -v /home/NetPlatform/temp/ovpn_PureVPN_ca2-ovpn-tcp.ovpn_1666952419.9840786:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ca2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_ca2-ovpn-tcp.ovpn_1666952419.9840786
+route ca2-ovpn-tcp.ovpn over
+IP : 146.70.27.226
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bh2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bh2-ovpn-udp.ovpn_1666952452.0772555' -v /home/NetPlatform/temp/ovpn_PureVPN_bh2-ovpn-udp.ovpn_1666952452.0772555:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bh2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bh2-ovpn-udp.ovpn_1666952452.0772555
+route bh2-ovpn-udp.ovpn over
+IP : 172.111.226.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/sg2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_sg2-ovpn-udp.ovpn_1666952484.8017895' -v /home/NetPlatform/temp/ovpn_PureVPN_sg2-ovpn-udp.ovpn_1666952484.8017895:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route sg2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_sg2-ovpn-udp.ovpn_1666952484.8017895
+route sg2-ovpn-udp.ovpn over
+IP : 146.70.67.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/se2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_se2-ovpn-udp.ovpn_1666952520.5234954' -v /home/NetPlatform/temp/ovpn_PureVPN_se2-ovpn-udp.ovpn_1666952520.5234954:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route se2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_se2-ovpn-udp.ovpn_1666952520.5234954
+route se2-ovpn-udp.ovpn over
+IP : 138.199.55.1
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/aw2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_aw2-ovpn-udp.ovpn_1666952560.8837523' -v /home/NetPlatform/temp/ovpn_PureVPN_aw2-ovpn-udp.ovpn_1666952560.8837523:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route aw2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_aw2-ovpn-udp.ovpn_1666952560.8837523
+route aw2-ovpn-udp.ovpn over
+IP : 172.111.183.7
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ukl2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ukl2-ovpn-udp.ovpn_1666952590.1235204' -v /home/NetPlatform/temp/ovpn_PureVPN_ukl2-ovpn-udp.ovpn_1666952590.1235204:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ukl2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ukl2-ovpn-udp.ovpn_1666952590.1235204
+route ukl2-ovpn-udp.ovpn over
+IP : 77.247.124.28
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bs2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bs2-ovpn-udp.ovpn_1666952623.4860108' -v /home/NetPlatform/temp/ovpn_PureVPN_bs2-ovpn-udp.ovpn_1666952623.4860108:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bs2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_bs2-ovpn-udp.ovpn_1666952623.4860108
+route bs2-ovpn-udp.ovpn over
+IP : 172.94.20.38
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/br2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_br2-ovpn-tcp.ovpn_1666952656.0059714' -v /home/NetPlatform/temp/ovpn_PureVPN_br2-ovpn-tcp.ovpn_1666952656.0059714:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route br2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_br2-ovpn-tcp.ovpn_1666952656.0059714
+route br2-ovpn-tcp.ovpn over
+IP : 138.99.210.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/cr2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_cr2-ovpn-tcp.ovpn_1666952702.2884934' -v /home/NetPlatform/temp/ovpn_PureVPN_cr2-ovpn-tcp.ovpn_1666952702.2884934:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route cr2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_cr2-ovpn-tcp.ovpn_1666952702.2884934
+route cr2-ovpn-tcp.ovpn over
+IP : 172.111.170.210
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/fr2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_fr2-ovpn-tcp.ovpn_1666952738.9257073' -v /home/NetPlatform/temp/ovpn_PureVPN_fr2-ovpn-tcp.ovpn_1666952738.9257073:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route fr2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_fr2-ovpn-tcp.ovpn_1666952738.9257073
+route fr2-ovpn-tcp.ovpn over
+IP : 172.94.53.44
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usva2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usva2-ovpn-tcp.ovpn_1666952774.6688733' -v /home/NetPlatform/temp/ovpn_PureVPN_usva2-ovpn-tcp.ovpn_1666952774.6688733:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usva2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_usva2-ovpn-tcp.ovpn_1666952774.6688733
+route usva2-ovpn-tcp.ovpn over
+IP : 5.254.108.213
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/us2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_us2-ovpn-udp.ovpn_1666952814.1949284' -v /home/NetPlatform/temp/ovpn_PureVPN_us2-ovpn-udp.ovpn_1666952814.1949284:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route us2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_us2-ovpn-udp.ovpn_1666952814.1949284
+route us2-ovpn-udp.ovpn over
+IP : 45.83.151.162
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/es2-ovpn.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_es2-ovpn.ovpn_1666952843.2759204' -v /home/NetPlatform/temp/ovpn_PureVPN_es2-ovpn.ovpn_1666952843.2759204:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route es2-ovpn.ovpn start!
+docker is over
+ovpn_PureVPN_es2-ovpn.ovpn_1666952843.2759204
+route es2-ovpn.ovpn over
+IP : 146.70.128.34
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlap-th2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlap-th2-ovpn-udp.ovpn_1666952887.3909674' -v /home/NetPlatform/temp/ovpn_PureVPN_vlap-th2-ovpn-udp.ovpn_1666952887.3909674:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlap-th2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_vlap-th2-ovpn-udp.ovpn_1666952887.3909674
+route vlap-th2-ovpn-udp.ovpn over
+IP : 116.206.126.67
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/se2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_se2-ovpn-tcp.ovpn_1666952926.4931295' -v /home/NetPlatform/temp/ovpn_PureVPN_se2-ovpn-tcp.ovpn_1666952926.4931295:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route se2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_se2-ovpn-tcp.ovpn_1666952926.4931295
+route se2-ovpn-tcp.ovpn over
+IP : 138.199.55.13
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/usnj2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_usnj2-ovpn-udp.ovpn_1666952970.8752816' -v /home/NetPlatform/temp/ovpn_PureVPN_usnj2-ovpn-udp.ovpn_1666952970.8752816:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route usnj2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_usnj2-ovpn-udp.ovpn_1666952970.8752816
+route usnj2-ovpn-udp.ovpn over
+IP : 185.217.168.50
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/bn2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_bn2-ovpn-tcp.ovpn_1666953000.3406386' -v /home/NetPlatform/temp/ovpn_PureVPN_bn2-ovpn-tcp.ovpn_1666953000.3406386:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route bn2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_bn2-ovpn-tcp.ovpn_1666953000.3406386
+route bn2-ovpn-tcp.ovpn over
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f878d4f82e0>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bn2-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b' 28 10:30:01 2022 Attempting to establish TCP connection with [AF_INET]104.243.253.6:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 28 10:30:01 2022 Attempting to establish TCP connection with [AF_INET]104.243.253.6:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/ussa2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_ussa2-ovpn-udp.ovpn_1666953032.4453452' -v /home/NetPlatform/temp/ovpn_PureVPN_ussa2-ovpn-udp.ovpn_1666953032.4453452:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route ussa2-ovpn-udp.ovpn start!
+docker is over
+ovpn_PureVPN_ussa2-ovpn-udp.ovpn_1666953032.4453452
+route ussa2-ovpn-udp.ovpn over
+IP : 104.243.243.39
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/vlap-ph2-ovpn-udp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_vlap-ph2-ovpn-udp.ovpn_1666953061.3932428' -v /home/NetPlatform/temp/ovpn_PureVPN_vlap-ph2-ovpn-udp.ovpn_1666953061.3932428:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route vlap-ph2-ovpn-udp.ovpn start!
+/home/NetPlatform/scripts/main: line 1:    18 Terminated              python3 -u /home/NetPlatform/scripts/checkDNS.py > /home/NetPlatform/result/checkDNS_log.txt
+docker is over
+ovpn_PureVPN_vlap-ph2-ovpn-udp.ovpn_1666953061.3932428
+route vlap-ph2-ovpn-udp.ovpn over
+IP : 172.111.175.2
+username is purevpn0s11829139
+password is Urom688DosIYZM
+configPath is /home/NetPlatform/configurations/at2-ovpn-tcp.ovpn
+docker run --privileged=true --name='ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367' -v /home/NetPlatform/temp/ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 /home/NetPlatform/Code/main.py'
+route at2-ovpn-tcp.ovpn start!
+docker is over
+ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367
+Exception in thread Thread-700:
+Traceback (most recent call last):
+  File "/usr/lib64/python3.6/shutil.py", line 550, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/NetPlatform/temp/ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367/temp/ip_info.json' -> '/home/NetPlatform/all_results/ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367/ip_info.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib64/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "Main.py", line 41, in run
+    "/home/NetPlatform/all_results/" + self.docker_name + "/ip_info.json")
+  File "/usr/lib64/python3.6/shutil.py", line 564, in move
+    copy_function(src, real_dst)
+  File "/usr/lib64/python3.6/shutil.py", line 263, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/usr/lib64/python3.6/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/NetPlatform/temp/ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367/temp/ip_info.json'
+
+route at2-ovpn-tcp.ovpn over
+Traceback (most recent call last):
+  File "Main.py", line 108, in <module>
+    start_ovpn_docker(username, password, service, route)
+  File "Main.py", line 91, in start_ovpn_docker
+    with open("/home/NetPlatform/all_results/" + docker_name + "/ip_info.json") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/NetPlatform/all_results/ovpn_PureVPN_at2-ovpn-tcp.ovpn_1666962247.0709367/ip_info.json'
