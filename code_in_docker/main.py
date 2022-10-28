@@ -130,9 +130,6 @@ class L2tpThread(threading.Thread):
 
 if __name__ == "__main__":
 
-    # connectThread = L2tpThread(l2tp_config["service_ip"], l2tp_config["username"], l2tp_config["password"])
-    # connectThread.start()
-    
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
     if task["VPNType"] == "openVPN":
@@ -145,6 +142,10 @@ if __name__ == "__main__":
         l2tp_config = task["l2tp_config"]
         connectThread = L2tpThread(l2tp_config["service_ip"], l2tp_config["username"], l2tp_config["password"])
         connectThread.start()
+        print("service_ip : " + l2tp_config["service_ip"])
+        print("username : " + l2tp_config["username"])
+        print("password : " + l2tp_config["password"])
+        # input()
         connectThread.join()
     else:
         raise Exception("指令错误 : " + task["VPNType"])
