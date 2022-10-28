@@ -99,6 +99,8 @@ class L2tpThread(threading.Thread):
             with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
                 f.writelines(str_list)
 
+            input()
+
             child = pexpect.spawn("xl2tpd")
             time.sleep(0.1)
             # child.expect("\\n")
@@ -145,7 +147,7 @@ if __name__ == "__main__":
         print("service_ip : " + l2tp_config["service_ip"])
         print("username : " + l2tp_config["username"])
         print("password : " + l2tp_config["password"])
-        input()
+
         connectThread.join()
     else:
         raise Exception("指令错误 : " + task["VPNType"])
