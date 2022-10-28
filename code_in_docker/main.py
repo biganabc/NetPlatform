@@ -60,6 +60,7 @@ class L2tpThread(threading.Thread):
         self.user_name = user_name
         self.password = password
         self.error_log = None
+        self.child = None
 
     def setOK(self):
         self.mark = True
@@ -98,17 +99,21 @@ class L2tpThread(threading.Thread):
             with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
                 f.writelines(str_list)
 
-            os.system("xl2tpd")
-            os.system("chmod +777 /var/run/xl2tpd/l2tp-control")
-            os.system('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
+            child = pexpect.spawn("xl2tpd")
+            child.expect("\\n")
+            child.sendline("chmod +777 /var/run/xl2tpd/l2tp-control")
+            child.expect("\\n")
+            child.sendline('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
+            child.expect("\\n")
             find_ = False
             for _ in range(3):
                 with os.popen("ifconfig") as f:
-                    if "ppp0" in f.read():
+                    sstr = f.read()
+                    if "ppp0" in sstr:
                         find_ = True
                     else:
                         time.sleep(1)
-
+                    print(sstr)
             if not find_:
                 self.error_log = "ppp0网卡未出现"
             else:
