@@ -100,11 +100,15 @@ class L2tpThread(threading.Thread):
                 f.writelines(str_list)
 
             child = pexpect.spawn("xl2tpd")
-            child.expect("\\n")
+            time.sleep(0.1)
+            # child.expect("\\n")
             child.sendline("chmod +777 /var/run/xl2tpd/l2tp-control")
-            child.expect("\\n")
+            time.sleep(0.1)
+            # child.expect("\\n")
             child.sendline('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
-            child.expect("\\n")
+            time.sleep(0.1)
+            self.child = child
+            # child.expect("\\n")
             find_ = False
             for _ in range(3):
                 with os.popen("ifconfig") as f:
