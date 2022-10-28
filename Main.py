@@ -159,6 +159,7 @@ if __name__ == "__main__":
             ovpn_list = VPN_dict["openVPN"][service]["routes"]
             for route in ovpn_list:
                 start_ovpn_docker(username, password, service, route)
+    for _ in range(config_dict["l2tp"]["global_epoch"]):
         for service in VPN_dict["l2tp"]:
             username = VPN_dict["l2tp"][service]["username"]
             password = VPN_dict["l2tp"][service]["password"]
