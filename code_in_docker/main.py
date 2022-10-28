@@ -47,6 +47,7 @@ class OpenVPNThread(threading.Thread):
             child.sendline(str(self.password))
             child.expect("Initialization Sequence Completed")
             self.child = child
+            set_DNS_servers(["114.114.114.114", "8.8.8.8"])
             self.setOK()
         except Exception as ex:
             self.error_log = str(ex)
@@ -133,6 +134,10 @@ class L2tpThread(threading.Thread):
                 self.error_log = "ppp0网卡未出现"
             else:
                 print("ppp0网卡出现了")
+                set_DNS_servers(["114.114.114.114", "8.8.8.8"])
+                os.system("route add -host " + self.server_ip + " dev ppp0")
+                os.system("route add default dev ppp0")
+                time.sleep(0.1)
                 self.setOK()
         except Exception as ex:
             self.error_log = str(ex)
@@ -165,7 +170,7 @@ if __name__ == "__main__":
     }
     if not connectThread.isOK():
         ip_info["errors"]["VPN_error"] = connectThread.error_log
-    set_DNS_servers(["114.114.114.114", "8.8.8.8"])
+
     try:
         ip_str = get_self_ip()
         ip_info["ip_str"] = ip_str
