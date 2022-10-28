@@ -14,7 +14,7 @@ def set_DNS_servers(dns_list: list):
 def get_self_ip():
     s = requests.session()
     s.keep_alive = False
-    response = s.get("http://httpbin.org/get", timeout=10)
+    response = s.get("http://httpbin.org/get", timeout=4)
     result = json.loads(response.text)
     if "origin" not in result:
         return None
