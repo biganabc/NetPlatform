@@ -98,7 +98,7 @@ class L2tpThread(threading.Thread):
             with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
                 f.writelines(str_list)
 
-            os.system("service xl2tpd restart")
+            os.system("xl2tpd")
             os.system("chmod +777 /var/run/xl2tpd/l2tp-control")
             os.system('echo "c testvpn" >/var/run/xl2tpd/l2tp-control')
             find_ = False
