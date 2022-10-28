@@ -35,7 +35,7 @@ class DockerController(threading.Thread):
         command = "docker run --privileged=true -it --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
         os.system(command)
-        input("请您进入docker " + self.docker_name + " 查看")
+        # input("请您进入docker " + self.docker_name + " 查看")
         print("docker is over")
         os.system(
             "docker rm " + self.docker_name

@@ -179,9 +179,6 @@ if __name__ == "__main__":
     with open("/home/NetPlatform/temp/ip_info.json", "w") as f:
         json.dump(ip_info, f)
 
-    while True:
-        time.sleep(0.5)
-
     if not connectThread.isOK():
         exit(-1)
     os.system("chmod +x /home/NetPlatform/scripts/main")
