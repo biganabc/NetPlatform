@@ -5,7 +5,7 @@
 		"additional_epoch":{}
 	},
 	"l2tp":{
-		"global_epoch":5,
+		"global_epoch":20,
 		"additional_epoch":{}
 	}
 }
