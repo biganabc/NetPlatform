@@ -1,0 +1,1640 @@
+nohup: ignoring input
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.69.186
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.69.186_1666972911.3203998' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.69.186_1666972911.3203998:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.69.186 start
+docker is over
+l2tp_NetflixVPN_172.105.69.186_1666972911.3203998
+l2tp NetflixVPN 172.105.69.186 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.72.249
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.72.249_1666972921.35653' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.72.249_1666972921.35653:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.72.249 start
+docker is over
+l2tp_NetflixVPN_139.162.72.249_1666972921.35653
+l2tp NetflixVPN 139.162.72.249 over
+IP : 39.111.220.80
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 107.189.29.112
+docker run --privileged=true --name='l2tp_NetflixVPN_107.189.29.112_1666972962.5927987' -v /home/NetPlatform/temp/l2tp_NetflixVPN_107.189.29.112_1666972962.5927987:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 107.189.29.112 start
+docker is over
+l2tp_NetflixVPN_107.189.29.112_1666972962.5927987
+l2tp NetflixVPN 107.189.29.112 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 109.196.164.219
+docker run --privileged=true --name='l2tp_NetflixVPN_109.196.164.219_1666972972.4199069' -v /home/NetPlatform/temp/l2tp_NetflixVPN_109.196.164.219_1666972972.4199069:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 109.196.164.219 start
+docker is over
+l2tp_NetflixVPN_109.196.164.219_1666972972.4199069
+l2tp NetflixVPN 109.196.164.219 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.181.64
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.181.64_1666972982.2737186' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.181.64_1666972982.2737186:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.181.64 start
+docker is over
+l2tp_NetflixVPN_47.87.181.64_1666972982.2737186
+l2tp NetflixVPN 47.87.181.64 over
+IP : 170.51.106.3
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.138
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.138_1666973027.002443' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.138_1666973027.002443:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.138 start
+docker is over
+l2tp_NetflixVPN_47.87.198.138_1666973027.002443
+l2tp NetflixVPN 47.87.198.138 over
+IP : 47.87.198.138
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.176.20
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.176.20_1666973058.425391' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.176.20_1666973058.425391:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.176.20 start
+docker is over
+l2tp_NetflixVPN_47.87.176.20_1666973058.425391
+l2tp NetflixVPN 47.87.176.20 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.227.7
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.227.7_1666973068.3026' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.227.7_1666973068.3026:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.227.7 start
+docker is over
+l2tp_NetflixVPN_172.105.227.7_1666973068.3026
+l2tp NetflixVPN 172.105.227.7 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.125.65
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.125.65_1666973078.2457693' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.125.65_1666973078.2457693:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.125.65 start
+docker is over
+l2tp_NetflixVPN_172.104.125.65_1666973078.2457693
+l2tp NetflixVPN 172.104.125.65 over
+IP : 60.67.56.208
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.76.208
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.76.208_1666973112.1017513' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.76.208_1666973112.1017513:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.76.208 start
+docker is over
+l2tp_NetflixVPN_139.162.76.208_1666973112.1017513
+l2tp NetflixVPN 139.162.76.208 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 153.92.127.35
+docker run --privileged=true --name='l2tp_NetflixVPN_153.92.127.35_1666973121.8963273' -v /home/NetPlatform/temp/l2tp_NetflixVPN_153.92.127.35_1666973121.8963273:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 153.92.127.35 start
+docker is over
+l2tp_NetflixVPN_153.92.127.35_1666973121.8963273
+l2tp NetflixVPN 153.92.127.35 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.116.62
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.116.62_1666973131.7136953' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.116.62_1666973131.7136953:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.116.62 start
+docker is over
+l2tp_NetflixVPN_172.104.116.62_1666973131.7136953
+l2tp NetflixVPN 172.104.116.62 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.148.11.195
+docker run --privileged=true --name='l2tp_NetflixVPN_45.148.11.195_1666973141.5300317' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.148.11.195_1666973141.5300317:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.148.11.195 start
+docker is over
+l2tp_NetflixVPN_45.148.11.195_1666973141.5300317
+l2tp NetflixVPN 45.148.11.195 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 185.97.146.105
+docker run --privileged=true --name='l2tp_NetflixVPN_185.97.146.105_1666973151.326105' -v /home/NetPlatform/temp/l2tp_NetflixVPN_185.97.146.105_1666973151.326105:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 185.97.146.105 start
+docker is over
+l2tp_NetflixVPN_185.97.146.105_1666973151.326105
+l2tp NetflixVPN 185.97.146.105 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.98.15.21
+docker run --privileged=true --name='l2tp_NetflixVPN_172.98.15.21_1666973161.1336935' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.98.15.21_1666973161.1336935:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.98.15.21 start
+docker is over
+l2tp_NetflixVPN_172.98.15.21_1666973161.1336935
+l2tp NetflixVPN 172.98.15.21 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.66.73
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.66.73_1666973170.981687' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.66.73_1666973170.981687:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.66.73 start
+docker is over
+l2tp_NetflixVPN_172.104.66.73_1666973170.981687
+l2tp NetflixVPN 172.104.66.73 over
+IP : 111.99.125.29
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.139
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.139_1666973212.6486363' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.139_1666973212.6486363:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.139 start
+docker is over
+l2tp_NetflixVPN_47.87.198.139_1666973212.6486363
+l2tp NetflixVPN 47.87.198.139 over
+IP : 212.252.140.125
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 103.172.92.139
+docker run --privileged=true --name='l2tp_NetflixVPN_103.172.92.139_1666973251.1861367' -v /home/NetPlatform/temp/l2tp_NetflixVPN_103.172.92.139_1666973251.1861367:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 103.172.92.139 start
+docker is over
+l2tp_NetflixVPN_103.172.92.139_1666973251.1861367
+l2tp NetflixVPN 103.172.92.139 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 31.220.5.193
+docker run --privileged=true --name='l2tp_NetflixVPN_31.220.5.193_1666973261.0083103' -v /home/NetPlatform/temp/l2tp_NetflixVPN_31.220.5.193_1666973261.0083103:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 31.220.5.193 start
+docker is over
+l2tp_NetflixVPN_31.220.5.193_1666973261.0083103
+l2tp NetflixVPN 31.220.5.193 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.113.196
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.113.196_1666973270.8625977' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.113.196_1666973270.8625977:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.113.196 start
+docker is over
+l2tp_NetflixVPN_147.135.113.196_1666973270.8625977
+l2tp NetflixVPN 147.135.113.196 over
+IP : 98.57.100.70
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 104.244.72.156
+docker run --privileged=true --name='l2tp_NetflixVPN_104.244.72.156_1666973286.1606114' -v /home/NetPlatform/temp/l2tp_NetflixVPN_104.244.72.156_1666973286.1606114:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 104.244.72.156 start
+docker is over
+l2tp_NetflixVPN_104.244.72.156_1666973286.1606114
+l2tp NetflixVPN 104.244.72.156 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.30
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.30_1666973295.9734104' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.30_1666973295.9734104:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.30 start
+docker is over
+l2tp_NetflixVPN_47.87.197.30_1666973295.9734104
+l2tp NetflixVPN 47.87.197.30 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.32.114.206
+docker run --privileged=true --name='l2tp_NetflixVPN_45.32.114.206_1666973306.0390446' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.32.114.206_1666973306.0390446:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.32.114.206 start
+docker is over
+l2tp_NetflixVPN_45.32.114.206_1666973306.0390446
+l2tp NetflixVPN 45.32.114.206 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.190.198
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.190.198_1666973315.8574688' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.190.198_1666973315.8574688:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.190.198 start
+docker is over
+l2tp_NetflixVPN_172.105.190.198_1666973315.8574688
+l2tp NetflixVPN 172.105.190.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 176.119.159.97
+docker run --privileged=true --name='l2tp_NetflixVPN_176.119.159.97_1666973325.7676332' -v /home/NetPlatform/temp/l2tp_NetflixVPN_176.119.159.97_1666973325.7676332:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 176.119.159.97 start
+docker is over
+l2tp_NetflixVPN_176.119.159.97_1666973325.7676332
+l2tp NetflixVPN 176.119.159.97 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.237.26
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.237.26_1666973335.5724273' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.237.26_1666973335.5724273:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.237.26 start
+docker is over
+l2tp_NetflixVPN_172.105.237.26_1666973335.5724273
+l2tp NetflixVPN 172.105.237.26 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.100.90
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.100.90_1666973345.362735' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.100.90_1666973345.362735:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.100.90 start
+docker is over
+l2tp_NetflixVPN_172.104.100.90_1666973345.362735
+l2tp NetflixVPN 172.104.100.90 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 164.152.166.29
+docker run --privileged=true --name='l2tp_NetflixVPN_164.152.166.29_1666973355.2122364' -v /home/NetPlatform/temp/l2tp_NetflixVPN_164.152.166.29_1666973355.2122364:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 164.152.166.29 start
+docker is over
+l2tp_NetflixVPN_164.152.166.29_1666973355.2122364
+l2tp NetflixVPN 164.152.166.29 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.198
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.198_1666973365.0208254' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.198_1666973365.0208254:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.198 start
+docker is over
+l2tp_NetflixVPN_47.87.197.198_1666973365.0208254
+l2tp NetflixVPN 47.87.197.198 over
+IP : 47.87.197.198
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 66.151.117.49
+docker run --privileged=true --name='l2tp_NetflixVPN_66.151.117.49_1666973398.5514598' -v /home/NetPlatform/temp/l2tp_NetflixVPN_66.151.117.49_1666973398.5514598:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 66.151.117.49 start
+docker is over
+l2tp_NetflixVPN_66.151.117.49_1666973398.5514598
+l2tp NetflixVPN 66.151.117.49 over
+IP : 189.223.61.72
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.114.43
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.114.43_1666973443.2759845' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.114.43_1666973443.2759845:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.114.43 start
+docker is over
+l2tp_NetflixVPN_147.135.114.43_1666973443.2759845
+l2tp NetflixVPN 147.135.114.43 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.240.247
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.240.247_1666973453.101391' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.240.247_1666973453.101391:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.240.247 start
+docker is over
+l2tp_NetflixVPN_172.105.240.247_1666973453.101391
+l2tp NetflixVPN 172.105.240.247 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.69.186
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.69.186_1666973462.9224367' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.69.186_1666973462.9224367:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.69.186 start
+docker is over
+l2tp_NetflixVPN_172.105.69.186_1666973462.9224367
+l2tp NetflixVPN 172.105.69.186 over
+IP : 88.69.85.229
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.72.249
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.72.249_1666973497.8518276' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.72.249_1666973497.8518276:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.72.249 start
+docker is over
+l2tp_NetflixVPN_139.162.72.249_1666973497.8518276
+l2tp NetflixVPN 139.162.72.249 over
+IP : 39.111.220.80
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 107.189.29.112
+docker run --privileged=true --name='l2tp_NetflixVPN_107.189.29.112_1666973539.3384407' -v /home/NetPlatform/temp/l2tp_NetflixVPN_107.189.29.112_1666973539.3384407:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 107.189.29.112 start
+docker is over
+l2tp_NetflixVPN_107.189.29.112_1666973539.3384407
+l2tp NetflixVPN 107.189.29.112 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 109.196.164.219
+docker run --privileged=true --name='l2tp_NetflixVPN_109.196.164.219_1666973549.179431' -v /home/NetPlatform/temp/l2tp_NetflixVPN_109.196.164.219_1666973549.179431:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 109.196.164.219 start
+docker is over
+l2tp_NetflixVPN_109.196.164.219_1666973549.179431
+l2tp NetflixVPN 109.196.164.219 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.181.64
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.181.64_1666973559.032417' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.181.64_1666973559.032417:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.181.64 start
+docker is over
+l2tp_NetflixVPN_47.87.181.64_1666973559.032417
+l2tp NetflixVPN 47.87.181.64 over
+IP : 170.51.106.3
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.138
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.138_1666973603.334322' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.138_1666973603.334322:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.138 start
+docker is over
+l2tp_NetflixVPN_47.87.198.138_1666973603.334322
+l2tp NetflixVPN 47.87.198.138 over
+IP : 47.87.198.138
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.176.20
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.176.20_1666973634.8469558' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.176.20_1666973634.8469558:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.176.20 start
+docker is over
+l2tp_NetflixVPN_47.87.176.20_1666973634.8469558
+l2tp NetflixVPN 47.87.176.20 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.227.7
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.227.7_1666973644.7150624' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.227.7_1666973644.7150624:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.227.7 start
+docker is over
+l2tp_NetflixVPN_172.105.227.7_1666973644.7150624
+l2tp NetflixVPN 172.105.227.7 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.125.65
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.125.65_1666973654.5965397' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.125.65_1666973654.5965397:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.125.65 start
+docker is over
+l2tp_NetflixVPN_172.104.125.65_1666973654.5965397
+l2tp NetflixVPN 172.104.125.65 over
+IP : 60.67.56.208
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.76.208
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.76.208_1666973687.7985854' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.76.208_1666973687.7985854:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.76.208 start
+docker is over
+l2tp_NetflixVPN_139.162.76.208_1666973687.7985854
+l2tp NetflixVPN 139.162.76.208 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 153.92.127.35
+docker run --privileged=true --name='l2tp_NetflixVPN_153.92.127.35_1666973697.6357949' -v /home/NetPlatform/temp/l2tp_NetflixVPN_153.92.127.35_1666973697.6357949:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 153.92.127.35 start
+docker is over
+l2tp_NetflixVPN_153.92.127.35_1666973697.6357949
+l2tp NetflixVPN 153.92.127.35 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.116.62
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.116.62_1666973707.5099318' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.116.62_1666973707.5099318:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.116.62 start
+docker is over
+l2tp_NetflixVPN_172.104.116.62_1666973707.5099318
+l2tp NetflixVPN 172.104.116.62 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.148.11.195
+docker run --privileged=true --name='l2tp_NetflixVPN_45.148.11.195_1666973717.5799837' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.148.11.195_1666973717.5799837:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.148.11.195 start
+docker is over
+l2tp_NetflixVPN_45.148.11.195_1666973717.5799837
+l2tp NetflixVPN 45.148.11.195 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 185.97.146.105
+docker run --privileged=true --name='l2tp_NetflixVPN_185.97.146.105_1666973727.4511588' -v /home/NetPlatform/temp/l2tp_NetflixVPN_185.97.146.105_1666973727.4511588:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 185.97.146.105 start
+docker is over
+l2tp_NetflixVPN_185.97.146.105_1666973727.4511588
+l2tp NetflixVPN 185.97.146.105 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.98.15.21
+docker run --privileged=true --name='l2tp_NetflixVPN_172.98.15.21_1666973737.2567823' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.98.15.21_1666973737.2567823:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.98.15.21 start
+docker is over
+l2tp_NetflixVPN_172.98.15.21_1666973737.2567823
+l2tp NetflixVPN 172.98.15.21 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.66.73
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.66.73_1666973747.170363' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.66.73_1666973747.170363:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.66.73 start
+docker is over
+l2tp_NetflixVPN_172.104.66.73_1666973747.170363
+l2tp NetflixVPN 172.104.66.73 over
+IP : 111.99.125.29
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.139
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.139_1666973788.4269025' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.139_1666973788.4269025:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.139 start
+docker is over
+l2tp_NetflixVPN_47.87.198.139_1666973788.4269025
+l2tp NetflixVPN 47.87.198.139 over
+IP : 212.252.140.125
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 103.172.92.139
+docker run --privileged=true --name='l2tp_NetflixVPN_103.172.92.139_1666973827.4413602' -v /home/NetPlatform/temp/l2tp_NetflixVPN_103.172.92.139_1666973827.4413602:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 103.172.92.139 start
+docker is over
+l2tp_NetflixVPN_103.172.92.139_1666973827.4413602
+l2tp NetflixVPN 103.172.92.139 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 31.220.5.193
+docker run --privileged=true --name='l2tp_NetflixVPN_31.220.5.193_1666973837.2991562' -v /home/NetPlatform/temp/l2tp_NetflixVPN_31.220.5.193_1666973837.2991562:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 31.220.5.193 start
+docker is over
+l2tp_NetflixVPN_31.220.5.193_1666973837.2991562
+l2tp NetflixVPN 31.220.5.193 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.113.196
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.113.196_1666973847.2434425' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.113.196_1666973847.2434425:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.113.196 start
+docker is over
+l2tp_NetflixVPN_147.135.113.196_1666973847.2434425
+l2tp NetflixVPN 147.135.113.196 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 104.244.72.156
+docker run --privileged=true --name='l2tp_NetflixVPN_104.244.72.156_1666973857.1038296' -v /home/NetPlatform/temp/l2tp_NetflixVPN_104.244.72.156_1666973857.1038296:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 104.244.72.156 start
+docker is over
+l2tp_NetflixVPN_104.244.72.156_1666973857.1038296
+l2tp NetflixVPN 104.244.72.156 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.30
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.30_1666973867.015128' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.30_1666973867.015128:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.30 start
+docker is over
+l2tp_NetflixVPN_47.87.197.30_1666973867.015128
+l2tp NetflixVPN 47.87.197.30 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.32.114.206
+docker run --privileged=true --name='l2tp_NetflixVPN_45.32.114.206_1666973877.4874597' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.32.114.206_1666973877.4874597:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.32.114.206 start
+docker is over
+l2tp_NetflixVPN_45.32.114.206_1666973877.4874597
+l2tp NetflixVPN 45.32.114.206 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.190.198
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.190.198_1666973887.287497' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.190.198_1666973887.287497:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.190.198 start
+docker is over
+l2tp_NetflixVPN_172.105.190.198_1666973887.287497
+l2tp NetflixVPN 172.105.190.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 176.119.159.97
+docker run --privileged=true --name='l2tp_NetflixVPN_176.119.159.97_1666973897.1131241' -v /home/NetPlatform/temp/l2tp_NetflixVPN_176.119.159.97_1666973897.1131241:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 176.119.159.97 start
+docker is over
+l2tp_NetflixVPN_176.119.159.97_1666973897.1131241
+l2tp NetflixVPN 176.119.159.97 over
+IP : 31.131.68.110
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.237.26
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.237.26_1666973941.6868865' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.237.26_1666973941.6868865:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.237.26 start
+docker is over
+l2tp_NetflixVPN_172.105.237.26_1666973941.6868865
+l2tp NetflixVPN 172.105.237.26 over
+IP : 27.91.140.233
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.100.90
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.100.90_1666973982.8951433' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.100.90_1666973982.8951433:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.100.90 start
+docker is over
+l2tp_NetflixVPN_172.104.100.90_1666973982.8951433
+l2tp NetflixVPN 172.104.100.90 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 164.152.166.29
+docker run --privileged=true --name='l2tp_NetflixVPN_164.152.166.29_1666973992.7392018' -v /home/NetPlatform/temp/l2tp_NetflixVPN_164.152.166.29_1666973992.7392018:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 164.152.166.29 start
+docker is over
+l2tp_NetflixVPN_164.152.166.29_1666973992.7392018
+l2tp NetflixVPN 164.152.166.29 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.198
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.198_1666974002.537005' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.198_1666974002.537005:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.198 start
+docker is over
+l2tp_NetflixVPN_47.87.197.198_1666974002.537005
+l2tp NetflixVPN 47.87.197.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 66.151.117.49
+docker run --privileged=true --name='l2tp_NetflixVPN_66.151.117.49_1666974012.661951' -v /home/NetPlatform/temp/l2tp_NetflixVPN_66.151.117.49_1666974012.661951:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 66.151.117.49 start
+docker is over
+l2tp_NetflixVPN_66.151.117.49_1666974012.661951
+l2tp NetflixVPN 66.151.117.49 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.114.43
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.114.43_1666974022.4735382' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.114.43_1666974022.4735382:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.114.43 start
+docker is over
+l2tp_NetflixVPN_147.135.114.43_1666974022.4735382
+l2tp NetflixVPN 147.135.114.43 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.240.247
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.240.247_1666974032.5830712' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.240.247_1666974032.5830712:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.240.247 start
+docker is over
+l2tp_NetflixVPN_172.105.240.247_1666974032.5830712
+l2tp NetflixVPN 172.105.240.247 over
+IP : 207.65.131.101
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.69.186
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.69.186_1666974065.7481434' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.69.186_1666974065.7481434:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.69.186 start
+docker is over
+l2tp_NetflixVPN_172.105.69.186_1666974065.7481434
+l2tp NetflixVPN 172.105.69.186 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.72.249
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.72.249_1666974075.5596488' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.72.249_1666974075.5596488:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.72.249 start
+docker is over
+l2tp_NetflixVPN_139.162.72.249_1666974075.5596488
+l2tp NetflixVPN 139.162.72.249 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 107.189.29.112
+docker run --privileged=true --name='l2tp_NetflixVPN_107.189.29.112_1666974085.6674778' -v /home/NetPlatform/temp/l2tp_NetflixVPN_107.189.29.112_1666974085.6674778:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 107.189.29.112 start
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1317, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1004, in _send_output
+    self.send(msg)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 944, in send
+    self.connect()
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1392, in connect
+    super().connect()
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "/usr/local/python3/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/local/python3/lib/python3.8/socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/NetPlatform/scripts/checkDNS.py", line 90, in <module>
+    all_8888_ips = get8888IPlist()
+  File "/home/NetPlatform/scripts/checkDNS.py", line 55, in get8888IPlist
+    s = urllib.request.urlopen(publicdns_url).read()
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1360, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -2] Name or service not known>
+docker is over
+l2tp_NetflixVPN_107.189.29.112_1666974085.6674778
+l2tp NetflixVPN 107.189.29.112 over
+IP : 0.0.0.0
+error : {'get_ip_error': "HTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ee9f89610>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 109.196.164.219
+docker run --privileged=true --name='l2tp_NetflixVPN_109.196.164.219_1666974154.3470345' -v /home/NetPlatform/temp/l2tp_NetflixVPN_109.196.164.219_1666974154.3470345:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 109.196.164.219 start
+docker is over
+l2tp_NetflixVPN_109.196.164.219_1666974154.3470345
+l2tp NetflixVPN 109.196.164.219 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.181.64
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.181.64_1666974164.1774783' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.181.64_1666974164.1774783:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.181.64 start
+docker is over
+l2tp_NetflixVPN_47.87.181.64_1666974164.1774783
+l2tp NetflixVPN 47.87.181.64 over
+IP : 170.51.106.3
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.138
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.138_1666974208.4417288' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.138_1666974208.4417288:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.138 start
+docker is over
+l2tp_NetflixVPN_47.87.198.138_1666974208.4417288
+l2tp NetflixVPN 47.87.198.138 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.176.20
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.176.20_1666974218.2415612' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.176.20_1666974218.2415612:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.176.20 start
+docker is over
+l2tp_NetflixVPN_47.87.176.20_1666974218.2415612
+l2tp NetflixVPN 47.87.176.20 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.227.7
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.227.7_1666974228.0624478' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.227.7_1666974228.0624478:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.227.7 start
+docker is over
+l2tp_NetflixVPN_172.105.227.7_1666974228.0624478
+l2tp NetflixVPN 172.105.227.7 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.125.65
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.125.65_1666974237.9780467' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.125.65_1666974237.9780467:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.125.65 start
+docker is over
+l2tp_NetflixVPN_172.104.125.65_1666974237.9780467
+l2tp NetflixVPN 172.104.125.65 over
+IP : 60.67.56.208
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.76.208
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.76.208_1666974270.8619573' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.76.208_1666974270.8619573:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.76.208 start
+docker is over
+l2tp_NetflixVPN_139.162.76.208_1666974270.8619573
+l2tp NetflixVPN 139.162.76.208 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 153.92.127.35
+docker run --privileged=true --name='l2tp_NetflixVPN_153.92.127.35_1666974280.6978886' -v /home/NetPlatform/temp/l2tp_NetflixVPN_153.92.127.35_1666974280.6978886:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 153.92.127.35 start
+docker is over
+l2tp_NetflixVPN_153.92.127.35_1666974280.6978886
+l2tp NetflixVPN 153.92.127.35 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.116.62
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.116.62_1666974290.473609' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.116.62_1666974290.473609:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.116.62 start
+docker is over
+l2tp_NetflixVPN_172.104.116.62_1666974290.473609
+l2tp NetflixVPN 172.104.116.62 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.148.11.195
+docker run --privileged=true --name='l2tp_NetflixVPN_45.148.11.195_1666974300.2557933' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.148.11.195_1666974300.2557933:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.148.11.195 start
+docker is over
+l2tp_NetflixVPN_45.148.11.195_1666974300.2557933
+l2tp NetflixVPN 45.148.11.195 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 185.97.146.105
+docker run --privileged=true --name='l2tp_NetflixVPN_185.97.146.105_1666974310.080011' -v /home/NetPlatform/temp/l2tp_NetflixVPN_185.97.146.105_1666974310.080011:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 185.97.146.105 start
+docker is over
+l2tp_NetflixVPN_185.97.146.105_1666974310.080011
+l2tp NetflixVPN 185.97.146.105 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.98.15.21
+docker run --privileged=true --name='l2tp_NetflixVPN_172.98.15.21_1666974319.8693714' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.98.15.21_1666974319.8693714:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.98.15.21 start
+docker is over
+l2tp_NetflixVPN_172.98.15.21_1666974319.8693714
+l2tp NetflixVPN 172.98.15.21 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.66.73
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.66.73_1666974329.6589506' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.66.73_1666974329.6589506:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.66.73 start
+docker is over
+l2tp_NetflixVPN_172.104.66.73_1666974329.6589506
+l2tp NetflixVPN 172.104.66.73 over
+IP : 111.99.125.29
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.139
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.139_1666974371.1318402' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.139_1666974371.1318402:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.139 start
+docker is over
+l2tp_NetflixVPN_47.87.198.139_1666974371.1318402
+l2tp NetflixVPN 47.87.198.139 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 103.172.92.139
+docker run --privileged=true --name='l2tp_NetflixVPN_103.172.92.139_1666974380.9373834' -v /home/NetPlatform/temp/l2tp_NetflixVPN_103.172.92.139_1666974380.9373834:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 103.172.92.139 start
+docker is over
+l2tp_NetflixVPN_103.172.92.139_1666974380.9373834
+l2tp NetflixVPN 103.172.92.139 over
+IP : 49.207.193.44
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 31.220.5.193
+docker run --privileged=true --name='l2tp_NetflixVPN_31.220.5.193_1666974400.6492178' -v /home/NetPlatform/temp/l2tp_NetflixVPN_31.220.5.193_1666974400.6492178:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 31.220.5.193 start
+docker is over
+l2tp_NetflixVPN_31.220.5.193_1666974400.6492178
+l2tp NetflixVPN 31.220.5.193 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.113.196
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.113.196_1666974410.4655578' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.113.196_1666974410.4655578:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.113.196 start
+docker is over
+l2tp_NetflixVPN_147.135.113.196_1666974410.4655578
+l2tp NetflixVPN 147.135.113.196 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 104.244.72.156
+docker run --privileged=true --name='l2tp_NetflixVPN_104.244.72.156_1666974420.2513473' -v /home/NetPlatform/temp/l2tp_NetflixVPN_104.244.72.156_1666974420.2513473:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 104.244.72.156 start
+docker is over
+l2tp_NetflixVPN_104.244.72.156_1666974420.2513473
+l2tp NetflixVPN 104.244.72.156 over
+IP : 86.201.64.169
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.30
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.30_1666974464.7526894' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.30_1666974464.7526894:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.30 start
+docker is over
+l2tp_NetflixVPN_47.87.197.30_1666974464.7526894
+l2tp NetflixVPN 47.87.197.30 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.32.114.206
+docker run --privileged=true --name='l2tp_NetflixVPN_45.32.114.206_1666974474.5363133' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.32.114.206_1666974474.5363133:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.32.114.206 start
+docker is over
+l2tp_NetflixVPN_45.32.114.206_1666974474.5363133
+l2tp NetflixVPN 45.32.114.206 over
+IP : 171.97.46.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.190.198
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.190.198_1666974518.262371' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.190.198_1666974518.262371:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.190.198 start
+docker is over
+l2tp_NetflixVPN_172.105.190.198_1666974518.262371
+l2tp NetflixVPN 172.105.190.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 176.119.159.97
+docker run --privileged=true --name='l2tp_NetflixVPN_176.119.159.97_1666974528.067222' -v /home/NetPlatform/temp/l2tp_NetflixVPN_176.119.159.97_1666974528.067222:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 176.119.159.97 start
+docker is over
+l2tp_NetflixVPN_176.119.159.97_1666974528.067222
+l2tp NetflixVPN 176.119.159.97 over
+IP : 31.131.68.110
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.237.26
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.237.26_1666974572.2545726' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.237.26_1666974572.2545726:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.237.26 start
+docker is over
+l2tp_NetflixVPN_172.105.237.26_1666974572.2545726
+l2tp NetflixVPN 172.105.237.26 over
+IP : 27.91.140.233
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.100.90
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.100.90_1666974613.686396' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.100.90_1666974613.686396:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.100.90 start
+docker is over
+l2tp_NetflixVPN_172.104.100.90_1666974613.686396
+l2tp NetflixVPN 172.104.100.90 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 164.152.166.29
+docker run --privileged=true --name='l2tp_NetflixVPN_164.152.166.29_1666974623.6064086' -v /home/NetPlatform/temp/l2tp_NetflixVPN_164.152.166.29_1666974623.6064086:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 164.152.166.29 start
+docker is over
+l2tp_NetflixVPN_164.152.166.29_1666974623.6064086
+l2tp NetflixVPN 164.152.166.29 over
+IP : 222.164.72.11
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.198
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.198_1666974638.3356562' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.198_1666974638.3356562:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.198 start
+docker is over
+l2tp_NetflixVPN_47.87.197.198_1666974638.3356562
+l2tp NetflixVPN 47.87.197.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 66.151.117.49
+docker run --privileged=true --name='l2tp_NetflixVPN_66.151.117.49_1666974648.2169497' -v /home/NetPlatform/temp/l2tp_NetflixVPN_66.151.117.49_1666974648.2169497:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 66.151.117.49 start
+docker is over
+l2tp_NetflixVPN_66.151.117.49_1666974648.2169497
+l2tp NetflixVPN 66.151.117.49 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.114.43
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.114.43_1666974658.008595' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.114.43_1666974658.008595:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.114.43 start
+docker is over
+l2tp_NetflixVPN_147.135.114.43_1666974658.008595
+l2tp NetflixVPN 147.135.114.43 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.240.247
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.240.247_1666974668.0457828' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.240.247_1666974668.0457828:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.240.247 start
+docker is over
+l2tp_NetflixVPN_172.105.240.247_1666974668.0457828
+l2tp NetflixVPN 172.105.240.247 over
+IP : 207.65.131.101
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.69.186
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.69.186_1666974703.1836426' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.69.186_1666974703.1836426:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.69.186 start
+docker is over
+l2tp_NetflixVPN_172.105.69.186_1666974703.1836426
+l2tp NetflixVPN 172.105.69.186 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.72.249
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.72.249_1666974713.2045143' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.72.249_1666974713.2045143:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.72.249 start
+docker is over
+l2tp_NetflixVPN_139.162.72.249_1666974713.2045143
+l2tp NetflixVPN 139.162.72.249 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 107.189.29.112
+docker run --privileged=true --name='l2tp_NetflixVPN_107.189.29.112_1666974722.998724' -v /home/NetPlatform/temp/l2tp_NetflixVPN_107.189.29.112_1666974722.998724:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 107.189.29.112 start
+docker is over
+l2tp_NetflixVPN_107.189.29.112_1666974722.998724
+l2tp NetflixVPN 107.189.29.112 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 109.196.164.219
+docker run --privileged=true --name='l2tp_NetflixVPN_109.196.164.219_1666974732.783455' -v /home/NetPlatform/temp/l2tp_NetflixVPN_109.196.164.219_1666974732.783455:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 109.196.164.219 start
+docker is over
+l2tp_NetflixVPN_109.196.164.219_1666974732.783455
+l2tp NetflixVPN 109.196.164.219 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.181.64
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.181.64_1666974742.5714262' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.181.64_1666974742.5714262:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.181.64 start
+docker is over
+l2tp_NetflixVPN_47.87.181.64_1666974742.5714262
+l2tp NetflixVPN 47.87.181.64 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.138
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.138_1666974752.3740838' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.138_1666974752.3740838:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.138 start
+docker is over
+l2tp_NetflixVPN_47.87.198.138_1666974752.3740838
+l2tp NetflixVPN 47.87.198.138 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.176.20
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.176.20_1666974762.1909733' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.176.20_1666974762.1909733:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.176.20 start
+docker is over
+l2tp_NetflixVPN_47.87.176.20_1666974762.1909733
+l2tp NetflixVPN 47.87.176.20 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.227.7
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.227.7_1666974771.9951289' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.227.7_1666974771.9951289:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.227.7 start
+docker is over
+l2tp_NetflixVPN_172.105.227.7_1666974771.9951289
+l2tp NetflixVPN 172.105.227.7 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.125.65
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.125.65_1666974781.7609973' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.125.65_1666974781.7609973:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.125.65 start
+docker is over
+l2tp_NetflixVPN_172.104.125.65_1666974781.7609973
+l2tp NetflixVPN 172.104.125.65 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.76.208
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.76.208_1666974791.54528' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.76.208_1666974791.54528:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.76.208 start
+docker is over
+l2tp_NetflixVPN_139.162.76.208_1666974791.54528
+l2tp NetflixVPN 139.162.76.208 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 153.92.127.35
+docker run --privileged=true --name='l2tp_NetflixVPN_153.92.127.35_1666974801.3507736' -v /home/NetPlatform/temp/l2tp_NetflixVPN_153.92.127.35_1666974801.3507736:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 153.92.127.35 start
+docker is over
+l2tp_NetflixVPN_153.92.127.35_1666974801.3507736
+l2tp NetflixVPN 153.92.127.35 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.116.62
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.116.62_1666974811.1500297' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.116.62_1666974811.1500297:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.116.62 start
+docker is over
+l2tp_NetflixVPN_172.104.116.62_1666974811.1500297
+l2tp NetflixVPN 172.104.116.62 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.148.11.195
+docker run --privileged=true --name='l2tp_NetflixVPN_45.148.11.195_1666974820.9413614' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.148.11.195_1666974820.9413614:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.148.11.195 start
+docker is over
+l2tp_NetflixVPN_45.148.11.195_1666974820.9413614
+l2tp NetflixVPN 45.148.11.195 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 185.97.146.105
+docker run --privileged=true --name='l2tp_NetflixVPN_185.97.146.105_1666974830.740154' -v /home/NetPlatform/temp/l2tp_NetflixVPN_185.97.146.105_1666974830.740154:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 185.97.146.105 start
+docker is over
+l2tp_NetflixVPN_185.97.146.105_1666974830.740154
+l2tp NetflixVPN 185.97.146.105 over
+IP : 75.108.0.140
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.98.15.21
+docker run --privileged=true --name='l2tp_NetflixVPN_172.98.15.21_1666974873.6804907' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.98.15.21_1666974873.6804907:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.98.15.21 start
+docker is over
+l2tp_NetflixVPN_172.98.15.21_1666974873.6804907
+l2tp NetflixVPN 172.98.15.21 over
+IP : 76.191.25.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.66.73
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.66.73_1666974906.8044589' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.66.73_1666974906.8044589:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.66.73 start
+docker is over
+l2tp_NetflixVPN_172.104.66.73_1666974906.8044589
+l2tp NetflixVPN 172.104.66.73 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.139
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.139_1666974916.61354' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.139_1666974916.61354:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.139 start
+docker is over
+l2tp_NetflixVPN_47.87.198.139_1666974916.61354
+l2tp NetflixVPN 47.87.198.139 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 103.172.92.139
+docker run --privileged=true --name='l2tp_NetflixVPN_103.172.92.139_1666974926.400616' -v /home/NetPlatform/temp/l2tp_NetflixVPN_103.172.92.139_1666974926.400616:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 103.172.92.139 start
+docker is over
+l2tp_NetflixVPN_103.172.92.139_1666974926.400616
+l2tp NetflixVPN 103.172.92.139 over
+IP : 49.204.116.53
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 31.220.5.193
+docker run --privileged=true --name='l2tp_NetflixVPN_31.220.5.193_1666974948.2774916' -v /home/NetPlatform/temp/l2tp_NetflixVPN_31.220.5.193_1666974948.2774916:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 31.220.5.193 start
+docker is over
+l2tp_NetflixVPN_31.220.5.193_1666974948.2774916
+l2tp NetflixVPN 31.220.5.193 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.113.196
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.113.196_1666974958.1045303' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.113.196_1666974958.1045303:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.113.196 start
+docker is over
+l2tp_NetflixVPN_147.135.113.196_1666974958.1045303
+l2tp NetflixVPN 147.135.113.196 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 104.244.72.156
+docker run --privileged=true --name='l2tp_NetflixVPN_104.244.72.156_1666974967.8993063' -v /home/NetPlatform/temp/l2tp_NetflixVPN_104.244.72.156_1666974967.8993063:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 104.244.72.156 start
+docker is over
+l2tp_NetflixVPN_104.244.72.156_1666974967.8993063
+l2tp NetflixVPN 104.244.72.156 over
+IP : 86.201.64.169
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.30
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.30_1666975014.0800464' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.30_1666975014.0800464:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.30 start
+docker is over
+l2tp_NetflixVPN_47.87.197.30_1666975014.0800464
+l2tp NetflixVPN 47.87.197.30 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.32.114.206
+docker run --privileged=true --name='l2tp_NetflixVPN_45.32.114.206_1666975024.0156589' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.32.114.206_1666975024.0156589:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.32.114.206 start
+docker is over
+l2tp_NetflixVPN_45.32.114.206_1666975024.0156589
+l2tp NetflixVPN 45.32.114.206 over
+IP : 171.97.46.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.190.198
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.190.198_1666975067.7206366' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.190.198_1666975067.7206366:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.190.198 start
+docker is over
+l2tp_NetflixVPN_172.105.190.198_1666975067.7206366
+l2tp NetflixVPN 172.105.190.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 176.119.159.97
+docker run --privileged=true --name='l2tp_NetflixVPN_176.119.159.97_1666975077.6826384' -v /home/NetPlatform/temp/l2tp_NetflixVPN_176.119.159.97_1666975077.6826384:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 176.119.159.97 start
+docker is over
+l2tp_NetflixVPN_176.119.159.97_1666975077.6826384
+l2tp NetflixVPN 176.119.159.97 over
+IP : 31.131.68.110
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.237.26
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.237.26_1666975123.1835754' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.237.26_1666975123.1835754:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.237.26 start
+docker is over
+l2tp_NetflixVPN_172.105.237.26_1666975123.1835754
+l2tp NetflixVPN 172.105.237.26 over
+IP : 36.13.236.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.100.90
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.100.90_1666975165.3610647' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.100.90_1666975165.3610647:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.100.90 start
+docker is over
+l2tp_NetflixVPN_172.104.100.90_1666975165.3610647
+l2tp NetflixVPN 172.104.100.90 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 164.152.166.29
+docker run --privileged=true --name='l2tp_NetflixVPN_164.152.166.29_1666975175.2824495' -v /home/NetPlatform/temp/l2tp_NetflixVPN_164.152.166.29_1666975175.2824495:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 164.152.166.29 start
+docker is over
+l2tp_NetflixVPN_164.152.166.29_1666975175.2824495
+l2tp NetflixVPN 164.152.166.29 over
+IP : 222.164.72.11
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.198
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.198_1666975190.0736036' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.198_1666975190.0736036:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.198 start
+docker is over
+l2tp_NetflixVPN_47.87.197.198_1666975190.0736036
+l2tp NetflixVPN 47.87.197.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 66.151.117.49
+docker run --privileged=true --name='l2tp_NetflixVPN_66.151.117.49_1666975200.23816' -v /home/NetPlatform/temp/l2tp_NetflixVPN_66.151.117.49_1666975200.23816:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 66.151.117.49 start
+docker is over
+l2tp_NetflixVPN_66.151.117.49_1666975200.23816
+l2tp NetflixVPN 66.151.117.49 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.114.43
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.114.43_1666975210.185249' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.114.43_1666975210.185249:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.114.43 start
+docker is over
+l2tp_NetflixVPN_147.135.114.43_1666975210.185249
+l2tp NetflixVPN 147.135.114.43 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.240.247
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.240.247_1666975219.9806197' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.240.247_1666975219.9806197:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.240.247 start
+docker is over
+l2tp_NetflixVPN_172.105.240.247_1666975219.9806197
+l2tp NetflixVPN 172.105.240.247 over
+IP : 207.65.131.101
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.69.186
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.69.186_1666975253.2505765' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.69.186_1666975253.2505765:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.69.186 start
+docker is over
+l2tp_NetflixVPN_172.105.69.186_1666975253.2505765
+l2tp NetflixVPN 172.105.69.186 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.72.249
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.72.249_1666975263.1137862' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.72.249_1666975263.1137862:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.72.249 start
+docker is over
+l2tp_NetflixVPN_139.162.72.249_1666975263.1137862
+l2tp NetflixVPN 139.162.72.249 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 107.189.29.112
+docker run --privileged=true --name='l2tp_NetflixVPN_107.189.29.112_1666975272.9192295' -v /home/NetPlatform/temp/l2tp_NetflixVPN_107.189.29.112_1666975272.9192295:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 107.189.29.112 start
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1317, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1004, in _send_output
+    self.send(msg)
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 944, in send
+    self.connect()
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 1392, in connect
+    super().connect()
+  File "/usr/local/python3/lib/python3.8/http/client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "/usr/local/python3/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/local/python3/lib/python3.8/socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/NetPlatform/scripts/checkDNS.py", line 90, in <module>
+    all_8888_ips = get8888IPlist()
+  File "/home/NetPlatform/scripts/checkDNS.py", line 55, in get8888IPlist
+    s = urllib.request.urlopen(publicdns_url).read()
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1360, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/local/python3/lib/python3.8/urllib/request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -2] Name or service not known>
+docker is over
+l2tp_NetflixVPN_107.189.29.112_1666975272.9192295
+l2tp NetflixVPN 107.189.29.112 over
+IP : 0.0.0.0
+error : {'get_ip_error': "HTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1435f50610>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 109.196.164.219
+docker run --privileged=true --name='l2tp_NetflixVPN_109.196.164.219_1666975341.6531007' -v /home/NetPlatform/temp/l2tp_NetflixVPN_109.196.164.219_1666975341.6531007:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 109.196.164.219 start
+docker is over
+l2tp_NetflixVPN_109.196.164.219_1666975341.6531007
+l2tp NetflixVPN 109.196.164.219 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.181.64
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.181.64_1666975351.4675586' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.181.64_1666975351.4675586:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.181.64 start
+docker is over
+l2tp_NetflixVPN_47.87.181.64_1666975351.4675586
+l2tp NetflixVPN 47.87.181.64 over
+IP : 170.51.106.3
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.138
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.138_1666975395.7736099' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.138_1666975395.7736099:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.138 start
+docker is over
+l2tp_NetflixVPN_47.87.198.138_1666975395.7736099
+l2tp NetflixVPN 47.87.198.138 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.176.20
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.176.20_1666975405.566233' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.176.20_1666975405.566233:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.176.20 start
+docker is over
+l2tp_NetflixVPN_47.87.176.20_1666975405.566233
+l2tp NetflixVPN 47.87.176.20 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.227.7
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.227.7_1666975415.3681328' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.227.7_1666975415.3681328:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.227.7 start
+docker is over
+l2tp_NetflixVPN_172.105.227.7_1666975415.3681328
+l2tp NetflixVPN 172.105.227.7 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.125.65
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.125.65_1666975425.1727777' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.125.65_1666975425.1727777:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.125.65 start
+docker is over
+l2tp_NetflixVPN_172.104.125.65_1666975425.1727777
+l2tp NetflixVPN 172.104.125.65 over
+IP : 60.67.56.208
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 139.162.76.208
+docker run --privileged=true --name='l2tp_NetflixVPN_139.162.76.208_1666975458.207873' -v /home/NetPlatform/temp/l2tp_NetflixVPN_139.162.76.208_1666975458.207873:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 139.162.76.208 start
+docker is over
+l2tp_NetflixVPN_139.162.76.208_1666975458.207873
+l2tp NetflixVPN 139.162.76.208 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 153.92.127.35
+docker run --privileged=true --name='l2tp_NetflixVPN_153.92.127.35_1666975468.0642822' -v /home/NetPlatform/temp/l2tp_NetflixVPN_153.92.127.35_1666975468.0642822:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 153.92.127.35 start
+docker is over
+l2tp_NetflixVPN_153.92.127.35_1666975468.0642822
+l2tp NetflixVPN 153.92.127.35 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.116.62
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.116.62_1666975477.8489923' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.116.62_1666975477.8489923:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.116.62 start
+docker is over
+l2tp_NetflixVPN_172.104.116.62_1666975477.8489923
+l2tp NetflixVPN 172.104.116.62 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.148.11.195
+docker run --privileged=true --name='l2tp_NetflixVPN_45.148.11.195_1666975487.643578' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.148.11.195_1666975487.643578:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.148.11.195 start
+docker is over
+l2tp_NetflixVPN_45.148.11.195_1666975487.643578
+l2tp NetflixVPN 45.148.11.195 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 185.97.146.105
+docker run --privileged=true --name='l2tp_NetflixVPN_185.97.146.105_1666975497.4600618' -v /home/NetPlatform/temp/l2tp_NetflixVPN_185.97.146.105_1666975497.4600618:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 185.97.146.105 start
+docker is over
+l2tp_NetflixVPN_185.97.146.105_1666975497.4600618
+l2tp NetflixVPN 185.97.146.105 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.98.15.21
+docker run --privileged=true --name='l2tp_NetflixVPN_172.98.15.21_1666975507.2830834' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.98.15.21_1666975507.2830834:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.98.15.21 start
+docker is over
+l2tp_NetflixVPN_172.98.15.21_1666975507.2830834
+l2tp NetflixVPN 172.98.15.21 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.66.73
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.66.73_1666975517.112523' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.66.73_1666975517.112523:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.66.73 start
+docker is over
+l2tp_NetflixVPN_172.104.66.73_1666975517.112523
+l2tp NetflixVPN 172.104.66.73 over
+IP : 111.99.125.29
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.198.139
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.198.139_1666975559.0562916' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.198.139_1666975559.0562916:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.198.139 start
+docker is over
+l2tp_NetflixVPN_47.87.198.139_1666975559.0562916
+l2tp NetflixVPN 47.87.198.139 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 103.172.92.139
+docker run --privileged=true --name='l2tp_NetflixVPN_103.172.92.139_1666975568.9537363' -v /home/NetPlatform/temp/l2tp_NetflixVPN_103.172.92.139_1666975568.9537363:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 103.172.92.139 start
+docker is over
+l2tp_NetflixVPN_103.172.92.139_1666975568.9537363
+l2tp NetflixVPN 103.172.92.139 over
+IP : 49.204.116.53
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 31.220.5.193
+docker run --privileged=true --name='l2tp_NetflixVPN_31.220.5.193_1666975588.0795817' -v /home/NetPlatform/temp/l2tp_NetflixVPN_31.220.5.193_1666975588.0795817:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 31.220.5.193 start
+docker is over
+l2tp_NetflixVPN_31.220.5.193_1666975588.0795817
+l2tp NetflixVPN 31.220.5.193 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.113.196
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.113.196_1666975597.8505177' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.113.196_1666975597.8505177:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.113.196 start
+docker is over
+l2tp_NetflixVPN_147.135.113.196_1666975597.8505177
+l2tp NetflixVPN 147.135.113.196 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 104.244.72.156
+docker run --privileged=true --name='l2tp_NetflixVPN_104.244.72.156_1666975607.7128136' -v /home/NetPlatform/temp/l2tp_NetflixVPN_104.244.72.156_1666975607.7128136:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 104.244.72.156 start
+docker is over
+l2tp_NetflixVPN_104.244.72.156_1666975607.7128136
+l2tp NetflixVPN 104.244.72.156 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.30
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.30_1666975617.5053275' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.30_1666975617.5053275:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.30 start
+docker is over
+l2tp_NetflixVPN_47.87.197.30_1666975617.5053275
+l2tp NetflixVPN 47.87.197.30 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 45.32.114.206
+docker run --privileged=true --name='l2tp_NetflixVPN_45.32.114.206_1666975627.3013644' -v /home/NetPlatform/temp/l2tp_NetflixVPN_45.32.114.206_1666975627.3013644:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 45.32.114.206 start
+docker is over
+l2tp_NetflixVPN_45.32.114.206_1666975627.3013644
+l2tp NetflixVPN 45.32.114.206 over
+IP : 171.97.46.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.190.198
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.190.198_1666975671.0075614' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.190.198_1666975671.0075614:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.190.198 start
+docker is over
+l2tp_NetflixVPN_172.105.190.198_1666975671.0075614
+l2tp NetflixVPN 172.105.190.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 176.119.159.97
+docker run --privileged=true --name='l2tp_NetflixVPN_176.119.159.97_1666975680.8336308' -v /home/NetPlatform/temp/l2tp_NetflixVPN_176.119.159.97_1666975680.8336308:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 176.119.159.97 start
+docker is over
+l2tp_NetflixVPN_176.119.159.97_1666975680.8336308
+l2tp NetflixVPN 176.119.159.97 over
+IP : 31.131.68.110
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.237.26
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.237.26_1666975725.2955563' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.237.26_1666975725.2955563:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.237.26 start
+docker is over
+l2tp_NetflixVPN_172.105.237.26_1666975725.2955563
+l2tp NetflixVPN 172.105.237.26 over
+IP : 36.13.236.86
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.104.100.90
+docker run --privileged=true --name='l2tp_NetflixVPN_172.104.100.90_1666975766.800172' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.104.100.90_1666975766.800172:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.104.100.90 start
+docker is over
+l2tp_NetflixVPN_172.104.100.90_1666975766.800172
+l2tp NetflixVPN 172.104.100.90 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 164.152.166.29
+docker run --privileged=true --name='l2tp_NetflixVPN_164.152.166.29_1666975776.61162' -v /home/NetPlatform/temp/l2tp_NetflixVPN_164.152.166.29_1666975776.61162:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 164.152.166.29 start
+docker is over
+l2tp_NetflixVPN_164.152.166.29_1666975776.61162
+l2tp NetflixVPN 164.152.166.29 over
+IP : 222.164.72.11
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 47.87.197.198
+docker run --privileged=true --name='l2tp_NetflixVPN_47.87.197.198_1666975791.3318489' -v /home/NetPlatform/temp/l2tp_NetflixVPN_47.87.197.198_1666975791.3318489:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 47.87.197.198 start
+docker is over
+l2tp_NetflixVPN_47.87.197.198_1666975791.3318489
+l2tp NetflixVPN 47.87.197.198 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 66.151.117.49
+docker run --privileged=true --name='l2tp_NetflixVPN_66.151.117.49_1666975801.527613' -v /home/NetPlatform/temp/l2tp_NetflixVPN_66.151.117.49_1666975801.527613:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 66.151.117.49 start
+docker is over
+l2tp_NetflixVPN_66.151.117.49_1666975801.527613
+l2tp NetflixVPN 66.151.117.49 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 147.135.114.43
+docker run --privileged=true --name='l2tp_NetflixVPN_147.135.114.43_1666975811.361763' -v /home/NetPlatform/temp/l2tp_NetflixVPN_147.135.114.43_1666975811.361763:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 147.135.114.43 start
+docker is over
+l2tp_NetflixVPN_147.135.114.43_1666975811.361763
+l2tp NetflixVPN 147.135.114.43 over
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+username : shuaiqi003@126.com
+password : 123456789Aa@
+server_ip : 172.105.240.247
+docker run --privileged=true --name='l2tp_NetflixVPN_172.105.240.247_1666975821.1944957' -v /home/NetPlatform/temp/l2tp_NetflixVPN_172.105.240.247_1666975821.1944957:/home/NetPlatform biganabc/client:005 /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'
+l2tp NetflixVPN 172.105.240.247 start
+docker is over
+l2tp_NetflixVPN_172.105.240.247_1666975821.1944957
+l2tp NetflixVPN 172.105.240.247 over
+IP : 207.65.131.101
