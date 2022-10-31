@@ -43,7 +43,7 @@ class DockerController(threading.Thread):
         print("已经创建了child")
         child.expect(pexpect.EOF)
         print("认为它结束了")
-
+        input()
         # os.system(command)
         # input("请您进入docker " + self.docker_name + " 查看")
         # print("docker is over")
