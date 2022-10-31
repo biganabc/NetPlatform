@@ -101,7 +101,6 @@ class L2tpThread(threading.Thread):
             with open("/etc/xl2tpd/xl2tpd.conf", "w") as f:
                 f.writelines(str_list)
 
-            # input()
             # 到这里应该都是没问题的。后面不管是用pexpect还是用os.system都不行
 
             # child = pexpect.spawn("xl2tpd")
@@ -154,8 +153,6 @@ class L2tpThread(threading.Thread):
 
 
 if __name__ == "__main__":
-    while True:
-        time.sleep(2)
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
     if task["VPNType"] == "openVPN":
@@ -171,7 +168,6 @@ if __name__ == "__main__":
         print("service_ip : " + l2tp_config["service_ip"])
         print("username : " + l2tp_config["username"])
         print("password : " + l2tp_config["password"])
-        # input()
         connectThread.join()
     else:
         raise Exception("指令错误 : " + task["VPNType"])
