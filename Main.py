@@ -32,23 +32,23 @@ class DockerController(threading.Thread):
         super().__init__()
         self.docker_name = docker_name
         self.image_name = image_name
-        self.child = None
 
     def run(self):
         command = "docker run --privileged=true --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
 
-        print("即将创建child")
         child = pexpect.spawn(command)
-        print("已经创建了child")
-        child.expect(pexpect.EOF)
-        print("认为它结束了")
-        input()
-        # os.system(command)
-        # input("请您进入docker " + self.docker_name + " 查看")
-        # print("docker is over")
+        try:
+            child.expect(pexpect.EOF, timeout=10)
+        except Exception as ex:
+            os.system(
+                "docker rm -f" + self.docker_name
+            )
+            print("超时了")
+            return
+
         os.system(
-            "docker rm " + self.docker_name
+            "docker rm -f" + self.docker_name
         )
         os.makedirs("/home/NetPlatform/all_results/" + self.docker_name)
         shutil.move("/home/NetPlatform/temp/" + self.docker_name + "/temp/ip_info.json",
