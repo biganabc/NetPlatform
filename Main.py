@@ -257,16 +257,16 @@ class DockerManager:
 
     def start(self):
         while True:
-            print("寻找任务")
+            # print("寻找任务")
             if not self.have_task():
-                print("无任务")
+                # print("无任务")
                 break
             task = self.get_task()
             if task is None:
-                print("找不到任务")
+                # print("找不到任务")
                 time.sleep(5)
                 continue
-            print("即将安排任务")
+            # print("即将安排任务")
             protocol = task[0]
             service = task[1]
             self.start_one_thread(protocol, service)
