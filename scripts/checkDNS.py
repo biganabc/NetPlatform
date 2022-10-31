@@ -57,10 +57,10 @@ def get8888IPlist():
         publicdns_json = json.loads(s)
         print("json解析完毕")
     except urllib.error.HTTPError:
-        print('Invalid HTTP response from %s' % url)
+        # print('Invalid HTTP response from %s' % url)
         return []
     except json.decoder.JSONDecodeError:
-        print('Could not parse HTTP response from %s' % url)
+        # print('Could not parse HTTP response from %s' % url)
         return []
     result = []
     print("即将提炼IP地址")

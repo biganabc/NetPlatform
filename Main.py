@@ -5,6 +5,8 @@ import json
 import threading
 import time
 import dns.resolver
+import subprocess
+import eventlet
 
 DOCKER_IMAGE = "biganabc/client:005"
 
@@ -34,9 +36,18 @@ class DockerController(threading.Thread):
     def run(self):
         command = "docker run --privileged=true --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
-        os.system(command)
+
+        with os.popen("nohup " + command + " > log 2>&1 &") as f:
+            sstr_ = f.read()
+        print("读取到的字符串***" + sstr_ + "***")
+        index_0 = sstr_.index("]")
+        pid_ = int(sstr_[index_0 + 2:])
+        print("进程号是 : " + str(pid_))
+        input()
+
+        # os.system(command)
         # input("请您进入docker " + self.docker_name + " 查看")
-        print("docker is over")
+        # print("docker is over")
         os.system(
             "docker rm " + self.docker_name
         )
