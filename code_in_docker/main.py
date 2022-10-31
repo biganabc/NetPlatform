@@ -155,6 +155,7 @@ class L2tpThread(threading.Thread):
 
 if __name__ == "__main__":
     # input()
+    exit(0)
     with open("/home/NetPlatform/configurations/task.json", "r") as f:
         task = json.load(f)
     if task["VPNType"] == "openVPN":
