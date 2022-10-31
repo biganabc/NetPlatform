@@ -49,7 +49,7 @@ class DockerController(threading.Thread):
             return
         self.success = True
         os.system(
-            "docker rm -f" + self.docker_name
+            "docker rm -f " + self.docker_name
         )
         os.makedirs("/home/NetPlatform/all_results/" + self.docker_name)
         shutil.move("/home/NetPlatform/temp/" + self.docker_name + "/temp/ip_info.json",
