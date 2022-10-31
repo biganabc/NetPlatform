@@ -39,7 +39,7 @@ class DockerController(threading.Thread):
         print(command)
         self.child = pexpect.spawn("nohup " + command + " > log 2>&1 &")
         print("已经创建了child")
-        self.child.expect(pexpect.EOF)
+        self.child.expect('\\]')
         print("expect结束")
         print("before")
         print(self.child.before)
