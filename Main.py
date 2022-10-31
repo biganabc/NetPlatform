@@ -211,7 +211,6 @@ class DockerManager:
 
     def get_task(self):
         self.lock.acquire()
-        task = None
         for protocol in self.task_dict:
             for service in self.task_dict[protocol]:
                 if self.task_dict[protocol][service] > 0 and self.connection_dict[protocol][
@@ -219,9 +218,10 @@ class DockerManager:
                     self.task_dict[protocol][service] -= 1
                     self.connection_dict[protocol][service] -= 1
                     self.pool -= 1
-                    task = protocol, service
+                    self.lock.release()
+                    return protocol, service
         self.lock.release()
-        return task
+        return None
 
     def finish(self, protocol, service):
         print("协议 " + protocol + " 服务 " + service + " 的一个线程结束了")
@@ -306,6 +306,7 @@ if __name__ == "__main__":
     for service in VPN_dict["l2tp"]:
         connection_dict["l2tp"][service] = 1
     print(connection_dict)
+    print(my_task)
     DockerManager(10, connection_dict, my_task, VPN_dict).start()
 
     # for _ in range(config_dict["openVPN"]["global_epoch"]):
