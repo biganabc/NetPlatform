@@ -40,7 +40,7 @@ class DockerController(threading.Thread):
 
         child = pexpect.spawn(command)
         try:
-            child.expect(pexpect.EOF, timeout=240)
+            child.expect(pexpect.EOF, timeout=50)
         except Exception as ex:
             os.system(
                 "docker rm -f " + self.docker_name
