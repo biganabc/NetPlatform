@@ -42,7 +42,7 @@ class DockerController(threading.Thread):
             child.expect(pexpect.EOF, timeout=10)
         except Exception as ex:
             os.system(
-                "docker rm -f" + self.docker_name
+                "docker rm -f " + self.docker_name
             )
             print("超时了")
             return
