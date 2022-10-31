@@ -6,6 +6,7 @@ import threading
 import time
 import dns.resolver
 import subprocess
+import pexpect
 
 DOCKER_IMAGE = "biganabc/client:005"
 
@@ -31,11 +32,20 @@ class DockerController(threading.Thread):
         super().__init__()
         self.docker_name = docker_name
         self.image_name = image_name
+        self.child = None
 
     def run(self):
         command = "docker run --privileged=true --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
-
+        self.child = pexpect.spawn("nohup " + command + " > log 2>&1 &")
+        print("已经创建了child")
+        self.child.expect(pexpect.EOF)
+        print("expect结束")
+        print("before")
+        print(self.child.before)
+        print("after")
+        print(self.child.after)
+        input()
         with os.popen("nohup " + command + " > log 2>&1 &") as f:
             sstr_ = f.read()
         print("读取到的字符串***" + sstr_ + "***")
