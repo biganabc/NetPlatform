@@ -37,22 +37,12 @@ class DockerController(threading.Thread):
     def run(self):
         command = "docker run --privileged=true --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
-        self.child = pexpect.spawn("nohup " + command + " > log 2>&1 &")
+
+        print("即将创建child")
+        child = pexpect.spawn(command)
         print("已经创建了child")
-        self.child.expect('\\]')
-        print("expect结束")
-        print("before")
-        print(self.child.before)
-        print("after")
-        print(self.child.after)
-        input()
-        with os.popen("nohup " + command + " > log 2>&1 &") as f:
-            sstr_ = f.read()
-        print("读取到的字符串***" + sstr_ + "***")
-        index_0 = sstr_.index("]")
-        pid_ = int(sstr_[index_0 + 2:])
-        print("进程号是 : " + str(pid_))
-        input()
+        child.expect(pexpect.EOF)
+        print("认为它结束了")
 
         # os.system(command)
         # input("请您进入docker " + self.docker_name + " 查看")
