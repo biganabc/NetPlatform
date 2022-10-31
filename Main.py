@@ -6,7 +6,6 @@ import threading
 import time
 import dns.resolver
 import subprocess
-import eventlet
 
 DOCKER_IMAGE = "biganabc/client:005"
 
