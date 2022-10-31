@@ -34,7 +34,7 @@ class DockerController(threading.Thread):
         self.image_name = image_name
 
     def run(self):
-        command = "docker run --privileged=true --name='" + self.docker_name + "' -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
+        command = "docker run --privileged=true --name=" + self.docker_name + " -v /home/NetPlatform/temp/" + self.docker_name + ":/home/NetPlatform" + " " + self.image_name + " /bin/sh -c 'python3 -u /home/NetPlatform/Code/main.py > /home/NetPlatform/temp/debug'"
         print(command)
 
         child = pexpect.spawn(command)
