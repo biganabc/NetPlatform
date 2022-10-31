@@ -302,6 +302,8 @@ if __name__ == "__main__":
     for service in VPN_dict["l2tp"]:
         connection_dict["l2tp"][service] = 1
 
+    DockerManager(10, connection_dict, my_task, VPN_dict).start()
+
     # for _ in range(config_dict["openVPN"]["global_epoch"]):
     #     for service in VPN_dict["openVPN"]:
     #         username = VPN_dict["openVPN"][service]["username"]
