@@ -1,0 +1,1 @@
+python3 -u /home/NetPlatform/scripts/checkDNS.py > /home/NetPlatform/result/checkDNS_log.txt

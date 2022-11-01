@@ -1,1 +1,0 @@
-{"ip_str": "0.0.0.0", "errors": {"get_ip_error": "HTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=4)"}}
