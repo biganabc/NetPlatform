@@ -67,7 +67,7 @@ if __name__ == "__main__":
         print("即将给" + ip_str + "发送")
         send_packet, receive_packet = queryDNS(ip_str,
                                                self_ip_str + "." + ip_str + "." + str(
-                                                   time.time()) + "." + ".queryrecord.com")
+                                                   time.time()) + "." + "queryrecord.com")
         send_p_str = packet2str(send_packet)
 
         if receive_packet is not None:
@@ -80,7 +80,7 @@ if __name__ == "__main__":
         if ip_str == "202.112.51.108":
             send_packet, receive_packet = queryDNS(ip_str,
                                                    self_ip_str + "." + ip_str + "." + str(
-                                                       time.time()) + "." + ".queryrecord.com",
+                                                       time.time()) + "." + "queryrecord.com",
                                                    3)
             send_p_str = packet2str(send_packet)
             if receive_packet is not None:

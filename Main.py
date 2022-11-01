@@ -290,9 +290,9 @@ if __name__ == "__main__":
 
     # TASK
     for service in VPN_dict["openVPN"]:
-        my_task["openVPN"][service] = 200
+        my_task["openVPN"][service] = 500
     for service in VPN_dict["l2tp"]:
-        my_task["l2tp"][service] = 200
+        my_task["l2tp"][service] = 500
 
     # route
     for service in VPN_dict["openVPN"]:
