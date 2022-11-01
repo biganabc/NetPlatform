@@ -12971,3 +12971,2668 @@ ovpn_SurfsharkVPN_md-chi.prod.surfshark.com_tcp.ovpn_1667293872.4127007
 IP : 194.33.40.113
 协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
 即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SK-Bratislava-bra01-udp.ovpn_1667293887.432371
+IP : 193.37.255.174
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.10_1667293892.4494648
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_NetflixVPN_45.32.114.206_1667293887.4402852
+IP : 58.136.164.142
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+ovpn_SurfsharkVPN_us-lax.prod.surfshark.com_tcp.ovpn_1667293897.4536362
+IP : 169.150.203.240
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_hu2-ovpn-udp.ovpn_1667293892.4445448
+IP : 146.70.120.66
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667293912.4717443
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SG-Singapore_2-sin02-tcp.ovpn_1667293912.4672256
+IP : 15.235.155.168
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_idn2-ovpn-udp.ovpn_1667293917.4765406
+IP : 103.60.9.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_NetflixVPN_185.97.146.105_1667293917.4884906
+IP : 47.224.132.74
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.8_1667293927.5008225
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+ovpn_SurfsharkVPN_tw-tai.prod.surfshark.com_tcp.ovpn_1667293917.4807923
+IP : 2.58.242.54
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_NetflixVPN_172.104.116.62_1667293947.5228524
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667293947.518668
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_NetflixVPN_47.87.198.138_1667293962.5427372
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+ovpn_SurfsharkVPN_mt-mla.prod.surfshark.com_udp.ovpn_1667293957.5348957
+IP : 193.228.56.6
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-EG-Cairo-cai01-tcp.ovpn_1667293942.5135815
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fdb1429f370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-EG-Cairo-cai01-tcp.ovpn']\nbuffer (last 100 chars): b'e Nov  1 09:12:26 2022 TLS: Initial packet from [AF_INET]41.215.242.162:443, sid=5f1fe167 946dcecf\\r\\n'\nbefore (last 100 chars): b'e Nov  1 09:12:26 2022 TLS: Initial packet from [AF_INET]41.215.242.162:443, sid=5f1fe167 946dcecf\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+ovpn_PureVPN_eg2-ovpn-udp.ovpn_1667293942.5090098
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fa350cc5370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/eg2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2022 UDP link local: (not bound)\\r\\nTue Nov  1 09:12:25 2022 UDP link remote: [AF_INET]45.74.55.4:53\\r\\n'\nbefore (last 100 chars): b'2022 UDP link local: (not bound)\\r\\nTue Nov  1 09:12:25 2022 UDP link remote: [AF_INET]45.74.55.4:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.37.178_1667293967.548976
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+l2tp_NetflixVPN_45.148.11.195_1667293977.5927548
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+l2tp_JellyVPN_85.206.162.28_1667293977.576482
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+ovpn_PureVPN_ukg2-ovpn-tcp.ovpn_1667293977.551281
+IP : 5.253.114.65
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_82.102.17.181_tcp.ovpn_1667293977.5665593
+IP : 82.102.17.182
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.30_1667293992.6082737
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_NetflixVPN_139.162.72.249_1667293992.6125183
+IP : 152.165.64.161
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+即将开启协议 l2tp 服务 NetflixVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-BG-Sofia-sof01-udp.ovpn_1667293977.555918
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff0ed697370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-BG-Sofia-sof01-udp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:13:24 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:13:24 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667294007.6362462
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_sk2-ovpn-udp.ovpn_1667294002.6246774
+IP : 138.199.34.193
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_in-del.prod.surfshark.com_udp.ovpn_1667294007.6317146
+IP : 36.255.196.44
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_NetflixVPN_172.105.237.26_1667294012.644653
+IP : 133.114.95.172
+协议 l2tp 服务 NetflixVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Atlanta-atl01-udp.ovpn_1667294017.650692
+IP : 216.119.157.54
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_84.17.58.134_udp.ovpn_1667294027.6661756
+IP : 84.17.58.135
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Portland_2-por02-udp.ovpn_1667294037.678793
+IP : 69.163.33.26
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_us2-ovpn-tcp.ovpn_1667294022.6559699
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f8a9096a370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us2-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:13:45 2022 Attempting to establish TCP connection with [AF_INET]37.120.150.138:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:13:45 2022 Attempting to establish TCP connection with [AF_INET]37.120.150.138:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_bt-pbh.prod.surfshark.com_tcp.ovpn_1667294047.6881142
+IP : 62.197.157.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667294022.662452
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-AU-Kayo_5-syd03-tcp.ovpn_1667294052.6916828
+IP : 103.25.58.167
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_lt2-ovpn-tcp.ovpn_1667294057.6954765
+IP : 85.206.170.36
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_196.244.191.163_udp.ovpn_1667294072.7115724
+IP : 196.244.191.164
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PL-Warsaw_2-war02-udp.ovpn_1667294077.7198775
+IP : 37.235.48.133
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_be2-ovpn-udp.ovpn_1667294077.715672
+IP : 146.70.55.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_jp-tok-st025.prod.surfshark.com_tcp.ovpn_1667294092.7382941
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f8b5e503370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/jp-tok-st025.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:15:02 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SI-Ljubljana_1-lju01-tcp.ovpn_1667294097.7418056
+IP : 192.71.244.66
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_eg-cai.prod.surfshark.com_udp.ovpn_1667294107.7580762
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f7e3ff74370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/eg-cai.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:15:16 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_pl2-ovpn.ovpn_1667294102.748678
+IP : 146.70.85.194
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667294077.7286015
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_180.149.231.69_tcp.ovpn_1667294117.7741606
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f98cb140370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/180.149.231.69_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:15:29 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-TR-Bursa-bur01-udp.ovpn_1667294117.768929
+IP : 45.123.119.41
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_uk-lon-st003.prod.surfshark.com_tcp.ovpn_1667294132.7979202
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fcc54ad4370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/uk-lon-st003.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:15:43 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ru2-ovpn-tcp.ovpn_1667294127.7914011
+IP : 92.38.153.5
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_ch-zur.prod.surfshark.com_udp.ovpn_1667294147.8269558
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fa7b3262370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/ch-zur.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:15:57 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-IM-Douglas_2-dou02-udp.ovpn_1667294142.8154337
+IP : 37.235.55.189
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_us-atl.prod.surfshark.com_udp.ovpn_1667294157.8386593
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fa13a6b0370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-atl.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:16:06 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ge2-ovpn-udp.ovpn_1667294152.8334343
+IP : 104.250.182.34
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_sg-sng-st007.prod.surfshark.com_tcp.ovpn_1667294167.8471358
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f189a4d0370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/sg-sng-st007.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:16:18 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667294132.802515
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_cy2-ovpn-tcp.ovpn_1667294172.8497481
+IP : 185.191.206.207
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_fr-mrs.prod.surfshark.com_tcp.ovpn_1667294182.8613217
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fb08a1db370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/fr-mrs.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:16:33 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CH-Zurich_1-zur01-udp.ovpn_1667294162.843716
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f7bdac49370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-CH-Zurich_1-zur01-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:16:04 2022 UDP link remote: [AF_INET]179.43.147.85:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:16:04 2022 UDP link remote: [AF_INET]179.43.147.85:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667294187.868783
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_fr-mrs.prod.surfshark.com_udp.ovpn_1667294197.9034102
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f10fdeb6370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/fr-mrs.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:16:49 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_aw2-ovpn-udp.ovpn_1667294197.8786666
+IP : 172.111.183.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_SurfsharkVPN_us-nyc.prod.surfshark.com_udp.ovpn_1667294212.9244335
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f3515512370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-nyc.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:17:02 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_8_-_UltraHD-fra08-tcp.ovpn_1667294197.8829236
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fac0ff7a370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-DE-Frankfurt_8_-_UltraHD-fra08-tcp.ovpn']\nbuffer (last 100 chars): b'1 09:16:42 2022 Attempting to establish TCP connection with [AF_INET]178.162.216.46:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b'1 09:16:42 2022 Attempting to establish TCP connection with [AF_INET]178.162.216.46:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_vlap-th2-ovpn-udp.ovpn_1667294212.9199378
+IP : 103.27.203.87
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_ph-mnl.prod.surfshark.com_tcp.ovpn_1667294227.9418411
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f406b287370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/ph-mnl.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:17:17 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_SurfsharkVPN_sk-bts.prod.surfshark.com_udp.ovpn_1667294242.9587586
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fcb2bca4370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/sk-bts.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:17:32 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.13_1667294202.9120693
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_lu2-ovpn-udp.ovpn_1667294237.9466858
+IP : 45.147.161.134
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SG-Singapore_3-sin03-udp.ovpn_1667294237.9511728
+IP : 15.235.155.167
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_au-syd.prod.surfshark.com_udp.ovpn_1667294257.976335
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f1efbbdd370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/au-syd.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:17:48 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_ustx2-ovpn-udp.ovpn_1667294257.971925
+IP : 172.111.224.245
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667294257.986667
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_6_-_UltraHD-fra06-udp.ovpn_1667294262.9985359
+IP : 178.162.216.21
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_mn-uln.prod.surfshark.com_udp.ovpn_1667294273.0132763
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f2385fe5370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/mn-uln.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:18:03 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667294278.0208898
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_vg2-ovpn-tcp.ovpn_1667294273.00894
+IP : 104.243.253.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Atlanta-atl01-tcp.ovpn_1667294278.0165722
+IP : 216.119.157.54
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_198.147.22.165_tcp.ovpn_1667294288.0331042
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f0e9d152370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/198.147.22.165_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:18:17 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667294293.0398474
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_cy-nic.prod.surfshark.com_tcp.ovpn_1667294303.05484
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f48dfc53370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/cy-nic.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:18:33 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CA-Toronto_2_-_UltraHD-tor02-tcp.ovpn_1667294298.046608
+IP : 38.117.105.115
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_hu2-ovpn-tcp.ovpn_1667294298.0420039
+IP : 146.70.120.66
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667294313.0713418
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_ca-mon.prod.surfshark.com_tcp.ovpn_1667294318.081221
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f700e531370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/ca-mon.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:18:49 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PL-Warsaw_1-war01-udp.ovpn_1667294318.075978
+IP : 37.235.48.137
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_ca2-ovpn-udp.ovpn_1667294328.0848436
+IP : 149.34.249.73
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_bz-blp.prod.surfshark.com_udp.ovpn_1667294333.0909114
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f149e499370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bz-blp.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:19:01 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667294333.095326
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_uk-lon-st001.prod.surfshark.com_udp.ovpn_1667294343.106478
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fccca377370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/uk-lon-st001.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:19:12 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-HK-Hong_Kong_1-hon01-udp.ovpn_1667294338.0983348
+IP : 158.255.208.17
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.28_1667294348.1137643
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_de2-ovpn-tcp.ovpn_1667294343.102074
+IP : 104.250.180.135
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_us-nyc-st004.prod.surfshark.com_udp.ovpn_1667294358.125989
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f2eb2a25370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-nyc-st004.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:19:28 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.30_1667294358.136596
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_usga2-ovpn-udp.ovpn_1667294363.1409125
+IP : 195.181.171.33
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-JP-Tokyo_1-tok01-tcp.ovpn_1667294358.1218584
+IP : 50.31.252.26
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_pr-sju.prod.surfshark.com_udp.ovpn_1667294373.1524305
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f3ade394370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pr-sju.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:19:42 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667294373.1569078
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st005.prod.surfshark.com_udp.ovpn_1667294383.1786134
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f032e4db370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/de-fra-st005.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:19:54 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_lt2-ovpn-udp.ovpn_1667294383.164105
+IP : 85.206.170.36
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_is-rkv.prod.surfshark.com_udp.ovpn_1667294398.1957355
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f319fade370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/is-rkv.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:20:07 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AR-Buenos_Aires-bue01-udp.ovpn_1667294383.1682768
+IP : 131.255.7.23
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_bg-sof.prod.surfshark.com_tcp.ovpn_1667294413.213419
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fc5eeee3370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bg-sof.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:20:22 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_SurfsharkVPN_193.176.86.197_tcp.ovpn_1667294423.225341
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7fd8fa166370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/193.176.86.197_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:20:34 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_pa-ovpn-tcp.ovpn_1667294403.2004926
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f0177a76370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/pa-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b'ov  1 09:20:04 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.4:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b'ov  1 09:20:04 2022 Attempting to establish TCP connection with [AF_INET]172.94.87.4:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667294388.1860776
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Silicon_Valley-sil01-tcp.ovpn_1667294423.221052
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f1ce659b370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-US-Silicon_Valley-sil01-tcp.ovpn']\nbuffer (last 100 chars): b'nnection-reset] received, process restarting\\r\\nTue Nov  1 09:20:51 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'nnection-reset] received, process restarting\\r\\nTue Nov  1 09:20:51 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_th2-ovpn-tcp.ovpn_1667294438.255522
+IP : 116.206.126.136
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_sg-sng-mp001.prod.surfshark.com_udp.ovpn_1667294438.2595203
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fbb09b6a370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/sg-sng-mp001.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:20:41 2022 UDP link remote: [AF_INET]206.189.94.229:1194\\r\\n'\nbefore (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:20:41 2022 UDP link remote: [AF_INET]206.189.94.229:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_nl2-ovpn-udp.ovpn_1667294463.2816622
+IP : 194.127.173.225
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_8-joh08-udp.ovpn_1667294458.2773893
+IP : 102.130.120.112
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_lv-rig.prod.surfshark.com_tcp.ovpn_1667294473.2904804
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f4f04c5b370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/lv-rig.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:21:24 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667294443.2673056
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_us-sfo.prod.surfshark.com_tcp.ovpn_1667294488.308425
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7f45a154f370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/us-sfo.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 09:21:37 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_aw2-ovpn-tcp.ovpn_1667294483.2970703
+IP : 172.111.183.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Los_Angeles_2-lax02-tcp.ovpn_1667294483.3017836
+IP : 162.217.248.162
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_tw-tai.prod.surfshark.com_udp.ovpn_1667294498.316549
+IP : 103.152.151.84
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ukl2-ovpn-tcp.ovpn_1667294503.325096
+IP : 77.247.124.28
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_10-joh10-udp.ovpn_1667294508.3307476
+IP : 102.130.120.115
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st003.prod.surfshark.com_udp.ovpn_1667294518.3414679
+IP : 45.87.212.184
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_ao2-ovpn-udp.ovpn_1667294523.3453686
+IP : 172.94.84.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667294498.3210118
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_5-joh05-tcp.ovpn_1667294533.3524864
+IP : 102.130.120.109
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_144.48.39.109_udp.ovpn_1667294538.3603077
+IP : 144.48.39.110
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_fi2-ovpn-tcp.ovpn_1667294538.355992
+IP : 85.208.3.98
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667294553.377314
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_144.48.38.181_udp.ovpn_1667294563.3898103
+IP : 144.48.38.182
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-New_Jersey-nyj01-tcp.ovpn_1667294558.3796515
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f847a997370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-US-New_Jersey-nyj01-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:22:40 2022 Attempting to establish TCP connection with [AF_INET]23.226.130.44:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:22:40 2022 Attempting to establish TCP connection with [AF_INET]23.226.130.44:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_mc2-ovpn-udp.ovpn_1667294563.3856263
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7effcc946370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/mc2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2 UDP link local: (not bound)\\r\\nTue Nov  1 09:22:46 2022 UDP link remote: [AF_INET]206.123.130.6:53\\r\\n'\nbefore (last 100 chars): b'2 UDP link local: (not bound)\\r\\nTue Nov  1 09:22:46 2022 UDP link remote: [AF_INET]206.123.130.6:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_us-slc.prod.surfshark.com_udp.ovpn_1667294588.4104333
+IP : 104.200.131.230
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GB-London_5-lon05-udp.ovpn_1667294593.4152067
+IP : 78.129.218.59
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667294568.3973927
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_193.148.17.85_udp.ovpn_1667294603.4222703
+IP : 193.148.17.86
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-HK-Hong_Kong_2-hon02-udp.ovpn_1667294608.4258947
+IP : 158.255.208.14
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_hk2-ovpn-tcp.ovpn_1667294598.4190998
+IP : 103.109.103.49
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667294623.4457269
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_sg-sng-st010.prod.surfshark.com_tcp.ovpn_1667294623.4411793
+IP : 138.199.60.183
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_dz2-ovpn-tcp.ovpn_1667294633.4561374
+IP : 172.111.243.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.34.85_1667294643.4651797
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_11-joh11-tcp.ovpn_1667294628.4508417
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f8e3f994370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-Johannesburg_11-joh11-tcp.ovpn']\nbuffer (last 100 chars): b' 09:23:49 2022 Attempting to establish TCP connection with [AF_INET]102.130.116.134:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 09:23:49 2022 Attempting to establish TCP connection with [AF_INET]102.130.116.134:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_us-sjc.prod.surfshark.com_tcp.ovpn_1667294648.4718046
+IP : 149.36.48.76
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_af2-ovpn-tcp.ovpn_1667294653.4741201
+IP : 172.111.208.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667294658.4762468
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_89.187.178.94_udp.ovpn_1667294663.4825652
+IP : 89.187.178.104
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_1-joh06-tcp.ovpn_1667294663.4785054
+IP : 102.130.120.100
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667294678.5147467
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_be2-ovpn-tcp.ovpn_1667294673.5099387
+IP : 146.70.55.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_kh-pnh.prod.surfshark.com_tcp.ovpn_1667294683.5196328
+IP : 62.197.146.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667294698.538462
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_nl2-ovpn-tcp.ovpn_1667294698.5342808
+IP : 45.74.54.243
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667294713.554992
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_it-rom.prod.surfshark.com_tcp.ovpn_1667294703.543665
+IP : 37.120.207.180
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-AU-Sydney_4-syd05-tcp.ovpn_1667294693.5290308
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fcdf846d370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-AU-Sydney_4-syd05-tcp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:25:23 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:25:23 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667294723.5666866
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_nz2-ovpn-udp.ovpn_1667294718.5595284
+IP : 203.209.219.21
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Kayo_1-bne02-udp.ovpn_1667294728.5713575
+IP : 103.137.12.98
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_uz-tas.prod.surfshark.com_udp.ovpn_1667294728.575843
+IP : 94.154.124.21
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.11_1667294738.5906153
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_cav2-ovpn-udp.ovpn_1667294738.5862677
+IP : 38.88.124.164
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Kayo_4-syd11-udp.ovpn_1667294748.5984802
+IP : 103.212.224.6
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_cl-san.prod.surfshark.com_tcp.ovpn_1667294753.608118
+IP : 31.169.121.67
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_jp2-ovpn.ovpn_1667294753.60374
+IP : 45.250.255.4
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_4_-_UltraHD-fra04-tcp.ovpn_1667294768.6311944
+IP : 46.165.254.151
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_caq2-ovpn-tcp.ovpn_1667294773.6338313
+IP : 146.70.27.226
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_vn-hcm.prod.surfshark.com_tcp.ovpn_1667294773.6380863
+IP : 83.97.112.51
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667294753.6186223
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_au2-ovpn-udp.ovpn_1667294793.6549273
+IP : 43.250.205.18
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Sydney_1-syd01-tcp.ovpn_1667294788.651445
+IP : 51.161.203.47
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_ad-leu.prod.surfshark.com_udp.ovpn_1667294798.6582956
+IP : 62.197.152.37
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_dk2-ovpn.ovpn_1667294813.673788
+IP : 146.70.89.34
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_4-zur04-tcp.ovpn_1667294818.6765969
+IP : 190.211.254.162
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_si-lju.prod.surfshark.com_tcp.ovpn_1667294818.6806605
+IP : 195.158.249.60
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_cy2-ovpn-udp.ovpn_1667294838.6990457
+IP : 185.191.206.207
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667294808.6702735
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_jp-tok-st016.prod.surfshark.com_tcp.ovpn_1667294843.7058265
+IP : 37.19.205.178
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_usny2-ovpn-tcp.ovpn_1667294858.7176802
+IP : 143.244.47.41
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Lake_Geneva_2-lge02-tcp.ovpn_1667294843.701601
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f5c33479370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-US-Lake_Geneva_2-lge02-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:27:27 2022 Attempting to establish TCP connection with [AF_INET]67.222.72.226:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:27:27 2022 Attempting to establish TCP connection with [AF_INET]67.222.72.226:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_ec-uio.prod.surfshark.com_udp.ovpn_1667294863.729648
+IP : 92.62.122.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_bm2-ovpn-udp.ovpn_1667294878.7443721
+IP : 172.111.229.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st002.prod.surfshark.com_tcp.ovpn_1667294878.7596045
+IP : 45.87.212.182
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GR-Athens_3-ath03-udp.ovpn_1667294878.7487023
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f6abc003370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-GR-Athens_3-ath03-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:28:02 2022 UDP link remote: [AF_INET]192.71.166.78:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:28:02 2022 UDP link remote: [AF_INET]192.71.166.78:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667294863.7338822
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_za2-ovpn.ovpn_1667294898.7816534
+IP : 45.221.64.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_uk-lon-st002.prod.surfshark.com_tcp.ovpn_1667294903.786664
+IP : 185.134.22.81
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667294918.8008132
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_cy-nic.prod.surfshark.com_udp.ovpn_1667294923.8072438
+IP : 193.19.204.85
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_3-zur03-tcp.ovpn_1667294913.7944145
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f73ecdb9370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-CH-Zurich_3-zur03-tcp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:29:03 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:29:03 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_vlap-vn2-ovpn-udp.ovpn_1667294923.8031306
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f37f1f30370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vlap-vn2-ovpn-udp.ovpn']\nbuffer (last 100 chars): b'2 UDP link local: (not bound)\\r\\nTue Nov  1 09:28:46 2022 UDP link remote: [AF_INET]172.111.197.6:53\\r\\n'\nbefore (last 100 chars): b'2 UDP link local: (not bound)\\r\\nTue Nov  1 09:28:46 2022 UDP link remote: [AF_INET]172.111.197.6:53\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_gh-acc.prod.surfshark.com_udp.ovpn_1667294943.8225791
+IP : 196.44.118.37
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ES-Madrid_1-mad01-tcp.ovpn_1667294948.827509
+IP : 37.143.130.135
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_bb2-ovpn-tcp.ovpn_1667294958.836049
+IP : 172.111.228.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667294928.810141
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CZ-Prague_2-pra02-udp.ovpn_1667294968.8425894
+IP : 193.235.207.67
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_sk-bts.prod.surfshark.com_tcp.ovpn_1667294963.8382914
+IP : 185.76.8.218
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_in2-ovpn-tcp.ovpn_1667294978.8618138
+IP : 206.123.151.3
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667294983.8686879
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_us-bos.prod.surfshark.com_tcp.ovpn_1667294988.8743668
+IP : 43.225.189.81
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667295003.888875
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_fi2-ovpn-udp.ovpn_1667294998.8850656
+IP : 85.208.3.98
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-MD-Chisinau_1-kiv01-udp.ovpn_1667294983.8642328
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f0541418370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-MD-Chisinau_1-kiv01-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:29:45 2022 UDP link remote: [AF_INET]192.121.87.23:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:29:45 2022 UDP link remote: [AF_INET]192.121.87.23:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_fr-bod.prod.surfshark.com_tcp.ovpn_1667295008.892703
+IP : 185.108.106.159
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.8_1667295013.8950725
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_usfl2-ovpn-tcp.ovpn_1667295018.8990638
+IP : 172.94.62.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-LT-Vilnius-vil01-tcp.ovpn_1667295018.9032784
+IP : 185.25.48.58
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667295033.923305
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_bs-nas.prod.surfshark.com_udp.ovpn_1667295033.918828
+IP : 62.197.145.35
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_ie2-ovpn-udp.ovpn_1667295038.9336226
+IP : 146.70.130.98
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MD-Chisinau_2-kiv02-udp.ovpn_1667295043.9409623
+IP : 192.121.87.73
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667295053.9540393
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_uk-gla.prod.surfshark.com_udp.ovpn_1667295053.949663
+IP : 185.108.105.44
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ro2-ovpn-udp.ovpn_1667295058.9676428
+IP : 146.70.124.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.28_1667295068.9796216
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SK-Bratislava-bra01-tcp.ovpn_1667295063.9729388
+IP : 193.37.255.174
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_jp-tok-st019.prod.surfshark.com_udp.ovpn_1667295073.983016
+IP : 37.19.205.185
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667295078.989381
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_lv2-ovpn-udp.ovpn_1667295078.9852047
+IP : 213.21.198.19
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667295094.0089314
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_2-joh02-udp.ovpn_1667295088.997506
+IP : 160.119.253.96
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_ua-iev.prod.surfshark.com_tcp.ovpn_1667295089.0017283
+IP : 156.146.50.105
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_vlap-ph2-ovpn-tcp.ovpn_1667295099.0130148
+IP : 172.111.175.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_148.72.169.211_tcp.ovpn_1667295114.0268898
+IP : 148.72.169.212
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ph-ovpn-tcp.ovpn_1667295124.0392392
+IP : 172.111.175.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-GR-Athens_3-ath03-tcp.ovpn_1667295114.0226715
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f8841d8c370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-GR-Athens_3-ath03-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:31:56 2022 Attempting to establish TCP connection with [AF_INET]192.71.166.78:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:31:56 2022 Attempting to establish TCP connection with [AF_INET]192.71.166.78:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_mo-mfm.prod.surfshark.com_udp.ovpn_1667295134.048158
+IP : 62.197.154.35
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667295109.0203044
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-IM-Douglas_1-dou01-udp.ovpn_1667295149.0741172
+IP : 37.235.55.30
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_cr2-ovpn-tcp.ovpn_1667295149.0694234
+IP : 172.111.170.194
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_at-vie.prod.surfshark.com_tcp.ovpn_1667295154.0777605
+IP : 37.19.195.67
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MD-Chisinau_2-kiv02-tcp.ovpn_1667295169.098148
+IP : 192.121.87.73
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_ma-rab.prod.surfshark.com_udp.ovpn_1667295179.1104882
+IP : 194.169.169.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_lv2-ovpn-tcp.ovpn_1667295174.1042922
+IP : 213.21.198.19
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-FR-Paris_3_-_UltraHD-par03-udp.ovpn_1667295189.1188643
+IP : 51.159.29.130
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667295164.0939567
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_bd2-ovpn-udp.ovpn_1667295199.121691
+IP : 103.46.140.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CZ-Prague_1-pra01-tcp.ovpn_1667295204.1299753
+IP : 185.189.115.155
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_ge-tbs.prod.surfshark.com_tcp.ovpn_1667295199.125842
+IP : 91.239.207.227
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_in2-ovpn-udp.ovpn_1667295219.1474931
+IP : 206.123.151.133
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-NZ-Auckland_2-auc03-udp.ovpn_1667295224.1606739
+IP : 103.16.180.90
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_165.231.163.5_tcp.ovpn_1667295229.1677036
+IP : 165.231.163.6
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_sk-ovpn-tcp.ovpn_1667295239.1793802
+IP : 138.199.34.193
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Chicago_-_UltraHD-chi01-tcp.ovpn_1667295244.1836128
+IP : 23.237.152.58
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667295219.1518116
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_am-evn.prod.surfshark.com_udp.ovpn_1667295254.1942914
+IP : 92.62.120.37
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_1-fra01-udp.ovpn_1667295264.208442
+IP : 37.58.63.76
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667295274.2207184
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_au-sd2-ovpn-tcp.ovpn_1667295264.2032907
+IP : 103.192.173.58
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_us-bos.prod.surfshark.com_udp.ovpn_1667295274.2145226
+IP : 43.225.189.111
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Manassas-man01-udp.ovpn_1667295284.2348564
+IP : 207.244.68.143
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_bn2-ovpn-tcp.ovpn_1667295289.241666
+IP : 104.243.253.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_us-nyc-st002.prod.surfshark.com_tcp.ovpn_1667295294.2528772
+IP : 92.119.177.22
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ussa2-ovpn-udp.ovpn_1667295314.2751951
+IP : 104.243.243.101
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RO-Bucharest_2-buc02-tcp.ovpn_1667295299.2573712
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f8a6e2f2370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-RO-Bucharest_2-buc02-tcp.ovpn']\nbuffer (last 100 chars): b'  1 09:35:01 2022 Attempting to establish TCP connection with [AF_INET]194.68.44.91:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b'  1 09:35:01 2022 Attempting to establish TCP connection with [AF_INET]194.68.44.91:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_us-dtw.prod.surfshark.com_tcp.ovpn_1667295319.281361
+IP : 193.19.206.123
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667295289.247081
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_usnj2-ovpn-tcp.ovpn_1667295329.3008292
+IP : 45.12.135.226
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-EE-Tallinn-tll01-tcp.ovpn_1667295334.305446
+IP : 185.155.99.51
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_nl-ams-st001.prod.surfshark.com_tcp.ovpn_1667295339.317386
+IP : 81.19.209.53
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.10_1667295344.3287003
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_vlus-pa2-ovpn-udp.ovpn_1667295349.3359487
+IP : 172.94.87.70
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667295364.357083
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_5.226.139.225_udp.ovpn_1667295364.35241
+IP : 5.226.139.227
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Sydney_4-syd05-udp.ovpn_1667295354.3424928
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f83231db370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-AU-Sydney_4-syd05-udp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:36:17 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:36:17 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_ukg2-ovpn-udp.ovpn_1667295369.3717058
+IP : 146.70.133.194
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667295379.3881772
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st002.prod.surfshark.com_udp.ovpn_1667295384.3920317
+IP : 45.87.212.182
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_cz2-ovpn-udp.ovpn_1667295394.400695
+IP : 87.249.135.116
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667295399.4056957
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_7-joh27-tcp.ovpn_1667295389.3972743
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff9ccc28370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-DSTV_7-joh27-tcp.ovpn']\nbuffer (last 100 chars): b'nk local: (not bound)\\r\\nTue Nov  1 09:37:00 2022 TCP_CLIENT link remote: [AF_INET]154.127.57.87:443\\r\\n'\nbefore (last 100 chars): b'nk local: (not bound)\\r\\nTue Nov  1 09:37:00 2022 TCP_CLIENT link remote: [AF_INET]154.127.57.87:443\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_ad-leu.prod.surfshark.com_tcp.ovpn_1667295404.4105682
+IP : 62.197.152.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_om2-ovpn-udp.ovpn_1667295409.413975
+IP : 172.94.94.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.37.178_1667295419.4235497
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667295429.4455616
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_2-joh07-udp.ovpn_1667295424.4285278
+IP : 102.130.120.111
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_usnj2-ovpn-udp.ovpn_1667295429.4308612
+IP : 185.217.168.50
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_bn-bwn.prod.surfshark.com_udp.ovpn_1667295429.434895
+IP : 62.197.158.35
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.30_1667295444.4541073
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667295454.4710069
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_bn2-ovpn-udp.ovpn_1667295449.4591787
+IP : 185.128.24.203
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_12-joh12-udp.ovpn_1667295449.463622
+IP : 102.130.116.239
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_uk-lon-st003.prod.surfshark.com_udp.ovpn_1667295454.4666371
+IP : 185.134.22.93
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_au-sd2-ovpn-udp.ovpn_1667295469.484569
+IP : 103.192.173.58
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_jp-tok-st020.prod.surfshark.com_tcp.ovpn_1667295474.4971292
+IP : 37.19.205.168
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RU-Saint_Petersburg_1-pet01-udp.ovpn_1667295474.4926956
+IP : 213.183.54.190
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_mx2-ovpn-tcp.ovpn_1667295489.5089922
+IP : 169.57.3.196
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_148.72.169.211_udp.ovpn_1667295494.5186436
+IP : 148.72.169.212
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CA-Montreal-mon02-tcp.ovpn_1667295499.5250685
+IP : 198.50.180.43
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667295469.489137
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_no-ovpn-tcp.ovpn_1667295509.535257
+IP : 185.14.97.89
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_py-asu.prod.surfshark.com_udp.ovpn_1667295514.540677
+IP : 194.26.131.35
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_fr2-ovpn-udp.ovpn_1667295529.553774
+IP : 172.94.53.44
+ovpn_BulletVPN_bulletVPN-GR-Athens_1-ath01-tcp.ovpn_1667295519.5443401
+IP : 185.226.65.140
+协议 openVPN 服务 PureVPN 的一个线程结束了
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_nl-ams.prod.surfshark.com_tcp.ovpn_1667295534.5581522
+IP : 143.244.42.70
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_au-me2-ovpn-udp.ovpn_1667295544.5668852
+IP : 27.50.74.10
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GR-Athens_1-ath01-udp.ovpn_1667295544.5712876
+IP : 185.226.65.140
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667295524.5513349
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_sg-sng-st008.prod.surfshark.com_udp.ovpn_1667295559.5834649
+IP : 138.199.60.173
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_cz2-ovpn-tcp.ovpn_1667295564.5889525
+IP : 87.249.135.116
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-NZ-Auckland_2-auc03-tcp.ovpn_1667295569.5939264
+IP : 103.16.180.90
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_caq2-ovpn-udp.ovpn_1667295584.6111314
+IP : 209.127.27.58
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CA-Montreal-mon02-udp.ovpn_1667295589.6143532
+IP : 198.50.180.43
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-mp001.prod.surfshark.com_udp.ovpn_1667295579.6017106
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fd341a4a370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/de-fra-mp001.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:39:41 2022 UDP link remote: [AF_INET]46.101.189.14:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:39:41 2022 UDP link remote: [AF_INET]46.101.189.14:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Colorado_Springs-col01-tcp.ovpn_1667295609.6358788
+IP : 96.47.10.96
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667295579.6060877
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_vlap-vn2-ovpn-tcp.ovpn_1667295599.6244218
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff1ed715370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/vlap-vn2-ovpn-tcp.ovpn']\nbuffer (last 100 chars): b'  1 09:40:00 2022 Attempting to establish TCP connection with [AF_INET]172.111.197.6:80 [nonblock]\\r\\n'\nbefore (last 100 chars): b'  1 09:40:00 2022 Attempting to establish TCP connection with [AF_INET]172.111.197.6:80 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 8\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_hr-zag.prod.surfshark.com_tcp.ovpn_1667295614.640447
+IP : 176.222.34.122
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667295634.6664588
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GB-London_3-lon03-tcp.ovpn_1667295629.6571407
+IP : 109.123.120.211
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_ua2-ovpn-tcp.ovpn_1667295634.6621337
+IP : 188.72.101.3
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_192.154.253.69_tcp.ovpn_1667295639.6719987
+IP : 192.154.253.70
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MX-Mexico_city_2-mex02-udp.ovpn_1667295654.6859488
+IP : 147.78.1.182
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_usva2-ovpn-tcp.ovpn_1667295659.690777
+IP : 5.254.108.213
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_la-vte.prod.surfshark.com_tcp.ovpn_1667295659.6950834
+IP : 194.169.168.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_usphx2-ovpn-udp.ovpn_1667295679.713883
+IP : 217.148.140.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667295649.6837153
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_ua-iev.prod.surfshark.com_udp.ovpn_1667295684.71836
+IP : 143.244.46.111
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_9-joh09-tcp.ovpn_1667295674.709411
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f4a36947370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-Johannesburg_9-joh09-tcp.ovpn']\nbuffer (last 100 chars): b' 09:41:16 2022 Attempting to establish TCP connection with [AF_INET]102.130.120.113:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 09:41:16 2022 Attempting to establish TCP connection with [AF_INET]102.130.120.113:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_my2-ovpn-tcp.ovpn_1667295694.7351346
+IP : 103.117.20.179
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-EE-Tallinn-tll01-udp.ovpn_1667295709.7542117
+IP : 185.155.99.51
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.10_1667295704.748505
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_at-vie.prod.surfshark.com_udp.ovpn_1667295704.7434049
+IP : 87.249.133.10
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_ussf2-ovpn-udp.ovpn_1667295719.7644334
+IP : 45.12.131.34
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667295724.7836447
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_rs-beg.prod.surfshark.com_tcp.ovpn_1667295724.773051
+IP : 146.70.111.92
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-RU-Saint_Petersburg_1-pet01-tcp.ovpn_1667295724.767718
+IP : 213.183.54.190
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_se2-ovpn-tcp.ovpn_1667295734.796872
+IP : 138.199.55.13
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.8_1667295739.8020823
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_cr-sjn.prod.surfshark.com_udp.ovpn_1667295749.8139625
+IP : 176.227.241.83
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RU-Saint_Petersburg_2-pet02-tcp.ovpn_1667295749.809523
+IP : 213.183.54.106
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_uswdc2-ovpn-tcp.ovpn_1667295759.8246334
+IP : 5.254.40.34
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.35.25_1667295759.8291063
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_5.226.139.225_tcp.ovpn_1667295769.8378727
+IP : 5.226.139.227
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.37.178_1667295779.8515222
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_bd2-ovpn-tcp.ovpn_1667295779.8472025
+IP : 103.46.140.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667295794.8708868
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-DK-Copenhagen_2-cph02-tcp.ovpn_1667295774.8405464
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f3e699d6370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-DK-Copenhagen_2-cph02-tcp.ovpn']\nbuffer (last 100 chars): b'  1 09:42:56 2022 Attempting to establish TCP connection with [AF_INET]91.210.59.47:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b'  1 09:42:56 2022 Attempting to establish TCP connection with [AF_INET]91.210.59.47:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st003.prod.surfshark.com_tcp.ovpn_1667295794.8664856
+IP : 45.87.212.184
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_usga2-ovpn-tcp.ovpn_1667295799.876028
+IP : 195.181.171.33
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667295809.8907685
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Kayo_4-syd11-tcp.ovpn_1667295809.8860395
+IP : 103.212.224.6
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_usut2-ovpn-tcp.ovpn_1667295819.9011016
+IP : 67.213.219.212
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_bz-blp.prod.surfshark.com_tcp.ovpn_1667295819.9054585
+IP : 212.119.33.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Colorado_Springs-col01-udp.ovpn_1667295834.9211705
+IP : 96.47.10.96
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_my2-ovpn-udp.ovpn_1667295834.9168746
+IP : 103.28.90.56
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_42.0.30.177_tcp.ovpn_1667295844.931325
+IP : 42.0.30.178
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_bo2-ovpn-udp.ovpn_1667295859.945148
+IP : 172.111.241.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667295824.9093091
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-KR-Seoul-seo01-udp.ovpn_1667295854.9403613
+IP : 92.38.129.171
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_gl-goh.prod.surfshark.com_udp.ovpn_1667295874.9647775
+IP : 92.62.123.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_Pt2-ovpn.ovpn_1667295874.9593768
+IP : 185.92.210.42
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Lake_Geneva_2-lge02-udp.ovpn_1667295879.9695785
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f72ffd59370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-US-Lake_Geneva_2-lge02-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:44:42 2022 UDP link remote: [AF_INET]67.222.72.226:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:44:42 2022 UDP link remote: [AF_INET]67.222.72.226:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_ukl2-ovpn-udp.ovpn_1667295899.9962785
+IP : 77.247.124.28
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_uk-edi.prod.surfshark.com_udp.ovpn_1667295900.0013604
+IP : 188.240.57.104
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667295879.9741821
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-BE-Brussels-bru01-tcp.ovpn_1667295915.0195522
+IP : 185.213.22.96
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_vleu-be2-ovpn-tcp.ovpn_1667295920.0225453
+IP : 146.70.123.98
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_us-tpa.prod.surfshark.com_udp.ovpn_1667295925.025705
+IP : 209.216.92.201
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ussf2-ovpn-tcp.ovpn_1667295940.0370247
+IP : 172.94.5.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_2-zur02-tcp.ovpn_1667295935.0325491
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f6de9767370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-CH-Zurich_2-zur02-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:45:36 2022 Attempting to establish TCP connection with [AF_INET]179.43.147.81:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:45:36 2022 Attempting to establish TCP connection with [AF_INET]179.43.147.81:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_sg-sng.prod.surfshark.com_tcp.ovpn_1667295945.043501
+IP : 89.187.163.135
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ca2-ovpn-tcp.ovpn_1667295955.0528243
+IP : 146.70.27.226
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667295935.0347984
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_ge-tbs.prod.surfshark.com_udp.ovpn_1667295970.069553
+IP : 195.54.178.61
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_af2-ovpn-udp.ovpn_1667295975.0738552
+IP : 172.111.208.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CL-Vina_del_Mar-vin01-tcp.ovpn_1667295970.0652103
+IP : 37.235.52.121
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_pa2-ovpn-udp.ovpn_1667295995.0964775
+IP : 172.94.94.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_uk-edi.prod.surfshark.com_tcp.ovpn_1667295995.11173
+IP : 188.240.57.112
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_3-zur03-udp.ovpn_1667295995.1007805
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f75646be370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-CH-Zurich_3-zur03-udp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:47:00 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:47:00 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667295990.0924826
+IP : 0.0.0.0
+error : {'get_ip_error': "HTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe76987e610>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_cr2-ovpn-udp.ovpn_1667296020.1361585
+IP : 172.111.170.242
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667296035.1527355
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_5-zur05-tcp.ovpn_1667296030.1487722
+IP : 190.211.254.165
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_uk-lon-mp001.prod.surfshark.com_udp.ovpn_1667296020.1404831
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f20a2baa370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/uk-lon-mp001.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:47:02 2022 UDP link remote: [AF_INET]206.189.119.92:1194\\r\\n'\nbefore (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:47:02 2022 UDP link remote: [AF_INET]206.189.119.92:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_bg2-ovpn-tcp.ovpn_1667296040.1567743
+IP : 185.94.192.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_hr-zag.prod.surfshark.com_udp.ovpn_1667296055.1668146
+IP : 176.222.34.114
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_de2-ovpn-udp.ovpn_1667296065.184197
+IP : 156.146.33.241
+ovpn_BulletVPN_bulletVPN-AT-Vienna-vie01-udp.ovpn_1667296050.1630707
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f3ea3aea370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-AT-Vienna-vie01-udp.ovpn']\nbuffer (last 100 chars): b'efused (code=111)\\r\\nTue Nov  1 09:47:45 2022 read UDP [ECONNREFUSED]: Connection refused (code=111)\\r\\n'\nbefore (last 100 chars): b'efused (code=111)\\r\\nTue Nov  1 09:47:45 2022 read UDP [ECONNREFUSED]: Connection refused (code=111)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 PureVPN 的一个线程结束了
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667296045.159087
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_SurfsharkVPN_in-del.prod.surfshark.com_tcp.ovpn_1667296075.1890867
+IP : 36.255.196.98
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_bs2-ovpn-tcp.ovpn_1667296085.200781
+IP : 172.94.20.38
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_5-joh05-udp.ovpn_1667296085.2065942
+IP : 102.130.120.109
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_uy-mvd.prod.surfshark.com_tcp.ovpn_1667296100.22671
+IP : 212.119.32.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.10_1667296100.239031
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_mx2-ovpn-udp.ovpn_1667296110.2523022
+IP : 104.243.245.250
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667296120.2882
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_nl-ams-st001.prod.surfshark.com_udp.ovpn_1667296120.2833848
+IP : 81.19.209.53
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_1-joh01-udp.ovpn_1667296110.25791
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fd318d5e370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-Johannesburg_1-joh01-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:48:33 2022 UDP link remote: [AF_INET]102.165.20.54:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:48:33 2022 UDP link remote: [AF_INET]102.165.20.54:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_vlus-mx2-ovpn-udp.ovpn_1667296130.300528
+IP : 169.57.3.196
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667296135.3077943
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-NL-Amsterdam_2_-_UltraHD-ams02-udp.ovpn_1667296145.3165345
+IP : 212.7.200.223
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_usny2-ovpn-udp.ovpn_1667296150.3285685
+IP : 185.195.58.232
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_uk-lon-st005.prod.surfshark.com_udp.ovpn_1667296145.3209748
+IP : 185.44.76.189
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667296155.3399138
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667296175.3738801
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_PureVPN_om-ovpn-tcp.ovpn_1667296165.3485692
+IP : 172.94.94.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_82.102.17.181_udp.ovpn_1667296170.3611674
+IP : 82.102.17.182
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-JP-Tokyo_2-tok02-udp.ovpn_1667296165.3536744
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff42c60a370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-JP-Tokyo_2-tok02-udp.ovpn']\nbuffer (last 100 chars): b' UDP link local: (not bound)\\r\\nTue Nov  1 09:49:28 2022 UDP link remote: [AF_INET]194.68.27.33:1194\\r\\n'\nbefore (last 100 chars): b' UDP link local: (not bound)\\r\\nTue Nov  1 09:49:28 2022 UDP link remote: [AF_INET]194.68.27.33:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667296190.4046576
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_194.39.127.240_udp.ovpn_1667296190.3937263
+IP : 194.39.127.241
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_ee2-ovpn-tcp.ovpn_1667296190.3894153
+IP : 185.174.159.41
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.30_1667296205.4196334
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Los_Angeles_2-lax02-udp.ovpn_1667296200.4134257
+IP : 162.217.248.162
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667296220.4529881
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-US-Lake_Geneva_1-lge01-udp.ovpn_1667296220.4483209
+IP : 209.236.229.250
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_ae2-ovpn-udp.ovpn_1667296215.4368935
+IP : 146.70.155.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_nl-ams-mp001.prod.surfshark.com_udp.ovpn_1667296215.4410326
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f40d23da370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-ams-mp001.prod.surfshark.com_udp.ovpn']\nbuffer (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:50:18 2022 UDP link remote: [AF_INET]188.166.43.117:1194\\r\\n'\nbefore (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 09:50:18 2022 UDP link remote: [AF_INET]188.166.43.117:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_th2-ovpn-udp.ovpn_1667296245.492072
+IP : 116.206.126.136
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_jp-tok-st015.prod.surfshark.com_udp.ovpn_1667296250.496175
+IP : 138.199.22.154
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-SI-Ljubljana_2-lju02-udp.ovpn_1667296235.476491
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f19ad1d1370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-SI-Ljubljana_2-lju02-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:50:37 2022 UDP link remote: [AF_INET]192.71.244.69:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 09:50:37 2022 UDP link remote: [AF_INET]192.71.244.69:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_usphx2-ovpn-tcp.ovpn_1667296265.5213237
+IP : 217.148.140.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667296235.481065
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-FR-Paris_2_-_UltraHD-par02-udp.ovpn_1667296270.5260277
+IP : 51.159.29.140
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_pr-sju.prod.surfshark.com_tcp.ovpn_1667296270.5306365
+IP : 45.139.253.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_vleu-be2-ovpn-udp.ovpn_1667296280.5421567
+IP : 146.70.55.130
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_PureVPN_md2-ovpn-udp.ovpn_1667296300.5673637
+IP : 178.175.131.167
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_107.175.104.84_tcp.ovpn_1667296295.5644503
+IP : 107.175.104.85
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_2-fra02-tcp.ovpn_1667296290.5542402
+IP : 104.238.182.217
+error : {'VPN_error': 'Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f343076c370>\ncommand: /usr/sbin/openvpn\nargs: [\'/usr/sbin/openvpn\', \'/home/NetPlatform/configurations/bulletVPN-DE-Frankfurt_2-fra02-tcp.ovpn\']\nbuffer (last 100 chars): b" C=US, O=Let\'s Encrypt, CN=R3\\r\\nTue Nov  1 09:51:56 2022 VERIFY OK: depth=0, CN=fra02.bulletvpn.com\\r\\n"\nbefore (last 100 chars): b" C=US, O=Let\'s Encrypt, CN=R3\\r\\nTue Nov  1 09:51:56 2022 VERIFY OK: depth=0, CN=fra02.bulletvpn.com\\r\\n"\nafter: <class \'pexpect.exceptions.TIMEOUT\'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class \'pexpect.exceptions.EOF\'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b\'Initialization Sequence Completed\')'}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_PureVPN_sg2-ovpn-udp.ovpn_1667296320.5869067
+IP : 146.70.67.66
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667296290.5589118
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_185.225.28.243_udp.ovpn_1667296320.5915792
+IP : 185.225.28.244
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_dz2-ovpn-udp.ovpn_1667296340.6055422
+IP : 172.111.243.22
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_7-joh27-udp.ovpn_1667296325.5970511
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff04ce97370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-DSTV_7-joh27-udp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:52:30 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 09:52:30 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_hk-hkg.prod.surfshark.com_tcp.ovpn_1667296350.6225336
+IP : 212.102.42.207
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_usva2-ovpn-udp.ovpn_1667296360.6323988
+IP : 5.254.108.213
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+ovpn_SurfsharkVPN_us-slc.prod.surfshark.com_tcp.ovpn_1667296370.647372
+IP : 104.200.131.6
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_2-joh07-tcp.ovpn_1667296360.6368139
+IP : 102.130.120.111
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_PureVPN_ar2-ovpn-tcp.ovpn_1667296380.656803
+IP : 172.111.152.7
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667296345.6197186
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GB-London_10_-_UltraHD-lon10-tcp.ovpn_1667296390.6668909
+IP : 95.168.186.225
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.18_1667296400.6884713
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_udp.ovpn_1667296390.671411
+IP : 149.34.242.70
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_PureVPN_ussa2-ovpn-tcp.ovpn_1667296395.6813824
+IP : 138.199.43.1
+协议 openVPN 服务 PureVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-BR-Sao_Paulo_2-sao02-udp.ovpn_1667296410.6966257
+IP : 154.16.57.164
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_ao2-ovpn-tcp.ovpn_1667296415.7064843
+IP : 172.94.84.2
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_in-vrt.prod.surfshark.com_udp.ovpn_1667296415.7108042
+IP : 92.62.121.20
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GB-London_1-lon01-udp.ovpn_1667296435.7333593
+IP : 198.244.237.164
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_PureVPN_al2-ovpn-tcp.ovpn_1667296435.7291267
+IP : 31.171.155.194
+协议 openVPN 服务 PureVPN 的一个线程结束了
+ovpn_SurfsharkVPN_gh-acc.prod.surfshark.com_tcp.ovpn_1667296435.7436256
+IP : 196.44.118.35
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 PureVPN 的一个线程
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667296410.7011244
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_PureVPN_ng-ovpn-tcp.ovpn_1667296460.7677543
+IP : 172.111.128.233
+协议 openVPN 服务 PureVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.10_1667296465.7944937
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_sa-ruh.prod.surfshark.com_tcp.ovpn_1667296460.7857344
+IP : 45.150.5.21
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_2-joh02-tcp.ovpn_1667296460.773696
+IP : 160.119.253.96
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667296485.815951
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_hk-hkg.prod.surfshark.com_udp.ovpn_1667296490.819411
+IP : 212.102.42.210
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MX-Mexico_city_1-mex01-udp.ovpn_1667296495.8369756
+IP : 147.78.1.245
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667296500.8454564
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_dk-cph.prod.surfshark.com_udp.ovpn_1667296510.8534987
+IP : 146.70.92.28
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667296520.8674352
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_1-zur01-tcp.ovpn_1667296515.8619013
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7ff238aff370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-CH-Zurich_1-zur01-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:55:17 2022 Attempting to establish TCP connection with [AF_INET]179.43.147.85:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:55:17 2022 Attempting to establish TCP connection with [AF_INET]179.43.147.85:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+ovpn_SurfsharkVPN_be-bru.prod.surfshark.com_udp.ovpn_1667296530.876429
+IP : 146.70.123.198
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.37.178_1667296540.8890004
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667296550.9126244
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CO-Bogota-bog01-udp.ovpn_1667296550.8967972
+IP : 181.119.30.28
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_uk-lon-st005.prod.surfshark.com_tcp.ovpn_1667296550.9017055
+IP : 185.44.76.189
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667296565.9251227
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CZ-Prague_2-pra02-tcp.ovpn_1667296570.9294515
+IP : 193.235.207.67
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.11_1667296580.944183
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_ca-mon.prod.surfshark.com_udp.ovpn_1667296575.9368963
+IP : 146.70.112.68
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PH-Makati-mak01-udp.ovpn_1667296590.9516723
+IP : 103.131.95.105
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_us-nyc-st005.prod.surfshark.com_tcp.ovpn_1667296595.9615886
+IP : 193.148.18.54
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MX-Mexico_city_2-mex02-tcp.ovpn_1667296610.9788237
+IP : 147.78.1.182
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_me-tgd.prod.surfshark.com_udp.ovpn_1667296620.9910755
+IP : 62.197.159.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667296590.9559286
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CA-Vancouver-van01-udp.ovpn_1667296631.0003302
+IP : 67.231.23.150
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_py-asu.prod.surfshark.com_tcp.ovpn_1667296641.0164626
+IP : 194.26.131.19
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-DE-Frankfurt_4_-_UltraHD-fra04-udp.ovpn_1667296646.0203578
+IP : 46.165.254.151
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_SurfsharkVPN_us-phx.prod.surfshark.com_udp.ovpn_1667296661.0377305
+IP : 45.86.208.11
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_16-joh16-tcp.ovpn_1667296666.0449474
+IP : 102.130.120.18
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667296646.0246656
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_de-fra-st006.prod.surfshark.com_tcp.ovpn_1667296681.0593472
+IP : 169.150.209.215
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+ovpn_SurfsharkVPN_ie-dub.prod.surfshark.com_tcp.ovpn_1667296706.097675
+IP : 149.34.242.53
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-Johannesburg_1-joh01-tcp.ovpn_1667296696.0745082
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f640b4f3370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-Johannesburg_1-joh01-tcp.ovpn']\nbuffer (last 100 chars): b' 1 09:58:17 2022 Attempting to establish TCP connection with [AF_INET]102.165.20.54:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 09:58:17 2022 Attempting to establish TCP connection with [AF_INET]102.165.20.54:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 openVPN 服务 SurfsharkVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667296701.0817287
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_3-joh03-udp.ovpn_1667296731.1186545
+IP : 160.119.253.108
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_SurfsharkVPN_nl-ams-mp001.prod.surfshark.com_tcp.ovpn_1667296731.1230302
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f182f5b1370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/nl-ams-mp001.prod.surfshark.com_tcp.ovpn']\nbuffer (last 100 chars): b' 09:58:53 2022 Attempting to establish TCP connection with [AF_INET]188.166.43.117:1443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 09:58:53 2022 Attempting to establish TCP connection with [AF_INET]188.166.43.117:1443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 SurfsharkVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.18_1667296756.1553197
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Kayo_6-syd07-tcp.ovpn_1667296756.1508782
+IP : 103.212.225.208
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-DK-Copenhagen_1-cph01-udp.ovpn_1667296781.1804543
+IP : 185.134.30.95
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-TR-Bursa-bur01-tcp.ovpn_1667296796.1944714
+IP : 45.123.119.41
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667296771.1688976
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-HU-Budapest_2-bud02-tcp.ovpn_1667296821.222373
+IP : 194.71.130.83
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667296826.2300515
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Sydney_3-syd04-udp.ovpn_1667296841.2444198
+IP : 104.238.182.217
+error : {'VPN_error': "End Of File (EOF). Exception style platform.\n<pexpect.pty_spawn.spawn object at 0x7ff27a028370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-AU-Sydney_3-syd04-udp.ovpn']\nbuffer (last 100 chars): b''\nbefore (last 100 chars): b'essage: AUTH_FAILED\\r\\nTue Nov  1 10:00:50 2022 SIGTERM[soft,auth-failure] received, process exiting\\r\\n'\nafter: <class 'pexpect.exceptions.EOF'>\nmatch: None\nmatch_index: None\nexitstatus: 0\nflag_eof: True\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667296846.2468758
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Miami_2_-_UltraHD-mia02-tcp.ovpn_1667296851.2489142
+IP : 209.222.97.47
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667296856.2512708
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PT-Quinta_do_Anjo-qda01-udp.ovpn_1667296871.2680893
+IP : 185.231.233.115
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667296876.2799919
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667296896.3053503
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667296906.3129568
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Los_Angeles_1-lax01-udp.ovpn_1667296891.2985616
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f0764758370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-US-Los_Angeles_1-lax01-udp.ovpn']\nbuffer (last 100 chars): b' to host (code=113)\\r\\nTue Nov  1 10:01:47 2022 read UDP [EHOSTUNREACH]: No route to host (code=113)\\r\\n'\nbefore (last 100 chars): b' to host (code=113)\\r\\nTue Nov  1 10:01:47 2022 read UDP [EHOSTUNREACH]: No route to host (code=113)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667296921.3283758
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667296936.3460524
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AU-Sydney_2-syd02-udp.ovpn_1667296926.3329277
+IP : 51.161.203.44
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PL-Warsaw_3-war03-udp.ovpn_1667296951.3566763
+IP : 151.236.25.81
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-TW-Taipei-tai01-udp.ovpn_1667296971.3815901
+IP : 103.103.128.114
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667296946.3539972
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-HK-Hong_Kong_1-hon01-tcp.ovpn_1667296996.4123936
+IP : 158.255.208.17
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-IT-Milan_2-mil02-udp.ovpn_1667297021.4426908
+IP : 212.237.30.163
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667297001.419839
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RU-Moscow-mos01-udp.ovpn_1667297041.4679923
+IP : 213.183.56.191
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-BR-Sao_Paulo_2-sao02-tcp.ovpn_1667297061.5003135
+IP : 154.16.57.164
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RU-Saint_Petersburg_2-pet02-udp.ovpn_1667297086.5213084
+IP : 213.183.54.106
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667297056.4938624
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667297111.5556424
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-JP-Tokyo_1-tok01-udp.ovpn_1667297106.5483916
+IP : 50.31.252.26
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Miami_2_-_UltraHD-mia02-udp.ovpn_1667297126.5668423
+IP : 209.222.97.47
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CZ-Prague_3-pra03-udp.ovpn_1667297141.581848
+IP : 193.235.207.144
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667297121.563129
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-SI-Ljubljana_2-lju02-tcp.ovpn_1667297156.593846
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f73dd5fa370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-SI-Ljubljana_2-lju02-tcp.ovpn']\nbuffer (last 100 chars): b' 1 10:05:57 2022 Attempting to establish TCP connection with [AF_INET]192.71.244.69:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 10:05:57 2022 Attempting to establish TCP connection with [AF_INET]192.71.244.69:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667297176.6127658
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667297196.6322114
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-NL-Amsterdam_3-ams03-tcp.ovpn_1667297191.6272428
+IP : 103.136.40.123
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667297206.6396706
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667297226.6597602
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-GB-London_6-lon06-tcp.ovpn_1667297211.6443052
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f7356f48370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-GB-London_6-lon06-tcp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 10:07:21 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 10:07:21 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667297246.6787953
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-NL-Amsterdam_2_-_UltraHD-ams02-tcp.ovpn_1667297246.673156
+IP : 212.7.200.223
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667297261.6965926
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667297271.7034018
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-CL-Vina_del_Mar-vin01-udp.ovpn_1667297266.7011197
+IP : 37.235.52.121
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-UA-Kharkiv-khar01-udp.ovpn_1667297286.7251449
+IP : 217.12.210.64
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ES-Madrid_2-mad02-tcp.ovpn_1667297306.7477198
+IP : 37.235.53.209
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667297286.7295542
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Manassas-man01-tcp.ovpn_1667297331.7746046
+IP : 207.244.68.143
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RO-Bucharest_2-buc02-udp.ovpn_1667297351.7973962
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f953b5b1370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-RO-Bucharest_2-buc02-udp.ovpn']\nbuffer (last 100 chars): b' UDP link local: (not bound)\\r\\nTue Nov  1 10:09:13 2022 UDP link remote: [AF_INET]194.68.44.91:1194\\r\\n'\nbefore (last 100 chars): b' UDP link local: (not bound)\\r\\nTue Nov  1 10:09:13 2022 UDP link remote: [AF_INET]194.68.44.91:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667297341.7855701
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_3-joh03-tcp.ovpn_1667297386.8294463
+IP : 160.119.253.108
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-AL-Tirane-tir01-udp.ovpn_1667297411.8561728
+IP : 31.171.153.218
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-CH-Zurich_5-zur05-udp.ovpn_1667297431.8740544
+IP : 190.211.254.165
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667297396.841991
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-IT-Palermo-pal01-tcp.ovpn_1667297446.8983736
+IP : 192.71.26.81
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GB-London_3-lon03-udp.ovpn_1667297466.9184904
+IP : 109.123.120.211
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Miami_1_-_UltraHD-mia01-udp.ovpn_1667297486.93186
+IP : 45.58.126.234
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667297451.9054627
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-LT-Vilnius-vil01-udp.ovpn_1667297501.9533787
+IP : 185.25.48.58
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.18_1667297506.9604812
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-BE-Oostakker_2-oos02-udp.ovpn_1667297521.976356
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f9f5fb4f370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-BE-Oostakker_2-oos02-udp.ovpn']\nbuffer (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 10:12:03 2022 UDP link remote: [AF_INET]194.71.227.162:1194\\r\\n'\nbefore (last 100 chars): b'DP link local: (not bound)\\r\\nTue Nov  1 10:12:03 2022 UDP link remote: [AF_INET]194.71.227.162:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667297521.980781
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-GR-Athens_2-ath02-udp.ovpn_1667297557.0116746
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f694acf6370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-GR-Athens_2-ath02-udp.ovpn']\nbuffer (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 10:12:38 2022 UDP link remote: [AF_INET]192.71.166.52:1194\\r\\n'\nbefore (last 100 chars): b'UDP link local: (not bound)\\r\\nTue Nov  1 10:12:38 2022 UDP link remote: [AF_INET]192.71.166.52:1194\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667297577.0338054
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667297597.0505812
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667297607.057879
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_6-joh23-udp.ovpn_1667297592.0453062
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7fb7a10a3370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-DSTV_6-joh23-udp.ovpn']\nbuffer (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 10:13:36 2022 Restart pause, 10 second(s)\\r\\n'\nbefore (last 100 chars): b'soft,tls-error] received, process restarting\\r\\nTue Nov  1 10:13:36 2022 Restart pause, 10 second(s)\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667297627.0795588
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PH-Manila_-phi01-udp.ovpn_1667297627.0751917
+IP : 38.54.81.148
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_104.243.37.178_1667297647.1015298
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667297657.1127367
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667297672.1296813
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-ZA-DSTV_6-joh23-tcp.ovpn_1667297657.1088266
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f0a00ffe370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-ZA-DSTV_6-joh23-tcp.ovpn']\nbuffer (last 100 chars): b'k local: (not bound)\\r\\nTue Nov  1 10:14:48 2022 TCP_CLIENT link remote: [AF_INET]102.165.60.100:443\\r\\n'\nbefore (last 100 chars): b'k local: (not bound)\\r\\nTue Nov  1 10:14:48 2022 TCP_CLIENT link remote: [AF_INET]102.165.60.100:443\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667297687.1420755
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PH-Makati-mak01-tcp.ovpn_1667297692.146553
+IP : 103.131.95.105
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-RU-Moscow-mos01-tcp.ovpn_1667297712.1598203
+IP : 213.183.56.191
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667297697.1488326
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+ovpn_BulletVPN_bulletVPN-IS-Hafnarfjordur_2-haf02-udp.ovpn_1667297732.1737638
+IP : 151.236.24.49
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-BE-Oostakker_1-oos01-tcp.ovpn_1667297752.195989
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f0d6781e370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-BE-Oostakker_1-oos01-tcp.ovpn']\nbuffer (last 100 chars): b'1 10:15:54 2022 Attempting to establish TCP connection with [AF_INET]192.71.249.203:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b'1 10:15:54 2022 Attempting to establish TCP connection with [AF_INET]192.71.249.203:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667297752.200477
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-PL-Warsaw_1-war01-tcp.ovpn_1667297787.2303278
+IP : 37.235.48.137
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-MD-Chisinau_1-kiv01-tcp.ovpn_1667297812.258669
+IP : 104.238.182.217
+error : {'VPN_error': "Timeout exceeded.\n<pexpect.pty_spawn.spawn object at 0x7f8d7d3bc370>\ncommand: /usr/sbin/openvpn\nargs: ['/usr/sbin/openvpn', '/home/NetPlatform/configurations/bulletVPN-MD-Chisinau_1-kiv01-tcp.ovpn']\nbuffer (last 100 chars): b' 1 10:16:53 2022 Attempting to establish TCP connection with [AF_INET]192.121.87.23:443 [nonblock]\\r\\n'\nbefore (last 100 chars): b' 1 10:16:53 2022 Attempting to establish TCP connection with [AF_INET]192.121.87.23:443 [nonblock]\\r\\n'\nafter: <class 'pexpect.exceptions.TIMEOUT'>\nmatch: None\nmatch_index: None\nexitstatus: None\nflag_eof: False\npid: 9\nchild_fd: 5\nclosed: False\ntimeout: 30\ndelimiter: <class 'pexpect.exceptions.EOF'>\nlogfile: None\nlogfile_read: None\nlogfile_send: None\nmaxread: 2000\nignorecase: False\nsearchwindowsize: None\ndelaybeforesend: 0.05\ndelayafterclose: 0.1\ndelayafterterminate: 0.1\nsearcher: searcher_re:\n    0: re.compile(b'Initialization Sequence Completed')"}
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667297807.2525427
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-FI-Helsinki-hel01-udp.ovpn_1667297847.286301
+IP : 185.103.110.147
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667297862.312702
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-UA-Kharkiv-khar01-tcp.ovpn_1667297867.3197606
+IP : 217.12.210.64
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+即将开启协议 openVPN 服务 BulletVPN 的一个线程
+ovpn_BulletVPN_bulletVPN-US-Lake_Geneva_1-lge01-tcp.ovpn_1667297887.334553
+IP : 209.236.229.250
+协议 openVPN 服务 BulletVPN 的一个线程结束了
+l2tp_JellyVPN_85.206.162.13_1667297877.3251324
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667297932.3742013
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667297952.3944879
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667297962.4018958
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667297982.4228823
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667298002.445025
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667298012.452673
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667298022.4602695
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667298032.4684596
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667298047.485727
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667298102.5414112
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667298157.5990684
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667298212.659532
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667298227.6730394
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667298282.7336447
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667298302.7544966
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667298317.7709432
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667298337.791514
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667298357.8120303
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667298367.819498
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667298377.8269444
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667298387.8342397
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667298402.851271
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667298457.9114854
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667298512.9709554
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667298568.0266442
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667298578.0350835
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667298633.0917857
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667298653.1129246
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667298663.1211448
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667298683.1412277
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667298703.163383
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667298713.1708062
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667298723.178056
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667298733.1856036
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667298743.1930993
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667298798.2484193
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667298853.3044703
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667298908.3602164
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667298918.3677416
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667298973.4179275
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667298993.438407
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667299003.4460135
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667299023.4664104
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667299043.4887996
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667299053.4965086
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667299063.5039964
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.11_1667299078.5165484
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.38.35_1667299088.5238576
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.14_1667299143.5826538
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.24_1667299198.6352675
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.18_1667299253.6829991
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.13_1667299268.7002363
+超时了
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.10_1667299323.747897
+IP : 85.206.162.10
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.34.85_1667299343.7687633
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.8_1667299353.7761571
+IP : 85.206.162.8
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.35.25_1667299373.7963705
+IP : 104.243.35.25
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_104.243.37.178_1667299393.8246858
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.28_1667299403.831992
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
+即将开启协议 l2tp 服务 JellyVPN 的一个线程
+l2tp_JellyVPN_85.206.162.30_1667299413.8391979
+IP : 104.238.182.217
+error : {'VPN_error': 'ppp0网卡未出现'}
+协议 l2tp 服务 JellyVPN 的一个线程结束了
