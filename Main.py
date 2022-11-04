@@ -96,12 +96,15 @@ def readConfigFile():
         VPN_dict["l2tp"][l2tp_vpn_service]["server_ip_list"] = []
 
         for server in VPN_dict["l2tp"][l2tp_vpn_service]["server_list"]:
-            result = dns.resolver.resolve(server)
-            for i in result.response.answer:
-                for j in i.items:
-                    if j.rdtype == 1:  # 加判断，不然会出现AttributeError: 'CNAME' object has no attribute 'address'
-                        VPN_dict["l2tp"][l2tp_vpn_service]["server_ip_list"].append(j.address)
-
+            try:
+                result = dns.resolver.resolve(server)
+                for i in result.response.answer:
+                    for j in i.items:
+                        if j.rdtype == 1:  # 加判断，不然会出现AttributeError: 'CNAME' object has no attribute 'address'
+                            VPN_dict["l2tp"][l2tp_vpn_service]["server_ip_list"].append(j.address)
+            except Exception as ex:
+                print("域名DNS查询失败" + server)
+        # TODO 都失败情况下的异常处理
         VPN_dict["l2tp"][l2tp_vpn_service]["server_ip_list"] = list(
             set(
                 VPN_dict["l2tp"][l2tp_vpn_service]["server_ip_list"]))
@@ -289,25 +292,29 @@ if __name__ == "__main__":
     connection_dict = {"openVPN": {}, "l2tp": {}}
 
     # TASK
-    for service in VPN_dict["openVPN"]:
-        my_task["openVPN"][service] = 500
+    # for service in VPN_dict["openVPN"]:
+    #     my_task["openVPN"][service] = 500
     for service in VPN_dict["l2tp"]:
-        my_task["l2tp"][service] = 500
+        my_task["l2tp"][service] = float("inf")
 
     # route
-    for service in VPN_dict["openVPN"]:
-        random.shuffle(VPN_dict["openVPN"][service]["routes"])
+    # for service in VPN_dict["openVPN"]:
+    #     random.shuffle(VPN_dict["openVPN"][service]["routes"])
     for service in VPN_dict["l2tp"]:
         random.shuffle(VPN_dict["l2tp"][service]["server_ip_list"])
 
     # connection
-    for service in VPN_dict["openVPN"]:
-        connection_dict["openVPN"][service] = 1
+    # for service in VPN_dict["openVPN"]:
+    #     connection_dict["openVPN"][service] = 1
+    # for service in VPN_dict["l2tp"]:
+    #     connection_dict["l2tp"][service] = 1
+
     for service in VPN_dict["l2tp"]:
-        connection_dict["l2tp"][service] = 1
+        connection_dict["l2tp"][service] = VPN_dict["l2tp"][service]["connection"]
+
     print(connection_dict)
     print(my_task)
-    DockerManager(10, connection_dict, my_task, VPN_dict).start()
+    DockerManager(200, connection_dict, my_task, VPN_dict).start()
 
     # for _ in range(config_dict["openVPN"]["global_epoch"]):
     #     for service in VPN_dict["openVPN"]:
